@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanji N4 Flashcard</title>
+
+  <link rel="stylesheet" href="/style.css?v=20260202">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- BACKGROUND -->
+  <div class="bg-image"></div>
+
+  <!-- HEADER -->
+  <header class="top-bar">
+    <div class="brand">Nama Perusahaan</div>
+  </header>
+
+ <!-- FLASHCARD LEFT CENTER -->
+<!-- FLASHCARD LEFT -->
+<div class="flashcard-left">
+  <div class="flashcard-title">Kanji N4 Flashcard</div>
+
+  <button id="flashcardBtn" class="flashcard-text">
+    FLASHCARD <span class="arrow">→</span>
+  </button>
+</div>
+
+
+  <!-- SLIDE PANEL (STRUKTUR & FUNGSI AMAN) -->
+  <div class="slide-panel" id="slidePanel">
+    <div class="panel-header">
+      <h2>Menu Flashcard</h2>
+      <button class="close-btn" id="closePanelBtn">×</button>
+    </div>
+
+    <div class="panel-content">
+      <div class="menu">
+        <button onclick="startNormal()">Mulai Latihan Kanji</button>
+        <button onclick="startRandom()">Test Kanji</button>
+        <button onclick="openList()">Daftar Isi Kanji</button>
+        <button onclick="openVocabFlashcard()">Flashcard Kotoba</button>
+        <button onclick="openVocabList()">Daftar Kosakata Minna no Nihongo I</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/script.js?v=20260202"></script>
+</body>
+</html>
