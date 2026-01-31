@@ -1,0 +1,3067 @@
+{
+  "1": {
+    "kanji": "魚",
+    "yomi": "さかな",
+    "arti": "Ikan"
+  },
+  "2": {
+    "kanji": "肉",
+    "yomi": "にく",
+    "arti": "Daging"
+  },
+  "3": {
+    "kanji": "卵",
+    "yomi": "たまご",
+    "arti": "Telur"
+  },
+  "4": {
+    "kanji": "水",
+    "yomi": "みず",
+    "arti": "Air"
+  },
+  "5": {
+    "kanji": "食べます",
+    "yomi": "たべます",
+    "arti": "Makan"
+  },
+  "6": {
+    "kanji": "飲みます",
+    "yomi": "のみます",
+    "arti": "Minum"
+  },
+  "7": {
+    "kanji": "大きい",
+    "yomi": "おおきい",
+    "arti": "Besar"
+  },
+  "8": {
+    "kanji": "小さい",
+    "yomi": "ちいさい",
+    "arti": "Kecil"
+  },
+  "9": {
+    "kanji": "新しい",
+    "yomi": "あたらしい",
+    "arti": "Baru"
+  },
+  "10": {
+    "kanji": "古い",
+    "yomi": "ふるい",
+    "arti": "Lama, usang"
+  },
+  "11": {
+    "kanji": "～時",
+    "yomi": "～じ",
+    "arti": "~ jam"
+  },
+  "12": {
+    "kanji": "～分",
+    "yomi": "～ふん、ぷん、ぶん",
+    "arti": "~ menit"
+  },
+  "13": {
+    "kanji": "～半",
+    "yomi": "～はん",
+    "arti": "~ setengah"
+  },
+  "14": {
+    "kanji": "月曜日",
+    "yomi": "げつようび",
+    "arti": "Senin"
+  },
+  "15": {
+    "kanji": "火曜日",
+    "yomi": "かようび",
+    "arti": "Selasa"
+  },
+  "16": {
+    "kanji": "水曜日",
+    "yomi": "すいようび",
+    "arti": "Rabo"
+  },
+  "17": {
+    "kanji": "木曜日",
+    "yomi": "もくようび",
+    "arti": "Kamis"
+  },
+  "18": {
+    "kanji": "金曜日",
+    "yomi": "きんようび",
+    "arti": "Jumat"
+  },
+  "19": {
+    "kanji": "土曜日",
+    "yomi": "どようび",
+    "arti": "Sabtu"
+  },
+  "20": {
+    "kanji": "日曜日",
+    "yomi": "にちようび",
+    "arti": "Minggu"
+  },
+  "21": {
+    "kanji": "言います",
+    "yomi": "いいます",
+    "arti": "Berkata"
+  },
+  "22": {
+    "kanji": "話します",
+    "yomi": "はなします",
+    "arti": "Berbicara"
+  },
+  "23": {
+    "kanji": "読みます",
+    "yomi": "よみます",
+    "arti": "Membaca"
+  },
+  "24": {
+    "kanji": "見ます",
+    "yomi": "みます",
+    "arti": "Melihat"
+  },
+  "25": {
+    "kanji": "聞きます",
+    "yomi": "ききます",
+    "arti": "Mendengarkan"
+  },
+  "26": {
+    "kanji": "書きます",
+    "yomi": "かきます",
+    "arti": "Menulis"
+  },
+  "27": {
+    "kanji": "一",
+    "yomi": "いち",
+    "arti": "Satu"
+  },
+  "28": {
+    "kanji": "二",
+    "yomi": "に",
+    "arti": "Dua"
+  },
+  "29": {
+    "kanji": "三",
+    "yomi": "さん",
+    "arti": "Tiga"
+  },
+  "30": {
+    "kanji": "四",
+    "yomi": "よん、し",
+    "arti": "Empat"
+  },
+  "31": {
+    "kanji": "五",
+    "yomi": "ご",
+    "arti": "Lima"
+  },
+  "32": {
+    "kanji": "六",
+    "yomi": "ろく",
+    "arti": "Enam"
+  },
+  "33": {
+    "kanji": "七",
+    "yomi": "なな、しち",
+    "arti": "Tujuh"
+  },
+  "34": {
+    "kanji": "八",
+    "yomi": "はち",
+    "arti": "Delapan"
+  },
+  "35": {
+    "kanji": "九",
+    "yomi": "きゅう",
+    "arti": "Sembilan"
+  },
+  "36": {
+    "kanji": "十",
+    "yomi": "じゅう",
+    "arti": "Sepuluh"
+  },
+  "37": {
+    "kanji": "～年",
+    "yomi": "～ねん",
+    "arti": "~ tahun"
+  },
+  "38": {
+    "kanji": "～月",
+    "yomi": "～がつ",
+    "arti": "~ bulan"
+  },
+  "39": {
+    "kanji": "～日",
+    "yomi": "～にち",
+    "arti": "~ tanggal"
+  },
+  "40": {
+    "kanji": "東",
+    "yomi": "ひがし",
+    "arti": "Timur"
+  },
+  "41": {
+    "kanji": "西",
+    "yomi": "にし",
+    "arti": "Barat"
+  },
+  "42": {
+    "kanji": "南",
+    "yomi": "みなみ",
+    "arti": "Selatan"
+  },
+  "43": {
+    "kanji": "北",
+    "yomi": "きた",
+    "arti": "Utara"
+  },
+  "44": {
+    "kanji": "～口",
+    "yomi": "～ぐち",
+    "arti": "~ pintu"
+  },
+  "45": {
+    "kanji": "東口",
+    "yomi": "ひがしぐち",
+    "arti": "Pintu timur"
+  },
+  "46": {
+    "kanji": "西口",
+    "yomi": "にしぐち",
+    "arti": "Pintu barat"
+  },
+  "47": {
+    "kanji": "南口",
+    "yomi": "みなみぐち",
+    "arti": "Pintu selatan"
+  },
+  "48": {
+    "kanji": "北口",
+    "yomi": "きたぐち",
+    "arti": "Pintu utara"
+  },
+  "49": {
+    "kanji": "買います",
+    "yomi": "かいます",
+    "arti": "Membeli"
+  },
+  "50": {
+    "kanji": "買い物",
+    "yomi": "かいもの",
+    "arti": "Belanja"
+  },
+  "51": {
+    "kanji": "お金",
+    "yomi": "おかね",
+    "arti": "Uang"
+  },
+  "52": {
+    "kanji": "～円",
+    "yomi": "～えん",
+    "arti": "~ yen"
+  },
+  "53": {
+    "kanji": "百",
+    "yomi": "ひゃく",
+    "arti": "100"
+  },
+  "54": {
+    "kanji": "千",
+    "yomi": "せん",
+    "arti": "1000"
+  },
+  "55": {
+    "kanji": "万",
+    "yomi": "まん",
+    "arti": "10000"
+  },
+  "56": {
+    "kanji": "百円",
+    "yomi": "ひゃくえん",
+    "arti": "100 yen"
+  },
+  "57": {
+    "kanji": "千円",
+    "yomi": "せんえん",
+    "arti": "1000 yen"
+  },
+  "58": {
+    "kanji": "一万円",
+    "yomi": "いちまんえん",
+    "arti": "10000 yen"
+  },
+  "59": {
+    "kanji": "行きます",
+    "yomi": "いきます",
+    "arti": "Pergi"
+  },
+  "60": {
+    "kanji": "来ます",
+    "yomi": "きます",
+    "arti": "Datang"
+  },
+  "61": {
+    "kanji": "会います",
+    "yomi": "あいます",
+    "arti": "Bertemu"
+  },
+  "62": {
+    "kanji": "休みます",
+    "yomi": "やすみます",
+    "arti": "Libur,istirahat"
+  },
+  "63": {
+    "kanji": "日本",
+    "yomi": "にほん",
+    "arti": "Jepang"
+  },
+  "64": {
+    "kanji": "東京",
+    "yomi": "とうきょう",
+    "arti": "Tokyo"
+  },
+  "65": {
+    "kanji": "私",
+    "yomi": "わたし",
+    "arti": "Saya"
+  },
+  "66": {
+    "kanji": "父",
+    "yomi": "ちち",
+    "arti": "Ayah"
+  },
+  "67": {
+    "kanji": "母",
+    "yomi": "はは",
+    "arti": "Ibu"
+  },
+  "68": {
+    "kanji": "子供",
+    "yomi": "こども",
+    "arti": "Anak"
+  },
+  "69": {
+    "kanji": "男",
+    "yomi": "おとこ",
+    "arti": "Laki-laki"
+  },
+  "70": {
+    "kanji": "女",
+    "yomi": "おんな",
+    "arti": "Perempuan"
+  },
+  "71": {
+    "kanji": "人",
+    "yomi": "ひと",
+    "arti": "Orang"
+  },
+  "72": {
+    "kanji": "お父さん",
+    "yomi": "おとうさん",
+    "arti": "Ayah (orang lain)"
+  },
+  "73": {
+    "kanji": "お母さん",
+    "yomi": "おかあさん",
+    "arti": "Ibu (orang lain)"
+  },
+  "74": {
+    "kanji": "何人",
+    "yomi": "なんにん",
+    "arti": "Berapa orang?"
+  },
+  "75": {
+    "kanji": "国",
+    "yomi": "くに",
+    "arti": "Negara"
+  },
+  "76": {
+    "kanji": "外国",
+    "yomi": "がいこく",
+    "arti": "Luar negri"
+  },
+  "77": {
+    "kanji": "～語",
+    "yomi": "～ご",
+    "arti": "~ Bahasa"
+  },
+  "78": {
+    "kanji": "日本語",
+    "yomi": "にほんご",
+    "arti": "Bahasa jepang"
+  },
+  "79": {
+    "kanji": "英語",
+    "yomi": "えいご",
+    "arti": "Bahasa inggris"
+  },
+  "80": {
+    "kanji": "中国語",
+    "yomi": "ちゅうごくご",
+    "arti": "Bahasa china"
+  },
+  "81": {
+    "kanji": "～人",
+    "yomi": "～じん／～にん",
+    "arti": "~ orang"
+  },
+  "82": {
+    "kanji": "日本人",
+    "yomi": "にほんじん",
+    "arti": "Orang jepang"
+  },
+  "83": {
+    "kanji": "好き",
+    "yomi": "すき",
+    "arti": "Suka"
+  },
+  "84": {
+    "kanji": "本",
+    "yomi": "ほん",
+    "arti": "Buku"
+  },
+  "85": {
+    "kanji": "読書",
+    "yomi": "どくしょ",
+    "arti": "Bacaan"
+  },
+  "86": {
+    "kanji": "何",
+    "yomi": "なに",
+    "arti": "Apa?"
+  },
+  "87": {
+    "kanji": "春",
+    "yomi": "はる",
+    "arti": "Musim semi"
+  },
+  "88": {
+    "kanji": "夏",
+    "yomi": "なつ",
+    "arti": "Musim panas"
+  },
+  "89": {
+    "kanji": "秋",
+    "yomi": "あき",
+    "arti": "Musim gugur"
+  },
+  "90": {
+    "kanji": "冬",
+    "yomi": "ふゆ",
+    "arti": "Musim dingin"
+  },
+  "91": {
+    "kanji": "今",
+    "yomi": "いま",
+    "arti": "Sekarang"
+  },
+  "92": {
+    "kanji": "花",
+    "yomi": "はな",
+    "arti": "Bunga"
+  },
+  "93": {
+    "kanji": "海",
+    "yomi": "うみ",
+    "arti": "Laut"
+  },
+  "94": {
+    "kanji": "山",
+    "yomi": "やま",
+    "arti": "Gunung"
+  },
+  "95": {
+    "kanji": "川",
+    "yomi": "かわ",
+    "arti": "Sungai"
+  },
+  "96": {
+    "kanji": "今日",
+    "yomi": "きょう",
+    "arti": "Hari ini"
+  },
+  "97": {
+    "kanji": "天気",
+    "yomi": "てんき",
+    "arti": "Cuaca"
+  },
+  "98": {
+    "kanji": "晴れ",
+    "yomi": "はれ",
+    "arti": "Cerah"
+  },
+  "99": {
+    "kanji": "雨",
+    "yomi": "あめ",
+    "arti": "Hujan"
+  },
+  "100": {
+    "kanji": "雪",
+    "yomi": "ゆき",
+    "arti": "Salju"
+  },
+  "101": {
+    "kanji": "雲",
+    "yomi": "くも",
+    "arti": "Mendung"
+  },
+  "102": {
+    "kanji": "風",
+    "yomi": "かぜ",
+    "arti": "Angin"
+  },
+  "103": {
+    "kanji": "空",
+    "yomi": "そら",
+    "arti": "Langit"
+  },
+  "104": {
+    "kanji": "町",
+    "yomi": "まち",
+    "arti": "Kota"
+  },
+  "105": {
+    "kanji": "店",
+    "yomi": "みせ",
+    "arti": "Toko"
+  },
+  "106": {
+    "kanji": "人気",
+    "yomi": "にんき",
+    "arti": "Popular itas, ketenaran"
+  },
+  "107": {
+    "kanji": "多い",
+    "yomi": "おおい",
+    "arti": "Banyak"
+  },
+  "108": {
+    "kanji": "少ない",
+    "yomi": "すくない",
+    "arti": "Sedikit"
+  },
+  "109": {
+    "kanji": "高い",
+    "yomi": "たかい",
+    "arti": "Mahal"
+  },
+  "110": {
+    "kanji": "安い",
+    "yomi": "やすい",
+    "arti": "Murah"
+  },
+  "111": {
+    "kanji": "広い",
+    "yomi": "ひろい",
+    "arti": "Luas"
+  },
+  "112": {
+    "kanji": "道",
+    "yomi": "みち",
+    "arti": "Jalan"
+  },
+  "113": {
+    "kanji": "通り",
+    "yomi": "とおり",
+    "arti": "Jalan"
+  },
+  "114": {
+    "kanji": "右",
+    "yomi": "みぎ",
+    "arti": "Kanan"
+  },
+  "115": {
+    "kanji": "左",
+    "yomi": "ひだり",
+    "arti": "Kiri"
+  },
+  "116": {
+    "kanji": "一つ",
+    "yomi": "ひとつ",
+    "arti": "Satu buah"
+  },
+  "117": {
+    "kanji": "二つ",
+    "yomi": "ふたつ",
+    "arti": "Dua buah"
+  },
+  "118": {
+    "kanji": "赤い",
+    "yomi": "あかい",
+    "arti": "Merah"
+  },
+  "119": {
+    "kanji": "青い",
+    "yomi": "あおい",
+    "arti": "Biru"
+  },
+  "120": {
+    "kanji": "黒い",
+    "yomi": "くろい",
+    "arti": "Hitam"
+  },
+  "121": {
+    "kanji": "白い",
+    "yomi": "しろい",
+    "arti": "Putih"
+  },
+  "122": {
+    "kanji": "時間",
+    "yomi": "じかん",
+    "arti": "Waktu"
+  },
+  "123": {
+    "kanji": "場所",
+    "yomi": "ばしょ",
+    "arti": "Tempat"
+  },
+  "124": {
+    "kanji": "駅",
+    "yomi": "えき",
+    "arti": "Stasiun"
+  },
+  "125": {
+    "kanji": "日",
+    "yomi": "ひ",
+    "arti": "Matahari"
+  },
+  "126": {
+    "kanji": "出かけます",
+    "yomi": "でかけます",
+    "arti": "Meninggalkan rumah"
+  },
+  "127": {
+    "kanji": "待ちます",
+    "yomi": "まちます",
+    "arti": "Menunggu"
+  },
+  "128": {
+    "kanji": "止まります",
+    "yomi": "とまります",
+    "arti": "Berhenti"
+  },
+  "129": {
+    "kanji": "食事",
+    "yomi": "しょくじ",
+    "arti": "Makan bersama"
+  },
+  "130": {
+    "kanji": "仕事",
+    "yomi": "しごと",
+    "arti": "Pekerjaan"
+  },
+  "131": {
+    "kanji": "前",
+    "yomi": "まえ",
+    "arti": "Sebelum"
+  },
+  "132": {
+    "kanji": "後",
+    "yomi": "あと",
+    "arti": "Setelah"
+  },
+  "133": {
+    "kanji": "朝",
+    "yomi": "あさ",
+    "arti": "Pagi"
+  },
+  "134": {
+    "kanji": "昼",
+    "yomi": "ひる",
+    "arti": "Siang"
+  },
+  "135": {
+    "kanji": "夜",
+    "yomi": "よる",
+    "arti": "Malam"
+  },
+  "136": {
+    "kanji": "乗ります",
+    "yomi": "のります",
+    "arti": "Naik"
+  },
+  "137": {
+    "kanji": "学校",
+    "yomi": "がっこう",
+    "arti": "Sekolahan"
+  },
+  "138": {
+    "kanji": "小学校",
+    "yomi": "しょうがっこう",
+    "arti": "SD"
+  },
+  "139": {
+    "kanji": "中学校",
+    "yomi": "ちゅうがっこう",
+    "arti": "SMP"
+  },
+  "140": {
+    "kanji": "高校",
+    "yomi": "こうこう",
+    "arti": "SMA"
+  },
+  "141": {
+    "kanji": "大学",
+    "yomi": "だいがく",
+    "arti": "Universitas"
+  },
+  "142": {
+    "kanji": "先生",
+    "yomi": "せんせい",
+    "arti": "Guru"
+  },
+  "143": {
+    "kanji": "学生",
+    "yomi": "がくせい",
+    "arti": "Murid , siswa"
+  },
+  "144": {
+    "kanji": "～年生",
+    "yomi": "～ねんせい",
+    "arti": "Kelas ~"
+  },
+  "145": {
+    "kanji": "勉強",
+    "yomi": "べんきょう",
+    "arti": "Pelajaran"
+  },
+  "146": {
+    "kanji": "文化",
+    "yomi": "ぶんか",
+    "arti": "Kebudayaan"
+  },
+  "147": {
+    "kanji": "音楽",
+    "yomi": "おんがく",
+    "arti": "Musik"
+  },
+  "148": {
+    "kanji": "旅行",
+    "yomi": "りょこう",
+    "arti": "Wisata"
+  },
+  "149": {
+    "kanji": "留学",
+    "yomi": "りゅうがく",
+    "arti": "Belajar di luar negri"
+  },
+  "150": {
+    "kanji": "友達",
+    "yomi": "ともだち",
+    "arti": "Teman"
+  },
+  "151": {
+    "kanji": "楽しい",
+    "yomi": "たのしい",
+    "arti": "Gembira"
+  },
+  "152": {
+    "kanji": "週",
+    "yomi": "しゅう",
+    "arti": "Minggu"
+  },
+  "153": {
+    "kanji": "～回",
+    "yomi": "～かい",
+    "arti": "~kali"
+  },
+  "154": {
+    "kanji": "食べ物",
+    "yomi": "たべもの",
+    "arti": "Makanan"
+  },
+  "155": {
+    "kanji": "飲物",
+    "yomi": "のみもの",
+    "arti": "Minuman"
+  },
+  "156": {
+    "kanji": "お茶",
+    "yomi": "おちゃ",
+    "arti": "Teh hijau"
+  },
+  "157": {
+    "kanji": "お酒",
+    "yomi": "おさけ",
+    "arti": "Sake"
+  },
+  "158": {
+    "kanji": "作ります",
+    "yomi": "つくります",
+    "arti": "Membuat"
+  },
+  "159": {
+    "kanji": "持っていきます",
+    "yomi": "もっていきます",
+    "arti": "Membawa pergi"
+  },
+  "160": {
+    "kanji": "お願いします",
+    "yomi": "おねがいします",
+    "arti": "Tolong"
+  },
+  "161": {
+    "kanji": "料理",
+    "yomi": "りょうり",
+    "arti": "Masakan"
+  },
+  "162": {
+    "kanji": "味",
+    "yomi": "あじ",
+    "arti": "Rasa"
+  },
+  "163": {
+    "kanji": "色",
+    "yomi": "いろ",
+    "arti": "Warna"
+  },
+  "164": {
+    "kanji": "野菜",
+    "yomi": "やさい",
+    "arti": "Sayuran"
+  },
+  "165": {
+    "kanji": "少し",
+    "yomi": "すこし",
+    "arti": "Sedikit"
+  },
+  "166": {
+    "kanji": "中",
+    "yomi": "なか",
+    "arti": "Dalam"
+  },
+  "167": {
+    "kanji": "入っています",
+    "yomi": "はいっています",
+    "arti": "Masuk"
+  },
+  "168": {
+    "kanji": "会社",
+    "yomi": "かいしゃ",
+    "arti": "Perusahaan"
+  },
+  "169": {
+    "kanji": "本社",
+    "yomi": "ほんしゃ",
+    "arti": "Kantor pusat"
+  },
+  "170": {
+    "kanji": "支社",
+    "yomi": "ししゃ",
+    "arti": "Kantor cabang"
+  },
+  "171": {
+    "kanji": "出張",
+    "yomi": "しゅっちょう",
+    "arti": "Dinas luar kota"
+  },
+  "172": {
+    "kanji": "空港",
+    "yomi": "くうこう",
+    "arti": "Bandara"
+  },
+  "173": {
+    "kanji": "出発",
+    "yomi": "しゅっぱつ",
+    "arti": "Keberangkatan"
+  },
+  "174": {
+    "kanji": "到着",
+    "yomi": "とうちゃく",
+    "arti": "Kedatangan"
+  },
+  "175": {
+    "kanji": "午前",
+    "yomi": "ごぜん",
+    "arti": "AM"
+  },
+  "176": {
+    "kanji": "午後",
+    "yomi": "ごご",
+    "arti": "PM"
+  },
+  "177": {
+    "kanji": "自分",
+    "yomi": "じぶん",
+    "arti": "Sendiri"
+  },
+  "178": {
+    "kanji": "電話",
+    "yomi": "でんわ",
+    "arti": "Telepon"
+  },
+  "179": {
+    "kanji": "電気",
+    "yomi": "でんき",
+    "arti": "Listrik"
+  },
+  "180": {
+    "kanji": "電車",
+    "yomi": "でんしゃ",
+    "arti": "Kereta"
+  },
+  "181": {
+    "kanji": "車",
+    "yomi": "くるま",
+    "arti": "Mobil"
+  },
+  "182": {
+    "kanji": "送ります",
+    "yomi": "おくります",
+    "arti": "Mengirim"
+  },
+  "183": {
+    "kanji": "使います",
+    "yomi": "つかいます",
+    "arti": "Menggunakan"
+  },
+  "184": {
+    "kanji": "借ります",
+    "yomi": "かります",
+    "arti": "Meminjam"
+  },
+  "185": {
+    "kanji": "体",
+    "yomi": "からだ",
+    "arti": "Badan"
+  },
+  "186": {
+    "kanji": "頭",
+    "yomi": "あたま",
+    "arti": "Kepala"
+  },
+  "187": {
+    "kanji": "目",
+    "yomi": "め",
+    "arti": "Mata"
+  },
+  "188": {
+    "kanji": "口",
+    "yomi": "くち",
+    "arti": "Mulut"
+  },
+  "189": {
+    "kanji": "耳",
+    "yomi": "みみ",
+    "arti": "Telinga"
+  },
+  "190": {
+    "kanji": "手",
+    "yomi": "て",
+    "arti": "Tangan"
+  },
+  "191": {
+    "kanji": "足",
+    "yomi": "あし",
+    "arti": "Kaki"
+  },
+  "192": {
+    "kanji": "上",
+    "yomi": "うえ",
+    "arti": "Atas"
+  },
+  "193": {
+    "kanji": "下",
+    "yomi": "した",
+    "arti": "Bawah"
+  },
+  "194": {
+    "kanji": "毎～",
+    "yomi": "まい～",
+    "arti": "~ setiap"
+  },
+  "195": {
+    "kanji": "毎朝",
+    "yomi": "まいあさ",
+    "arti": "setiap pagi"
+  },
+  "196": {
+    "kanji": "毎日",
+    "yomi": "まいにち",
+    "arti": "Setiap hari"
+  },
+  "197": {
+    "kanji": "週末",
+    "yomi": "しゅうまつ",
+    "arti": "Akhir pekan"
+  },
+  "198": {
+    "kanji": "元気",
+    "yomi": "げんき",
+    "arti": "Sehat"
+  },
+  "199": {
+    "kanji": "外",
+    "yomi": "そと",
+    "arti": "Luar"
+  },
+  "200": {
+    "kanji": "起きます",
+    "yomi": "おきます",
+    "arti": "Bangun tidur"
+  },
+  "201": {
+    "kanji": "歩きます",
+    "yomi": "あるきます",
+    "arti": "Berjalan"
+  },
+  "202": {
+    "kanji": "走ります",
+    "yomi": "はしります",
+    "arti": "Berlari"
+  },
+  "203": {
+    "kanji": "泳ぎます",
+    "yomi": "およぎます",
+    "arti": "Berenang"
+  },
+  "204": {
+    "kanji": "お祝い",
+    "yomi": "おいわい",
+    "arti": "Perayaan"
+  },
+  "205": {
+    "kanji": "誕生日",
+    "yomi": "たんじょうび",
+    "arti": "Ulang tahun"
+  },
+  "206": {
+    "kanji": "結婚",
+    "yomi": "けっこん",
+    "arti": "Pernikahan"
+  },
+  "207": {
+    "kanji": "絵",
+    "yomi": "え",
+    "arti": "Gambar , lukisan"
+  },
+  "208": {
+    "kanji": "写真",
+    "yomi": "しゃしん",
+    "arti": "Foto"
+  },
+  "209": {
+    "kanji": "時計",
+    "yomi": "とけい",
+    "arti": "Jam"
+  },
+  "210": {
+    "kanji": "着ます",
+    "yomi": "きます",
+    "arti": "Memakai pakaian"
+  },
+  "211": {
+    "kanji": "先～",
+    "yomi": "せん～",
+    "arti": "~lalu"
+  },
+  "212": {
+    "kanji": "先週",
+    "yomi": "せんしゅう",
+    "arti": "Minggu lalu"
+  },
+  "213": {
+    "kanji": "今月",
+    "yomi": "こんげつ",
+    "arti": "Bulan ini"
+  },
+  "214": {
+    "kanji": "来年",
+    "yomi": "らいねん",
+    "arti": "Tahun depan"
+  },
+  "215": {
+    "kanji": "今年",
+    "yomi": "ことし",
+    "arti": "Tahun ini"
+  },
+  "216": {
+    "kanji": "去年",
+    "yomi": "きょねん",
+    "arti": "Tahun lalu"
+  },
+  "217": {
+    "kanji": "家",
+    "yomi": "いえ",
+    "arti": "Rumah"
+  },
+  "218": {
+    "kanji": "思います",
+    "yomi": "おもいます",
+    "arti": "Mengira"
+  },
+  "219": {
+    "kanji": "自己紹介",
+    "yomi": "じこしょうかい",
+    "arti": "Perkenalan"
+  },
+  "220": {
+    "kanji": "名前",
+    "yomi": "なまえ",
+    "arti": "Nama"
+  },
+  "221": {
+    "kanji": "意味",
+    "yomi": "いみ",
+    "arti": "Arti"
+  },
+  "222": {
+    "kanji": "本屋",
+    "yomi": "ほんや",
+    "arti": "Toko buku"
+  },
+  "223": {
+    "kanji": "近く",
+    "yomi": "ちかく",
+    "arti": "Dekat"
+  },
+  "224": {
+    "kanji": "住みます",
+    "yomi": "すみます",
+    "arti": "Tinggal"
+  },
+  "225": {
+    "kanji": "働きます",
+    "yomi": "はたらきます",
+    "arti": "Bekerja"
+  },
+  "226": {
+    "kanji": "～番目",
+    "yomi": "～ばんめ",
+    "arti": "Urutan yang ~"
+  },
+  "227": {
+    "kanji": "兄",
+    "yomi": "あに",
+    "arti": "Kakak laki2 (sendiri)"
+  },
+  "228": {
+    "kanji": "兄いさん",
+    "yomi": "おにいさん",
+    "arti": "Kakak laki2 (orang lain)"
+  },
+  "229": {
+    "kanji": "姉",
+    "yomi": "あね",
+    "arti": "Kakak perempuan (sendiri)"
+  },
+  "230": {
+    "kanji": "お姉さん",
+    "yomi": "おねえさん",
+    "arti": "Kakak perempuan (orang lain)"
+  },
+  "231": {
+    "kanji": "弟",
+    "yomi": "おとうと",
+    "arti": "Adik laki2 (sendiri)"
+  },
+  "232": {
+    "kanji": "妹",
+    "yomi": "いもうと",
+    "arti": "Adik perempuan (sendiri)"
+  },
+  "233": {
+    "kanji": "家族",
+    "yomi": "かぞく",
+    "arti": "Keluarga"
+  },
+  "234": {
+    "kanji": "長い",
+    "yomi": "ながい",
+    "arti": "Panjang"
+  },
+  "235": {
+    "kanji": "短い",
+    "yomi": "みじかい",
+    "arti": "Pendek"
+  },
+  "236": {
+    "kanji": "低い",
+    "yomi": "ひくい",
+    "arti": "Rendah"
+  },
+  "237": {
+    "kanji": "上手",
+    "yomi": "じょうず",
+    "arti": "Pandai"
+  },
+  "238": {
+    "kanji": "歌",
+    "yomi": "うた",
+    "arti": "Lagu"
+  },
+  "239": {
+    "kanji": "歌います",
+    "yomi": "うたいます",
+    "arti": "Menyanyi"
+  },
+  "240": {
+    "kanji": "客",
+    "yomi": "きゃく",
+    "arti": "Tamu"
+  },
+  "241": {
+    "kanji": "注文",
+    "yomi": "ちゅうもん",
+    "arti": "Pesanan"
+  },
+  "242": {
+    "kanji": "洋食",
+    "yomi": "ようしょく",
+    "arti": "Makanan barat"
+  },
+  "243": {
+    "kanji": "和食",
+    "yomi": "わしょく",
+    "arti": "Makanan jepang"
+  },
+  "244": {
+    "kanji": "牛肉",
+    "yomi": "ぎゅうにく",
+    "arti": "Daging sapi"
+  },
+  "245": {
+    "kanji": "地方",
+    "yomi": "ちほう",
+    "arti": "Daerah ,wilayah"
+  },
+  "246": {
+    "kanji": "有名",
+    "yomi": "ゆうめい",
+    "arti": "Terkenal"
+  },
+  "247": {
+    "kanji": "生",
+    "yomi": "なま",
+    "arti": "Mentah"
+  },
+  "248": {
+    "kanji": "冷たい",
+    "yomi": "つめたい",
+    "arti": "Dingin (benda)"
+  },
+  "249": {
+    "kanji": "ご飯",
+    "yomi": "ごはん",
+    "arti": "Nasi"
+  },
+  "250": {
+    "kanji": "塩",
+    "yomi": "しお",
+    "arti": "Garam"
+  },
+  "251": {
+    "kanji": "全部",
+    "yomi": "ぜんぶ",
+    "arti": "Semua"
+  },
+  "252": {
+    "kanji": "～方",
+    "yomi": "～かた",
+    "arti": "Cara~"
+  },
+  "253": {
+    "kanji": "食べ方",
+    "yomi": "たべかた",
+    "arti": "Cara makan"
+  },
+  "254": {
+    "kanji": "熱い",
+    "yomi": "あつい",
+    "arti": "Panas"
+  },
+  "255": {
+    "kanji": "苦手",
+    "yomi": "にがて",
+    "arti": "Susah, berat ,tidak begitu suka"
+  },
+  "256": {
+    "kanji": "入れます",
+    "yomi": "いれます",
+    "arti": "Memasukkan"
+  },
+  "257": {
+    "kanji": "木",
+    "yomi": "き",
+    "arti": "Pohon"
+  },
+  "258": {
+    "kanji": "森",
+    "yomi": "もり",
+    "arti": "Hutan"
+  },
+  "259": {
+    "kanji": "島",
+    "yomi": "しま",
+    "arti": "Pulau"
+  },
+  "260": {
+    "kanji": "自然",
+    "yomi": "しぜん",
+    "arti": "Alam"
+  },
+  "261": {
+    "kanji": "船",
+    "yomi": "ふね",
+    "arti": "Kapal"
+  },
+  "262": {
+    "kanji": "暑い",
+    "yomi": "あつい",
+    "arti": "Panas"
+  },
+  "263": {
+    "kanji": "帰ります",
+    "yomi": "かえります",
+    "arti": "Pulang"
+  },
+  "264": {
+    "kanji": "予約します",
+    "yomi": "よやくします",
+    "arti": "Memesan"
+  },
+  "265": {
+    "kanji": "運転します",
+    "yomi": "うんてんします",
+    "arti": "Menyetir"
+  },
+  "266": {
+    "kanji": "～中",
+    "yomi": "～ちゅう",
+    "arti": "／～じゅう Sedang/dalam ~"
+  },
+  "267": {
+    "kanji": "旅行中",
+    "yomi": "りょこうちゅう",
+    "arti": "Sedang wisata"
+  },
+  "268": {
+    "kanji": "観光地",
+    "yomi": "かんこうち",
+    "arti": "Tempat wisata"
+  },
+  "269": {
+    "kanji": "女性",
+    "yomi": "じょせい",
+    "arti": "Wanita"
+  },
+  "270": {
+    "kanji": "男性",
+    "yomi": "だんせい",
+    "arti": "Pria"
+  },
+  "271": {
+    "kanji": "動物",
+    "yomi": "どうぶつ",
+    "arti": "Hewan"
+  },
+  "272": {
+    "kanji": "空気",
+    "yomi": "くうき",
+    "arti": "Udara"
+  },
+  "273": {
+    "kanji": "料金",
+    "yomi": "りょうきん",
+    "arti": "Biaya / tarif"
+  },
+  "274": {
+    "kanji": "無料",
+    "yomi": "むりょう",
+    "arti": "Gratis"
+  },
+  "275": {
+    "kanji": "明るい",
+    "yomi": "あかるい",
+    "arti": "Terang"
+  },
+  "276": {
+    "kanji": "便利",
+    "yomi": "べんり",
+    "arti": "Praktis"
+  },
+  "277": {
+    "kanji": "一年中",
+    "yomi": "いちねんじゅう",
+    "arti": "Dalam satu tahun"
+  },
+  "278": {
+    "kanji": "受付",
+    "yomi": "うけつけ",
+    "arti": "Penerima tamu"
+  },
+  "279": {
+    "kanji": "広場",
+    "yomi": "ひろば",
+    "arti": "Lapangan"
+  },
+  "280": {
+    "kanji": "問題",
+    "yomi": "もんだい",
+    "arti": "Soal, masalah"
+  },
+  "281": {
+    "kanji": "同じ",
+    "yomi": "おなじ",
+    "arti": "Sama"
+  },
+  "282": {
+    "kanji": "集まります",
+    "yomi": "あつまります",
+    "arti": "Berkumpul"
+  },
+  "283": {
+    "kanji": "始まります",
+    "yomi": "はじまります",
+    "arti": "Mulai"
+  },
+  "284": {
+    "kanji": "終わります",
+    "yomi": "おわります",
+    "arti": "Selesai"
+  },
+  "285": {
+    "kanji": "中止します",
+    "yomi": "ちゅうしします",
+    "arti": "Mengurungkan ,membatalkan"
+  },
+  "286": {
+    "kanji": "教えます",
+    "yomi": "おしえます",
+    "arti": "Memberitahu"
+  },
+  "287": {
+    "kanji": "祭り",
+    "yomi": "まつり",
+    "arti": "Perayaan"
+  },
+  "288": {
+    "kanji": "日本祭り",
+    "yomi": "にほんまつり",
+    "arti": "Perayaan jepang"
+  },
+  "289": {
+    "kanji": "会場",
+    "yomi": "かいじょう",
+    "arti": "Ruang pertemuan"
+  },
+  "290": {
+    "kanji": "入場料",
+    "yomi": "にゅうじょうりょう",
+    "arti": "Tarif masuk"
+  },
+  "291": {
+    "kanji": "参加者",
+    "yomi": "さんかしゃ",
+    "arti": "Peserta"
+  },
+  "292": {
+    "kanji": "急ぎます",
+    "yomi": "いそぎます",
+    "arti": "Buru-buru"
+  },
+  "293": {
+    "kanji": "決めます",
+    "yomi": "きめます",
+    "arti": "Menentukan"
+  },
+  "294": {
+    "kanji": "知ります",
+    "yomi": "しります",
+    "arti": "Kenal, tahu"
+  },
+  "295": {
+    "kanji": "正月",
+    "yomi": "しょうがつ",
+    "arti": "Tahun baru"
+  },
+  "296": {
+    "kanji": "年末",
+    "yomi": "ねんまつ",
+    "arti": "Akhir tahun"
+  },
+  "297": {
+    "kanji": "年始",
+    "yomi": "ねんし",
+    "arti": "Awal tahun"
+  },
+  "298": {
+    "kanji": "親",
+    "yomi": "おや",
+    "arti": "Orang tua"
+  },
+  "299": {
+    "kanji": "忙しい",
+    "yomi": "いそがしい",
+    "arti": "Sibuk"
+  },
+  "300": {
+    "kanji": "特別",
+    "yomi": "とくべつ",
+    "arti": "Istimewa, special"
+  },
+  "301": {
+    "kanji": "帰国",
+    "yomi": "きこく",
+    "arti": "Pulang ke negara"
+  },
+  "302": {
+    "kanji": "喜びます",
+    "yomi": "よろこびます",
+    "arti": "Merasa senang/gembira"
+  },
+  "303": {
+    "kanji": "幸せ",
+    "yomi": "しあわせ",
+    "arti": "Bahagia"
+  },
+  "304": {
+    "kanji": "成長",
+    "yomi": "せいちょう",
+    "arti": "Pertumbuhan, perkembangan"
+  },
+  "305": {
+    "kanji": "長生き",
+    "yomi": "ながいき",
+    "arti": "Umur panjang, hidup lama"
+  },
+  "306": {
+    "kanji": "願い事",
+    "yomi": "ねがいこと",
+    "arti": "Keinginan, kemauan, harapan"
+  },
+  "307": {
+    "kanji": "合格",
+    "yomi": "ごうかく",
+    "arti": "Lulus"
+  },
+  "308": {
+    "kanji": "試験",
+    "yomi": "しけん",
+    "arti": "Ujian"
+  },
+  "309": {
+    "kanji": "大人",
+    "yomi": "おとな",
+    "arti": "Orang Dewasa"
+  },
+  "310": {
+    "kanji": "～式（成人式）",
+    "yomi": "～しき（せいじんしき）",
+    "arti": "Upacara ~(upacara kedewasaan)"
+  },
+  "311": {
+    "kanji": "～市（さいたま市）",
+    "yomi": "～し（さいたまし）",
+    "arti": "Kota~(kota saitama)"
+  },
+  "312": {
+    "kanji": "商品",
+    "yomi": "しょうひん",
+    "arti": "Barang dagangan"
+  },
+  "313": {
+    "kanji": "電気製品",
+    "yomi": "でんきせいひん",
+    "arti": "Peralatan listrik"
+  },
+  "314": {
+    "kanji": "電子レンジ",
+    "yomi": "でんしレンジ",
+    "arti": "Oven"
+  },
+  "315": {
+    "kanji": "～機（そうじ機）",
+    "yomi": "～き（そうじき）",
+    "arti": "Mesin~(mesin penghisap debu)"
+  },
+  "316": {
+    "kanji": "店員",
+    "yomi": "てんいん",
+    "arti": "Penjaga toko"
+  },
+  "317": {
+    "kanji": "調子",
+    "yomi": "ちょうし",
+    "arti": "Keadaan, kondisi"
+  },
+  "318": {
+    "kanji": "悪い",
+    "yomi": "わるい",
+    "arti": "Jelek"
+  },
+  "319": {
+    "kanji": "動きます",
+    "yomi": "うごきます",
+    "arti": "Bergerak"
+  },
+  "320": {
+    "kanji": "考えます",
+    "yomi": "かんがえます",
+    "arti": "Berfikir"
+  },
+  "321": {
+    "kanji": "音",
+    "yomi": "おと",
+    "arti": "Suara"
+  },
+  "322": {
+    "kanji": "出ます",
+    "yomi": "でます",
+    "arti": "Keluar"
+  },
+  "323": {
+    "kanji": "機能",
+    "yomi": "きのう",
+    "arti": "Fungsi"
+  },
+  "324": {
+    "kanji": "省エネ",
+    "yomi": "しょうエネ",
+    "arti": "Penghematan energy"
+  },
+  "325": {
+    "kanji": "日本製",
+    "yomi": "にほんせい",
+    "arti": "Produk/buatan jepang"
+  },
+  "326": {
+    "kanji": "重い",
+    "yomi": "おもい",
+    "arti": "Berat"
+  },
+  "327": {
+    "kanji": "軽い",
+    "yomi": "かるい",
+    "arti": "Ringan"
+  },
+  "328": {
+    "kanji": "静か",
+    "yomi": "しずか",
+    "arti": "Tenang"
+  },
+  "329": {
+    "kanji": "早く",
+    "yomi": "はやく",
+    "arti": "Cepat"
+  },
+  "330": {
+    "kanji": "方（こっちの方）",
+    "yomi": "ほう（こっちのほう）",
+    "arti": "Arah(arah disini)"
+  },
+  "331": {
+    "kanji": "洗います",
+    "yomi": "あらいます",
+    "arti": "Mencuci"
+  },
+  "332": {
+    "kanji": "満足します",
+    "yomi": "まんぞくします",
+    "arti": "Puas, merasa puas"
+  },
+  "333": {
+    "kanji": "京都",
+    "yomi": "きょうと",
+    "arti": "Kyoto"
+  },
+  "334": {
+    "kanji": "神社",
+    "yomi": "じんじゃ",
+    "arti": "Kuil sinto"
+  },
+  "335": {
+    "kanji": "お寺",
+    "yomi": "おてら",
+    "arti": "Kuil"
+  },
+  "336": {
+    "kanji": "仏教",
+    "yomi": "ぶっきょう",
+    "arti": "Agama budha"
+  },
+  "337": {
+    "kanji": "歴史",
+    "yomi": "れきし",
+    "arti": "Sejarah"
+  },
+  "338": {
+    "kanji": "世界",
+    "yomi": "せかい",
+    "arti": "Dunia"
+  },
+  "339": {
+    "kanji": "中心",
+    "yomi": "ちゅうしん",
+    "arti": "Pusat"
+  },
+  "340": {
+    "kanji": "～世紀（８世紀）",
+    "yomi": "～せいき（はっせいき）",
+    "arti": "Abad~"
+  },
+  "341": {
+    "kanji": "～的",
+    "yomi": "～てき",
+    "arti": "Berbau~ / ke~ an"
+  },
+  "342": {
+    "kanji": "日本的",
+    "yomi": "にほんてき",
+    "arti": "Berbau jepang"
+  },
+  "343": {
+    "kanji": "歴史的",
+    "yomi": "れきしてき",
+    "arti": "Bersejarah"
+  },
+  "344": {
+    "kanji": "飲食",
+    "yomi": "いんしょく",
+    "arti": "Makan minum"
+  },
+  "345": {
+    "kanji": "禁止",
+    "yomi": "きんし",
+    "arti": "Larangan"
+  },
+  "346": {
+    "kanji": "説明",
+    "yomi": "せつめい",
+    "arti": "Penjelasan"
+  },
+  "347": {
+    "kanji": "道具",
+    "yomi": "どうぐ",
+    "arti": "Peralatan"
+  },
+  "348": {
+    "kanji": "博物館",
+    "yomi": "はくぶつかん",
+    "arti": "Museum"
+  },
+  "349": {
+    "kanji": "必要",
+    "yomi": "ひつよう",
+    "arti": "Keperluan, kebutuhan"
+  },
+  "350": {
+    "kanji": "～階（２階）",
+    "yomi": "～かい（にかい）",
+    "arti": "Lantai ~ ( lantai 2 )"
+  },
+  "351": {
+    "kanji": "油",
+    "yomi": "あぶら",
+    "arti": "Minyak , oli"
+  },
+  "352": {
+    "kanji": "紙",
+    "yomi": "かみ",
+    "arti": "Kertas"
+  },
+  "353": {
+    "kanji": "温度",
+    "yomi": "おんど",
+    "arti": "Suhu , derajat"
+  },
+  "354": {
+    "kanji": "活動",
+    "yomi": "かつどう",
+    "arti": "Kegiatan , aktivitas"
+  },
+  "355": {
+    "kanji": "会議室",
+    "yomi": "かいぎしつ",
+    "arti": "Ruang rapat"
+  },
+  "356": {
+    "kanji": "寒い",
+    "yomi": "さむい",
+    "arti": "Dingin ( suhu )"
+  },
+  "357": {
+    "kanji": "出します",
+    "yomi": "だします",
+    "arti": "Mengeluarkan , mengirim (surat )"
+  },
+  "358": {
+    "kanji": "～度（２８度）",
+    "yomi": "～ど（にじゅうはちど）",
+    "arti": "~derajat ( 28 derajat )"
+  },
+  "359": {
+    "kanji": "～点（１００点）",
+    "yomi": "～てん（１００てん）",
+    "arti": "Nilai ~ ( nilai 100 )"
+  },
+  "360": {
+    "kanji": "服",
+    "yomi": "ふく",
+    "arti": "Baju , pakaian"
+  },
+  "361": {
+    "kanji": "自転車",
+    "yomi": "じてんしゃ",
+    "arti": "Sepeda"
+  },
+  "362": {
+    "kanji": "自動車",
+    "yomi": "じどうしゃ",
+    "arti": "Mobil"
+  },
+  "363": {
+    "kanji": "売ります",
+    "yomi": "うります",
+    "arti": "Menjual"
+  },
+  "364": {
+    "kanji": "貸します",
+    "yomi": "かします",
+    "arti": "Meminjamkan"
+  },
+  "365": {
+    "kanji": "返します",
+    "yomi": "かえします",
+    "arti": "Mengembalikan"
+  },
+  "366": {
+    "kanji": "変わります",
+    "yomi": "かわります",
+    "arti": "Mengganti"
+  },
+  "367": {
+    "kanji": "～用",
+    "yomi": "～よう",
+    "arti": "Urusan , keperluan ~"
+  },
+  "368": {
+    "kanji": "子供用",
+    "yomi": "こどもよう",
+    "arti": "Urusan anak"
+  },
+  "369": {
+    "kanji": "人生",
+    "yomi": "じんせい",
+    "arti": "Kehidupan"
+  },
+  "370": {
+    "kanji": "歌手",
+    "yomi": "かしゅ",
+    "arti": "Penyanyi"
+  },
+  "371": {
+    "kanji": "選手",
+    "yomi": "せんしゅ",
+    "arti": "Atlit, pemain"
+  },
+  "372": {
+    "kanji": "画家",
+    "yomi": "がか",
+    "arti": "Pelukis"
+  },
+  "373": {
+    "kanji": "作家",
+    "yomi": "さっか",
+    "arti": "Pengarang"
+  },
+  "374": {
+    "kanji": "入学",
+    "yomi": "にゅうがく",
+    "arti": "Masuk sekolah"
+  },
+  "375": {
+    "kanji": "卒業",
+    "yomi": "そつぎょう",
+    "arti": "Lulus"
+  },
+  "376": {
+    "kanji": "病気",
+    "yomi": "びょうき",
+    "arti": "Sakit"
+  },
+  "377": {
+    "kanji": "若い",
+    "yomi": "わかい",
+    "arti": "Muda"
+  },
+  "378": {
+    "kanji": "生まれます",
+    "yomi": "うまれます",
+    "arti": "Lahir"
+  },
+  "379": {
+    "kanji": "思い出",
+    "yomi": "おもいで",
+    "arti": "Kenang -kenangan, kenangan"
+  },
+  "380": {
+    "kanji": "生活",
+    "yomi": "せいかつ",
+    "arti": "Kehidupan"
+  },
+  "381": {
+    "kanji": "映画",
+    "yomi": "えいが",
+    "arti": "Film"
+  },
+  "382": {
+    "kanji": "夫",
+    "yomi": "おっと",
+    "arti": "Suami ( sendiri )"
+  },
+  "383": {
+    "kanji": "妻",
+    "yomi": "つま",
+    "arti": "Istri ( sendiri )"
+  },
+  "384": {
+    "kanji": "両親",
+    "yomi": "りょうしん",
+    "arti": "Orang tua"
+  },
+  "385": {
+    "kanji": "不便",
+    "yomi": "ふべん",
+    "arti": "Tidak praktis"
+  },
+  "386": {
+    "kanji": "選びます",
+    "yomi": "えらびます",
+    "arti": "Memilih"
+  },
+  "387": {
+    "kanji": "寝ます",
+    "yomi": "ねます",
+    "arti": "Tidur"
+  },
+  "388": {
+    "kanji": "サッカー場",
+    "yomi": "サッカーじょう",
+    "arti": "Lapangan sepak bola"
+  },
+  "389": {
+    "kanji": "試合",
+    "yomi": "しあい",
+    "arti": "Pertandingan"
+  },
+  "390": {
+    "kanji": "日曜日",
+    "yomi": "にちようび",
+    "arti": "Minggu"
+  },
+  "391": {
+    "kanji": "強い",
+    "yomi": "つよい",
+    "arti": "Kuat"
+  },
+  "392": {
+    "kanji": "弱い",
+    "yomi": "よわい",
+    "arti": "Lemah"
+  },
+  "393": {
+    "kanji": "勝ちます",
+    "yomi": "かちます",
+    "arti": "Menang"
+  },
+  "394": {
+    "kanji": "負けます",
+    "yomi": "まけます",
+    "arti": "Kalah"
+  },
+  "395": {
+    "kanji": "～対～（２対１）",
+    "yomi": "～たい～（にたいいち）",
+    "arti": "~lawan~ ( 2 lawan 1 )"
+  },
+  "396": {
+    "kanji": "庭",
+    "yomi": "にわ",
+    "arti": "Halaman"
+  },
+  "397": {
+    "kanji": "公園",
+    "yomi": "こうえん",
+    "arti": "Taman"
+  },
+  "398": {
+    "kanji": "病院",
+    "yomi": "びょういん",
+    "arti": "Rumah sakit"
+  },
+  "399": {
+    "kanji": "交通",
+    "yomi": "こうつう",
+    "arti": "Lalu lintas"
+  },
+  "400": {
+    "kanji": "通勤",
+    "yomi": "つうきん",
+    "arti": "Perjalanan ke kantor"
+  },
+  "401": {
+    "kanji": "安全",
+    "yomi": "あんぜん",
+    "arti": "Keselamatan"
+  },
+  "402": {
+    "kanji": "危ない",
+    "yomi": "あぶない",
+    "arti": "Bahaya"
+  },
+  "403": {
+    "kanji": "遠い",
+    "yomi": "とおい",
+    "arti": "Jauh"
+  },
+  "404": {
+    "kanji": "努めます",
+    "yomi": "つとめます",
+    "arti": "Bekerja"
+  },
+  "405": {
+    "kanji": "～以上（２時間以上）",
+    "yomi": "～いじょう（にじかんいじょう）",
+    "arti": "~ lebih ( 2 jam lebih )"
+  },
+  "406": {
+    "kanji": "～以下（６万円以下）",
+    "yomi": "～いか（ろくまんえんいか）",
+    "arti": "~kurang ( kurang dari 6 man yen )"
+  },
+  "407": {
+    "kanji": "海外",
+    "yomi": "かいがい",
+    "arti": "Luar negri"
+  },
+  "408": {
+    "kanji": "食生活",
+    "yomi": "しょくせいかつ",
+    "arti": "Susunan makanan"
+  },
+  "409": {
+    "kanji": "健康",
+    "yomi": "けんこう",
+    "arti": "Kesehatan"
+  },
+  "410": {
+    "kanji": "家庭料理",
+    "yomi": "かていりょうり",
+    "arti": "Masakan rumah tangga"
+  },
+  "411": {
+    "kanji": "材料",
+    "yomi": "ざいりょう",
+    "arti": "Bahan"
+  },
+  "412": {
+    "kanji": "量",
+    "yomi": "りょう",
+    "arti": "Jumlah, kuantitas, banyaknya"
+  },
+  "413": {
+    "kanji": "米",
+    "yomi": "こめ",
+    "arti": "Beras"
+  },
+  "414": {
+    "kanji": "～食",
+    "yomi": "～しょく",
+    "arti": "Makan ~"
+  },
+  "415": {
+    "kanji": "朝食",
+    "yomi": "ちょうしょく",
+    "arti": "Makan pagi"
+  },
+  "416": {
+    "kanji": "昼食",
+    "yomi": "ちゅうしょく",
+    "arti": "Makan siang"
+  },
+  "417": {
+    "kanji": "夕食",
+    "yomi": "ゆうしょく",
+    "arti": "Makan malam"
+  },
+  "418": {
+    "kanji": "外食",
+    "yomi": "がいしょく",
+    "arti": "Makan di luar"
+  },
+  "419": {
+    "kanji": "定食",
+    "yomi": "ていしょく",
+    "arti": "Makanan dengan menu tetap"
+  },
+  "420": {
+    "kanji": "住所",
+    "yomi": "じゅうしょ",
+    "arti": "Alamat"
+  },
+  "421": {
+    "kanji": "訪問",
+    "yomi": "ほうもん",
+    "arti": "Kunjungan"
+  },
+  "422": {
+    "kanji": "経験",
+    "yomi": "けいけん",
+    "arti": "Pengalaman"
+  },
+  "423": {
+    "kanji": "親切",
+    "yomi": "しんせつ",
+    "arti": "Ramah"
+  },
+  "424": {
+    "kanji": "座ります",
+    "yomi": "すわります",
+    "arti": "Duduk"
+  },
+  "425": {
+    "kanji": "立ちます",
+    "yomi": "たちます",
+    "arti": "Berdiri"
+  },
+  "426": {
+    "kanji": "～観（人生観）",
+    "yomi": "～かん（じんせいかん）",
+    "arti": "Pandangan ~ ( pandangan hidup )"
+  },
+  "427": {
+    "kanji": "約～（約６年間）",
+    "yomi": "やく～（やくろくねんかん）",
+    "arti": "Kira2, sekitar ( sekitar 6 tahun )"
+  },
+  "428": {
+    "kanji": "計画",
+    "yomi": "けいかく",
+    "arti": "Rencana , program"
+  },
+  "429": {
+    "kanji": "自信",
+    "yomi": "じしん",
+    "arti": "Percaya diri"
+  },
+  "430": {
+    "kanji": "方法",
+    "yomi": "ほうほう",
+    "arti": "Cara"
+  },
+  "431": {
+    "kanji": "目的",
+    "yomi": "もくてき",
+    "arti": "Tujuan"
+  },
+  "432": {
+    "kanji": "難しい",
+    "yomi": "むずかしい",
+    "arti": "Sulit"
+  },
+  "433": {
+    "kanji": "通じます",
+    "yomi": "つうじます",
+    "arti": "Mengalirkan,menguasai,berhubungan"
+  },
+  "434": {
+    "kanji": "習います",
+    "yomi": "ならいます",
+    "arti": "Belajar kepada"
+  },
+  "435": {
+    "kanji": "学びます",
+    "yomi": "まなびます",
+    "arti": "Belajar"
+  },
+  "436": {
+    "kanji": "～級",
+    "yomi": "～きゅう",
+    "arti": "Kelas ,tingkat ~"
+  },
+  "437": {
+    "kanji": "初級",
+    "yomi": "しょきゅう",
+    "arti": "Kelas dasar"
+  },
+  "438": {
+    "kanji": "中級",
+    "yomi": "ちゅうきゅう",
+    "arti": "Kelas menengah"
+  },
+  "439": {
+    "kanji": "上級",
+    "yomi": "じょうきゅう",
+    "arti": "Kelas atas"
+  },
+  "440": {
+    "kanji": "相手",
+    "yomi": "あいて",
+    "arti": "Pasangan, lawan"
+  },
+  "441": {
+    "kanji": "気持ち",
+    "yomi": "きもち",
+    "arti": "Perasaan enak"
+  },
+  "442": {
+    "kanji": "恋人",
+    "yomi": "こいびと",
+    "arti": "Pacar"
+  },
+  "443": {
+    "kanji": "出会い",
+    "yomi": "であい",
+    "arti": "Pertemuan"
+  },
+  "444": {
+    "kanji": "最近",
+    "yomi": "さいきん",
+    "arti": "Akhir-akhir ini"
+  },
+  "445": {
+    "kanji": "最高",
+    "yomi": "さいこう",
+    "arti": "Teratas, tertinggi"
+  },
+  "446": {
+    "kanji": "出席",
+    "yomi": "しゅっせき",
+    "arti": "Kehadiran"
+  },
+  "447": {
+    "kanji": "招待",
+    "yomi": "しょうたい",
+    "arti": "Undangan"
+  },
+  "448": {
+    "kanji": "～合う（知り合う）",
+    "yomi": "～あう（しりあう）",
+    "arti": "Cocok ~ ( kenal mengenal )"
+  },
+  "449": {
+    "kanji": "社会人",
+    "yomi": "しゃかいじん",
+    "arti": "Anggota masyarakat"
+  },
+  "450": {
+    "kanji": "職場",
+    "yomi": "しょくば",
+    "arti": "Tempat kerja"
+  },
+  "451": {
+    "kanji": "給料",
+    "yomi": "きゅうりょう",
+    "arti": "Gaji"
+  },
+  "452": {
+    "kanji": "人間関係",
+    "yomi": "にんげんかんけい",
+    "arti": "Hubungan antar manusia"
+  },
+  "453": {
+    "kanji": "親友",
+    "yomi": "しんゆう",
+    "arti": "Teman karib"
+  },
+  "454": {
+    "kanji": "恋愛",
+    "yomi": "れんあい",
+    "arti": "Percintaan , asmara"
+  },
+  "455": {
+    "kanji": "相談",
+    "yomi": "そうだん",
+    "arti": "Musyawarah"
+  },
+  "456": {
+    "kanji": "心",
+    "yomi": "こころ",
+    "arti": "Hati"
+  },
+  "457": {
+    "kanji": "心配",
+    "yomi": "しんぱい",
+    "arti": "Khawatir"
+  },
+  "458": {
+    "kanji": "不安",
+    "yomi": "ふあん",
+    "arti": "Kegelisahan, kekhawatiran"
+  },
+  "459": {
+    "kanji": "お客様",
+    "yomi": "おきゃく",
+    "arti": "さま Tamu"
+  },
+  "460": {
+    "kanji": "手続き",
+    "yomi": "てつづき",
+    "arti": "Prosedur"
+  },
+  "461": {
+    "kanji": "飛行機",
+    "yomi": "ひこうき",
+    "arti": "Pesawat terbang"
+  },
+  "462": {
+    "kanji": "変更",
+    "yomi": "へんこう",
+    "arti": "Perubahan"
+  },
+  "463": {
+    "kanji": "予定",
+    "yomi": "よてい",
+    "arti": "Rencana"
+  },
+  "464": {
+    "kanji": "利用",
+    "yomi": "りよう",
+    "arti": "Penggunaan, pemakaian"
+  },
+  "465": {
+    "kanji": "忘れ物",
+    "yomi": "わすれもの",
+    "arti": "Benda yang tertinggal"
+  },
+  "466": {
+    "kanji": "助けます",
+    "yomi": "たすけます",
+    "arti": "Menolong"
+  },
+  "467": {
+    "kanji": "～航空（ＪＦ航空）",
+    "yomi": "～こうくう（ＪＦこうくう）",
+    "arti": "Penerbangan ~ ( penerbangan JF )"
+  },
+  "468": {
+    "kanji": "～便（１１５便）",
+    "yomi": "～びん（いちいちごびん）",
+    "arti": "Penerbangan , pos ( pos 115 )"
+  },
+  "469": {
+    "kanji": "体力",
+    "yomi": "たいりょく",
+    "arti": "Kekuatan"
+  },
+  "470": {
+    "kanji": "協力",
+    "yomi": "きょうりょく",
+    "arti": "Kerjasama"
+  },
+  "471": {
+    "kanji": "担当",
+    "yomi": "たんとう",
+    "arti": "Petugas"
+  },
+  "472": {
+    "kanji": "報告",
+    "yomi": "ほうこく",
+    "arti": "Melapor"
+  },
+  "473": {
+    "kanji": "連絡",
+    "yomi": "れんらく",
+    "arti": "Menghubungi"
+  },
+  "474": {
+    "kanji": "募集",
+    "yomi": "ぼしゅう",
+    "arti": "Penerimaan, perekrutan"
+  },
+  "475": {
+    "kanji": "輸出",
+    "yomi": "ゆしゅつ",
+    "arti": "Ekspor"
+  },
+  "476": {
+    "kanji": "輸入",
+    "yomi": "ゆにゅう",
+    "arti": "Impor"
+  },
+  "477": {
+    "kanji": "会話",
+    "yomi": "かいわ",
+    "arti": "Percakapan"
+  },
+  "478": {
+    "kanji": "形",
+    "yomi": "かたち",
+    "arti": "Bentuk"
+  },
+  "479": {
+    "kanji": "漢字",
+    "yomi": "かんじ",
+    "arti": "Kanji"
+  },
+  "480": {
+    "kanji": "答え",
+    "yomi": "こたえ",
+    "arti": "Jawaban"
+  },
+  "481": {
+    "kanji": "質問",
+    "yomi": "しつもん",
+    "arti": "Pertanyaan"
+  },
+  "482": {
+    "kanji": "正しい",
+    "yomi": "ただしい",
+    "arti": "Benar"
+  },
+  "483": {
+    "kanji": "読解",
+    "yomi": "どっかい",
+    "arti": "Bacaan"
+  },
+  "484": {
+    "kanji": "表現",
+    "yomi": "ひょうげん",
+    "arti": "Pengucapan"
+  },
+  "485": {
+    "kanji": "文",
+    "yomi": "ぶん",
+    "arti": "Kalimat"
+  },
+  "486": {
+    "kanji": "文型",
+    "yomi": "ぶんけい",
+    "arti": "Pola kalimat"
+  },
+  "487": {
+    "kanji": "文法",
+    "yomi": "ぶんぽう",
+    "arti": "Tata Bahasa"
+  },
+  "488": {
+    "kanji": "もう一度",
+    "yomi": "もういちど",
+    "arti": "Sekali lagi"
+  },
+  "489": {
+    "kanji": "例",
+    "yomi": "れい",
+    "arti": "Contoh"
+  },
+  "490": {
+    "kanji": "練習",
+    "yomi": "れんしゅう",
+    "arti": "latihan"
+  },
+  "491": {
+    "kanji": "～枚",
+    "yomi": "～まい",
+    "arti": "～lembar"
+  },
+  "492": {
+    "kanji": "今週",
+    "yomi": "こんしゅう",
+    "arti": "Minggu ini"
+  },
+  "493": {
+    "kanji": "今度",
+    "yomi": "こんど",
+    "arti": "Lain kali, yang akan datang"
+  },
+  "494": {
+    "kanji": "横",
+    "yomi": "よこ",
+    "arti": "Sebelah"
+  },
+  "495": {
+    "kanji": "押します",
+    "yomi": "おします",
+    "arti": "Menekan, mendorong"
+  },
+  "496": {
+    "kanji": "引きます",
+    "yomi": "ひきます",
+    "arti": "Menarik"
+  },
+  "497": {
+    "kanji": "温泉",
+    "yomi": "おんせん",
+    "arti": "Pemandian air panas"
+  },
+  "498": {
+    "kanji": "来週",
+    "yomi": "らいしゅう",
+    "arti": "Minggu depan"
+  },
+  "499": {
+    "kanji": "犬",
+    "yomi": "いぬ",
+    "arti": "Anjing"
+  },
+  "500": {
+    "kanji": "夕方",
+    "yomi": "ゆうがた",
+    "arti": "Sore"
+  },
+  "501": {
+    "kanji": "季節",
+    "yomi": "きせつ",
+    "arti": "Musim"
+  },
+  "502": {
+    "kanji": "昨日",
+    "yomi": "きのう",
+    "arti": "Kemarin"
+  },
+  "503": {
+    "kanji": "明日",
+    "yomi": "あした",
+    "arti": "Besok"
+  },
+  "504": {
+    "kanji": "食堂",
+    "yomi": "しょくどう",
+    "arti": "Kantin"
+  },
+  "505": {
+    "kanji": "銀行",
+    "yomi": "ぎんこう",
+    "arti": "Bank"
+  },
+  "506": {
+    "kanji": "受付",
+    "yomi": "うけつけ",
+    "arti": "Resepsionis"
+  },
+  "507": {
+    "kanji": "門",
+    "yomi": "もん",
+    "arti": "Pintu gerbang"
+  },
+  "508": {
+    "kanji": "登ります",
+    "yomi": "のぼります",
+    "arti": "Mendaki"
+  },
+  "509": {
+    "kanji": "教科書",
+    "yomi": "きょうかしょ",
+    "arti": "Buku panduan"
+  },
+  "510": {
+    "kanji": "教室",
+    "yomi": "きょうしつ",
+    "arti": "Ruang kelas"
+  },
+  "511": {
+    "kanji": "参加します",
+    "yomi": "さんかします",
+    "arti": "Berpartisipasi"
+  },
+  "512": {
+    "kanji": "用意します",
+    "yomi": "よういします",
+    "arti": "Menyiapkan"
+  },
+  "513": {
+    "kanji": "牛肉",
+    "yomi": "ぎゅうにく",
+    "arti": "Daging sapi"
+  },
+  "514": {
+    "kanji": "豚肉",
+    "yomi": "ぶたにく",
+    "arti": "Daging babi"
+  },
+  "515": {
+    "kanji": "皿",
+    "yomi": "さら",
+    "arti": "Piring"
+  },
+  "516": {
+    "kanji": "お湯",
+    "yomi": "おゆ",
+    "arti": "Air panas"
+  },
+  "517": {
+    "kanji": "調理方法",
+    "yomi": "ちょうりほうほう",
+    "arti": "Cara memasak"
+  },
+  "518": {
+    "kanji": "甘い",
+    "yomi": "あまい",
+    "arti": "Manis"
+  },
+  "519": {
+    "kanji": "辛い",
+    "yomi": "からい",
+    "arti": "Pedas"
+  },
+  "520": {
+    "kanji": "数字",
+    "yomi": "すうじ",
+    "arti": "Angka, bilangan"
+  },
+  "521": {
+    "kanji": "机",
+    "yomi": "つくえ",
+    "arti": "Meja"
+  },
+  "522": {
+    "kanji": "都合",
+    "yomi": "つごう",
+    "arti": "Keadaan"
+  },
+  "523": {
+    "kanji": "用事",
+    "yomi": "ようじ",
+    "arti": "Keperluan"
+  },
+  "524": {
+    "kanji": "氏名",
+    "yomi": "しめい",
+    "arti": "Nama lengkap"
+  },
+  "525": {
+    "kanji": "理由",
+    "yomi": "りゆう",
+    "arti": "Alasan"
+  },
+  "526": {
+    "kanji": "別に",
+    "yomi": "べつに",
+    "arti": "Beda -beda"
+  },
+  "527": {
+    "kanji": "連絡先",
+    "yomi": "れんらくさき",
+    "arti": "Alamat yang dapat dihubungi"
+  },
+  "528": {
+    "kanji": "吸います",
+    "yomi": "すいます",
+    "arti": "Menghisap"
+  },
+  "529": {
+    "kanji": "取ります",
+    "yomi": "とります",
+    "arti": "Mengambil"
+  },
+  "530": {
+    "kanji": "伝えます",
+    "yomi": "つたえます",
+    "arti": "Menyampaikan"
+  },
+  "531": {
+    "kanji": "熱",
+    "yomi": "ねつ",
+    "arti": "Demam"
+  },
+  "532": {
+    "kanji": "薬",
+    "yomi": "くすり",
+    "arti": "Obat"
+  },
+  "533": {
+    "kanji": "医者",
+    "yomi": "いしゃ",
+    "arti": "Dokter"
+  },
+  "534": {
+    "kanji": "～才",
+    "yomi": "～さい",
+    "arti": "Bakat ～ ／ umur ～"
+  },
+  "535": {
+    "kanji": "眠い",
+    "yomi": "ねむい",
+    "arti": "Ngantuk"
+  },
+  "536": {
+    "kanji": "記入します",
+    "yomi": "きにゅうします",
+    "arti": "Mengisi di kertas"
+  },
+  "537": {
+    "kanji": "顔",
+    "yomi": "かお",
+    "arti": "Wajah"
+  },
+  "538": {
+    "kanji": "泣きます",
+    "yomi": "なきます",
+    "arti": "Menangis"
+  },
+  "539": {
+    "kanji": "会計",
+    "yomi": "かいけい",
+    "arti": "Pembayaran"
+  },
+  "540": {
+    "kanji": "電話番号",
+    "yomi": "でんわばんごう",
+    "arti": "Nomor telepon"
+  },
+  "541": {
+    "kanji": "牛乳",
+    "yomi": "ぎゅうにゅう",
+    "arti": "Susu sapi"
+  },
+  "542": {
+    "kanji": "禁煙",
+    "yomi": "きんえん",
+    "arti": "Larangan merokok"
+  },
+  "543": {
+    "kanji": "自由",
+    "yomi": "じゆう",
+    "arti": "Bebas"
+  },
+  "544": {
+    "kanji": "切ります",
+    "yomi": "きります",
+    "arti": "Memotong"
+  },
+  "545": {
+    "kanji": "焼きます",
+    "yomi": "やきます",
+    "arti": "Memanggang"
+  },
+  "546": {
+    "kanji": "旅館",
+    "yomi": "りょかん",
+    "arti": "Penginapan"
+  },
+  "547": {
+    "kanji": "遊びます",
+    "yomi": "あそびます",
+    "arti": "Bermain"
+  },
+  "548": {
+    "kanji": "調べます",
+    "yomi": "しらべます",
+    "arti": "Memeriksa"
+  },
+  "549": {
+    "kanji": "事故",
+    "yomi": "じこ",
+    "arti": "Kecelakaan"
+  },
+  "550": {
+    "kanji": "故障",
+    "yomi": "こしょう",
+    "arti": "Kerusakan"
+  },
+  "551": {
+    "kanji": "指定席",
+    "yomi": "していせき",
+    "arti": "Tempat duduk yang ditetapkan"
+  },
+  "552": {
+    "kanji": "光ります",
+    "yomi": "ひかります",
+    "arti": "Bercahaya , bersinar"
+  },
+  "553": {
+    "kanji": "お知らせ",
+    "yomi": "おしらせ",
+    "arti": "Pengumuman"
+  },
+  "554": {
+    "kanji": "水道",
+    "yomi": "すいどう",
+    "arti": "Ledeng"
+  },
+  "555": {
+    "kanji": "工事",
+    "yomi": "こうじ",
+    "arti": "Konstruksi"
+  },
+  "556": {
+    "kanji": "場合",
+    "yomi": "ばあい",
+    "arti": "Kesempatan"
+  },
+  "557": {
+    "kanji": "条件",
+    "yomi": "じょうけん",
+    "arti": "Syarat -syarat, kondisi"
+  },
+  "558": {
+    "kanji": "開きます",
+    "yomi": "ひらきます",
+    "arti": "Membuka"
+  },
+  "559": {
+    "kanji": "生産します",
+    "yomi": "せいさんします",
+    "arti": "Memproduksi"
+  },
+  "560": {
+    "kanji": "体験",
+    "yomi": "たいけん",
+    "arti": "Percobaan"
+  },
+  "561": {
+    "kanji": "国際交流",
+    "yomi": "こくさいこうりゅう",
+    "arti": "Pertukaran budaya internasional"
+  },
+  "562": {
+    "kanji": "申し込みます",
+    "yomi": "もうしこみます",
+    "arti": "Melamar (pekerjaan)"
+  },
+  "563": {
+    "kanji": "昨年",
+    "yomi": "さくねん",
+    "arti": "Tahun lalu"
+  },
+  "564": {
+    "kanji": "毎年",
+    "yomi": "まいとし",
+    "arti": "Setiap tahun"
+  },
+  "565": {
+    "kanji": "袋",
+    "yomi": "ふくろ",
+    "arti": "Kantong plastik"
+  },
+  "566": {
+    "kanji": "店長",
+    "yomi": "てんちょう",
+    "arti": "Manajer toko"
+  },
+  "567": {
+    "kanji": "全員",
+    "yomi": "ぜんいん",
+    "arti": "Semuanya"
+  },
+  "568": {
+    "kanji": "習慣",
+    "yomi": "しゅうかん",
+    "arti": "Kebiasaan"
+  },
+  "569": {
+    "kanji": "普通",
+    "yomi": "ふつう",
+    "arti": "Biasa"
+  },
+  "570": {
+    "kanji": "暗い",
+    "yomi": "くらい",
+    "arti": "Gelap"
+  },
+  "571": {
+    "kanji": "怒ります",
+    "yomi": "おこります",
+    "arti": "Marah"
+  },
+  "572": {
+    "kanji": "入院します",
+    "yomi": "にゅういんします",
+    "arti": "Masuk rumah sakit"
+  },
+  "573": {
+    "kanji": "退院します",
+    "yomi": "たいいんします",
+    "arti": "Keluar rumah sakit"
+  },
+  "574": {
+    "kanji": "急に",
+    "yomi": "きゅうに",
+    "arti": "Tiba -tiba"
+  },
+  "575": {
+    "kanji": "営業します",
+    "yomi": "えいぎょうします",
+    "arti": "Buka"
+  },
+  "576": {
+    "kanji": "案内します",
+    "yomi": "あんないします",
+    "arti": "Memandu"
+  },
+  "577": {
+    "kanji": "値段",
+    "yomi": "ねだん",
+    "arti": "Harga"
+  },
+  "578": {
+    "kanji": "価格",
+    "yomi": "かかく",
+    "arti": "Harga"
+  },
+  "579": {
+    "kanji": "消費税",
+    "yomi": "しょうひぜい",
+    "arti": "Pajak konsumen"
+  },
+  "580": {
+    "kanji": "税別",
+    "yomi": "ぜいべつ",
+    "arti": "Harga belum termasuk pajak"
+  },
+  "581": {
+    "kanji": "図書館",
+    "yomi": "としょかん",
+    "arti": "Perpustakaan"
+  },
+  "582": {
+    "kanji": "開きます",
+    "yomi": "あきます",
+    "arti": "Terbuka"
+  },
+  "583": {
+    "kanji": "閉まります",
+    "yomi": "しまります",
+    "arti": "Tertutup"
+  },
+  "584": {
+    "kanji": "利用します",
+    "yomi": "りようします",
+    "arti": "Menggunakan"
+  },
+  "585": {
+    "kanji": "窓口",
+    "yomi": "まどぐち",
+    "arti": "Konter , loket"
+  },
+  "586": {
+    "kanji": "郵便局",
+    "yomi": "ゆうびんきょく",
+    "arti": "Kantor pos"
+  },
+  "587": {
+    "kanji": "近所",
+    "yomi": "きんじょ",
+    "arti": "Tetangga"
+  },
+  "588": {
+    "kanji": "自動",
+    "yomi": "じどう",
+    "arti": "Otomatis"
+  },
+  "589": {
+    "kanji": "危険",
+    "yomi": "きけん",
+    "arti": "Bahaya"
+  },
+  "590": {
+    "kanji": "～種類",
+    "yomi": "～しゅるい",
+    "arti": "～macam, jenis"
+  },
+  "591": {
+    "kanji": "消します",
+    "yomi": "けします",
+    "arti": "Memadamkan"
+  },
+  "592": {
+    "kanji": "捨てます",
+    "yomi": "すてます",
+    "arti": "Membuang"
+  },
+  "593": {
+    "kanji": "分けます",
+    "yomi": "わけます",
+    "arti": "Membagi"
+  },
+  "594": {
+    "kanji": "燃えます",
+    "yomi": "もえます",
+    "arti": "Terbakar"
+  },
+  "595": {
+    "kanji": "設定します",
+    "yomi": "せっていします",
+    "arti": "Mengeset,menyeting"
+  },
+  "596": {
+    "kanji": "地震",
+    "yomi": "じしん",
+    "arti": "Gempa"
+  },
+  "597": {
+    "kanji": "台風",
+    "yomi": "たいふう",
+    "arti": "Angin topan"
+  },
+  "598": {
+    "kanji": "声",
+    "yomi": "こえ",
+    "arti": "Suara (benda hidup)"
+  },
+  "599": {
+    "kanji": "大切な",
+    "yomi": "たいせつな",
+    "arti": "Penting"
+  },
+  "600": {
+    "kanji": "進みます",
+    "yomi": "すすみます",
+    "arti": "Rekomendasi"
+  },
+  "601": {
+    "kanji": "授業",
+    "yomi": "じゅぎょう",
+    "arti": "Pelajaran"
+  },
+  "602": {
+    "kanji": "大変な",
+    "yomi": "たいへんな",
+    "arti": "Berat (perasaan)"
+  },
+  "603": {
+    "kanji": "困ります",
+    "yomi": "こまります",
+    "arti": "Susah"
+  },
+  "604": {
+    "kanji": "違います",
+    "yomi": "ちがいます",
+    "arti": "Salah , berbeda"
+  },
+  "605": {
+    "kanji": "慣れます",
+    "yomi": "なれます",
+    "arti": "terbiasa"
+  },
+  "606": {
+    "kanji": "増えます",
+    "yomi": "ふえます",
+    "arti": "Bertambah"
+  },
+  "607": {
+    "kanji": "笑います",
+    "yomi": "わらいます",
+    "arti": "Tertawa"
+  },
+  "608": {
+    "kanji": "苦労します",
+    "yomi": "くろうします",
+    "arti": "Bersakit -sakit ( dalam usaha)"
+  },
+  "609": {
+    "kanji": "希望",
+    "yomi": "きぼう",
+    "arti": "Harapan, keinginan"
+  },
+  "610": {
+    "kanji": "特に",
+    "yomi": "とくに",
+    "arti": "Terutama"
+  },
+  "611": {
+    "kanji": "建てます",
+    "yomi": "たてます",
+    "arti": "Mendirikan"
+  },
+  "612": {
+    "kanji": "続けます",
+    "yomi": "つづけます",
+    "arti": "Melanjutkan"
+  },
+  "613": {
+    "kanji": "役に立ちます",
+    "yomi": "やくにたちます",
+    "arti": "Bermanfaat"
+  }
+}
