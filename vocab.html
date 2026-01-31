@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Kosakata Minna no Nihongo</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="list.css">
+</head>
+
+<body>
+
+<div class="list-container">
+
+    <h1>Kosakata Minna no Nihongo</h1>
+    <p>Pilih Bab</p>
+
+    <!-- Dropdown pilih bab -->
+    <select id="babSelect" onchange="filterBab()">
+        <option value="">-- Pilih Bab --</option>
+        <option value="1">Bab 1</option>
+        <option value="2">Bab 2</option>
+        <option value="3">Bab 3</option>
+        <option value="4">Bab 4</option>
+        <option value="5">Bab 5</option>
+        <option value="6">Bab 6</option>
+        <option value="7">Bab 7</option>
+        <option value="8">Bab 8</option>
+        <option value="9">Bab 9</option>
+        <option value="10">Bab 10</option>
+        <option value="11">Bab 11</option>
+        <option value="12">Bab 12</option>
+        <option value="13">Bab 13</option>
+        <option value="14">Bab 14</option>
+        <option value="15">Bab 15</option>
+        <option value="16">Bab 16</option>
+        <option value="17">Bab 17</option>
+        <option value="18">Bab 18</option>
+        <option value="19">Bab 19</option>
+        <option value="20">Bab 20</option>
+        <option value="21">Bab 21</option>
+        <option value="22">Bab 22</option>
+        <option value="23">Bab 23</option>
+        <option value="24">Bab 24</option>
+        <option value="25">Bab 25</option>
+    </select>
+
+    <!-- SEARCH TANPA onkeyup -->
+    <input 
+        type="text" 
+        id="search" 
+        placeholder="Cari jpn / romaji / arti..."
+    >
+
+    <table>
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Jepang</th>
+                <th>Romaji</th>
+                <th>Arti</th>
+                <th>Jenis</th>
+                <th>Bab</th>
+            </tr>
+        </thead>
+        <tbody id="vocabBody"></tbody>
+    </table>
+
+    <button class="back-btn" onclick="goHome()">← Kembali</button>
+
+</div>
+
+<script src="vocab.js"></script>
+</body>
+</html>

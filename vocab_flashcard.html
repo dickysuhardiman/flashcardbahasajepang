@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kosakata Flashcard</title>
+
+<link rel="stylesheet" href="/style.css?v=20250210">
+<link rel="stylesheet" href="/flashcard.css?v=20250210">
+</head>
+
+<body>
+
+<div class="flashcard-container" id="fcContainer">
+
+    <button class="range-btn" onclick="openBab()">Pilih Bab</button>
+
+    <div id="card" class="card" onclick="flipCard()">
+        <div class="inner">
+            <div class="front" id="frontText"></div>
+            <div class="back" id="backText"></div>
+        </div>
+    </div>
+
+    <div class="nav-buttons" id="navButtons">
+        <button onclick="prevCard()">← Previous</button>
+        <button onclick="nextCard()">Next →</button>
+    </div>
+
+    <div id="randomButtons" class="random-buttons" style="display:none;">
+        <button onclick="chooseHafal()" class="btn-hafal">✓ Hafal</button>
+        <button onclick="chooseTidakHafal()" class="btn-tidak">✗ Belum Hafal</button>
+    </div>
+
+    <div class="counter" id="counter"></div>
+
+    <button class="home-button" onclick="goHome()">⬅ Kembali ke Menu Utama</button>
+
+</div>
+
+<!-- POPUP PILIH BAB -->
+<div id="babPopup" class="range-popup">
+    <div class="range-box">
+        <h3>Pilih Bab Kosakata</h3>
+
+        <label for="babSelect">Bab:</label>
+        <select id="babSelect" style="padding:10px; font-size:16px; border-radius:10px;">
+        </select>
+
+        <button onclick="applyBab()">Mulai</button>
+        <button onclick="closeBab()" class="cancel">Batal</button>
+    </div>
+</div>
+
+<div id="endScreen" class="end-screen" style="display:none;">
+    <h2>Hasil Belajar</h2>
+    <p id="summaryText"></p>
+
+    <h3>Belum Hafal:</h3>
+    <ul id="listBelumHafal"></ul>
+
+    <button onclick="repeatBelumHafal()" class="btn-repeat">Latihan Ulang Yang Belum Hafal</button>
+    <a href="/index.html?v=20250210" class="back-to-menu">← Kembali ke Menu Utama</a>
+</div>
+
+<script src="/vocab_flashcard.js?v=20250210"></script>
+
+<script>
+function goHome() {
+    window.location.href = "/index.html?v=20250210";
+}
+</script>
+
+</body>
+</html>

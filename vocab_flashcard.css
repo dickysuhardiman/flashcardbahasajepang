@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #faf7f2;
+    font-family: "Noto Sans JP", sans-serif;
+    min-height: 100vh;
+}
+
+/* ================================
+   TOMBOL KEMBALI
+================================ */
+.back-to-menu {
+    display: block;
+    margin: 20px auto 30px auto;
+    text-align: center;
+    padding: 12px 22px;
+    background: #ff9800;
+    color: white;
+    border-radius: 12px;
+    width: fit-content;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.25);
+    transition: 0.2s;
+}
+
+.back-to-menu:hover {
+    background: #e68900;
+    transform: scale(1.06);
+}
+
+/* ================================
+   FLASHCARD CONTAINER
+================================ */
+.flashcard-container {
+    text-align: center;
+    width: 90%;
+    max-width: 350px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.flashcard-container.blur {
+    filter: blur(5px);
+    pointer-events: none;
+}
+
+/* ================================
+   RANGE/BAB BUTTON
+================================ */
+.range-btn {
+    padding: 10px 16px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    background: #c62828;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* ================================
+   FLASHCARD STYLE
+================================ */
+.card {
+    width: 100%;
+    height: 300px;
+    perspective: 1000px;
+    margin-bottom: 20px;
+}
+
+.inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: transform 0.7s ease;
+    transform-style: preserve-3d;
+}
+
+.card.flipped .inner {
+    transform: rotateY(180deg);
+}
+
+.front, .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #c62828;
+    background: #fffdf8;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
+}
+
+/* ================================
+   TEKS DEPAN BELAKANG (KHUSUS VOCAB)
+================================ */
+.front {
+    font-size: 48px; /* JEPANG */
+    font-weight: bold;
+}
+
+.back {
+    transform: rotateY(180deg);
+    font-size: 22px;
+    padding: 10px;
+    line-height: 1.6;
+    color: #c62828;
+    text-align: center;
+    white-space: pre-line;
+}
+
+/* ================================
+   NAV BUTTONS (MODE NORMAL)
+================================ */
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav-buttons button {
+    padding: 10px 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    background: #c62828;
+    border: none;
+    color: white;
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.nav-buttons button:hover {
+    background: #a91e1e;
+    transform: translateY(-2px);
+}
+
+.counter {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
+
+/* ================================
+   POPUP PILIH BAB
+================================ */
+.range-popup {
+    position: fixed !important;
+    inset: 0 !important;
+    background: rgba(0,0,0,0.6);
+    display: none !important;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999999 !important;
+}
+
+.range-box {
+    background: #fff;
+    padding: 24px;
+    width: 100%;
+    max-width: 380px;
+    border-radius: 16px;
+    text-align: center;
+    border: 3px solid #c62828;
+}
+
+.range-box h3 {
+    margin-bottom: 12px;
+}
+
+.range-box label {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.range-box select {
+    width: 75%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+    font-size: 16px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.range-box button {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    margin-top: 6px;
+    font-size: 16px;
+    color: white;
+    background: #c62828;
+    cursor: pointer;
+}
+
+.range-box .cancel {
+    background: #777;
+}
+
+/* ================================
+   RANDOM MODE BUTTONS
+================================ */
+.random-buttons {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+.btn-hafal, .btn-tidak {
+    width: 100%;
+    max-width: 260px;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 12px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-hafal { background: #4caf50; }
+.btn-tidak { background: #c62828; }
+
+/* ================================
+   END SCREEN
+================================ */
+.end-screen {
+    position: fixed;
+    inset: 0;
+    background: #fffdf8;
+    padding: 20px;
+    overflow-y: auto;
+    text-align: center;
+    z-index: 999999;
+}
+
+.btn-repeat {
+    margin-top: 20px;
+    background: #c62828;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Tombol Home */
+.home-button {
+    margin: 18px auto 0 auto;
+    padding: 10px 16px;
+    width: 180px;
+    background: #455a64;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.20);
+    transition: 0.2s ease;
+}
+
+.home-button:hover {
+    background: #37474f;
+    transform: translateY(-2px);
+}
+
+/* ================================
+   SAKURA ANIMATION
+================================ */
+.sakura {
+    position: fixed;
+    top: -10px;
+    width: 15px;
+    height: 15px;
+    background-image: url('https://i.imgur.com/4YQZk6H.png');
+    background-size: cover;
+    opacity: 0.8;
+    animation: fall 4s linear infinite;
+    pointer-events: none;
+    z-index: 1;
+}
+
+@keyframes fall {
+    0% { transform: translateY(0) rotate(0deg); }
+    100% { transform: translateY(110vh) rotate(360deg); }
+}
+
+/* Background */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans JP", sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1505066261128-4f46a724b4a6?auto=format&fit=crop&w=1200&q=80');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Safari fix */
+body, html {
+    overflow: visible !important;
+}
+.flashcard-container.blur {
+    filter: none !important;
+    pointer-events: none !important;
+}

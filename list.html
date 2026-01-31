@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Daftar Kanji N4</title>
+<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="list.css?v=1">
+</head>
+
+<body>
+
+<div class="list-container">
+
+    <h1>Daftar Kanji N4</h1>
+    <p>Total 613 Kanji</p>
+
+    <input 
+        type="text" 
+        id="search" 
+        placeholder="Cari kanji / yomi / arti..." 
+        onkeyup="searchKanji()"
+    >
+
+    <table id="kanjiTable">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Kanji</th>
+                <th>Yomi</th>
+                <th>Arti</th>
+            </tr>
+        </thead>
+        <tbody id="kanjiBody"></tbody>
+    </table>
+
+    <button class="back-btn" onclick="goHome()">← Kembali</button>
+
+</div>
+
+<script src="list.js?v=1"></script>
+</body>
+</html>

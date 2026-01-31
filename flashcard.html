@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji Quiz</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/style.css?v=20250210">
+    <link rel="stylesheet" href="/flashcard.css?v=20250210">
+    <link href="https://fonts.googleapis.com/css?family=Amiko" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- ================= QUIZ SCREEN ================= -->
+<div class="flashcard-container" id="fcContainer">
+
+    <!-- Pilih Range -->
+    <button class="range-btn" onclick="openRange()">
+        <span>Pilih Range</span>
+    </button>
+
+    <!-- Counter -->
+    <div class="counter" id="counter"></div>
+
+    <!-- Card (KANJI ONLY) -->
+    <div id="card" class="card">
+        <div class="inner">
+            <div class="front" id="kanjiFront"></div>
+        </div>
+    </div>
+
+    <!-- Choices -->
+    <div id="choices" class="choices"></div>
+
+    <!-- Progress -->
+    <div id="progress" class="progress"></div>
+
+    <!-- Home -->
+    <button class="home-button" onclick="goHome()">
+        <span>Back Menu</span>
+    </button>
+
+</div>
+
+<!-- ================= RANGE POPUP ================= -->
+<div id="rangePopup" class="range-popup">
+    <div class="range-box">
+        <h3>Pilih Range Kanji</h3>
+
+        <label>Mulai nomor</label>
+        <input type="number" id="rangeStart" min="1">
+
+        <label>Sampai nomor</label>
+        <input type="number" id="rangeEnd" min="1">
+
+        <button onclick="applyRange()">Mulai</button>
+        <button class="cancel" onclick="closeRange()">Batal</button>
+    </div>
+</div>
+
+<!-- ================= END SCREEN ================= -->
+<div id="endScreen" class="end-screen" style="display:none;">
+    <h2>Hasil Belajar</h2>
+    <p id="summaryText"></p>
+
+    <div class="result-table-wrapper">
+        <table class="result-table">
+            <thead>
+                <tr>
+                    <th>Kanji</th>
+                    <th>Hiragana</th>
+                    <th>Arti</th>
+                </tr>
+            </thead>
+            <tbody id="resultTableBody">
+                <!-- diisi JS -->
+            </tbody>
+        </table>
+    </div>
+
+    <button class="btn-repeat" onclick="repeatBelumHafal()">
+        Latihan Ulang
+    </button>
+
+    <button class="home-button" onclick="goHome()">
+        Back Menu
+    </button>
+</div>
+
+
+<script src="/flashcard.js?v=20250210"></script>
+<script>
+function goHome() {
+    window.location.href = "/index.html";
+}
+</script>
+
+</body>
+</html>

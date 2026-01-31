@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@400;600;700&display=swap');
+
+/* ================= GLOBAL ================= */
+html, body {
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Amiko', sans-serif;
+    background: linear-gradient(135deg,#C5ADC5 0%,#C5ADC5 45%,#B2B5E0 100%);
+}
+
+/* ================= CONTAINER ================= */
+.flashcard-container {
+    width: 90%;
+    max-width: 350px;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ================= RANGE BUTTON ================= */
+.range-btn {
+    width: 100%;
+    padding: 14px;
+    border-radius: 18px;
+    border: none;
+    background: #6667ab;
+    color: #fff;
+    font-size: 18px;
+    box-shadow: 0 4px 10px rgba(0,0,0,.25);
+}
+
+/* ================= COUNTER ================= */
+.counter {
+    margin: 12px 0;
+    color: #5f5870;
+    font-size: 14px;
+}
+
+/* ================= CARD ================= */
+.card {
+    width: 100%;
+    height: 300px;
+    perspective: 1000px;
+    margin-bottom: 18px;
+}
+
+.inner {
+    width: 100%;
+    height: 100%;
+    transition: transform .6s;
+    transform-style: preserve-3d;
+}
+
+.card.flipped .inner {
+    transform: rotateY(180deg);
+}
+
+.front, .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    background: #fff;
+    border: 3px solid #C5ADC5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backface-visibility: hidden;
+    font-family: 'Noto Sans JP';
+    font-size: 56px;
+}
+
+.back {
+    transform: rotateY(180deg);
+    font-size: 22px;
+}
+
+/* ================= PILIHAN JAWABAN (FIX) ================= */
+#choices {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+#choices button {
+    padding: 14px;
+    border-radius: 18px;
+    border: none;
+    background: #f1f1f8;
+    font-size: 17px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+    transition: .2s;
+}
+
+#choices button:hover {
+    transform: translateY(-2px);
+}
+
+/* ===== JAWABAN ===== */
+#choices button.correct {
+    background: #4CAF50;
+    color: #fff;
+}
+
+#choices button.wrong {
+    background: #E53935;
+    color: #fff;
+}
+
+#choices button.disabled {
+    pointer-events: none;
+    opacity: .95;
+}
+
+/* ================= HOME BUTTON (AMANKAN) ================= */
+.home-button {
+    margin-top: 10px;
+    padding: 10px 14px;
+    border-radius: 16px;
+    border: none;
+    background: #6667ab;
+    color: #fff;
+    font-size: 14px;
+}
+/* ================= RANGE POPUP (FIX TOTAL) ================= */
+.range-popup {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.4);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+}
+
+.range-popup.active {
+    display: flex;
+}
+
+.range-box {
+    background: #fff;
+    padding: 20px;
+    width: 90%;
+    max-width: 320px;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.3);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.range-box h3 {
+    margin: 0 0 5px;
+    text-align: center;
+}
+
+.range-box label {
+    font-size: 14px;
+}
+
+.range-box input {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.range-box button {
+    padding: 12px;
+    border-radius: 14px;
+    border: none;
+    background: #6667ab;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.range-box button.cancel {
+    background: #aaa;
+}
+/* ================= HASIL BELAJAR ================= */
+.end-screen {
+    width: 90%;
+    max-width: 420px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.result-table-wrapper {
+    margin: 16px 0;
+    overflow-x: auto;
+}
+
+.result-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+}
+
+.result-table th {
+    background: #6667ab;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.result-table td {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+}
+
+/* Kanji lebih gede */
+.result-table td.kanji-cell {
+    font-size: 28px;
+    font-family: 'Noto Sans JP';
+    width: 70px;
+}
+
+/* Tombol ulang */
+.btn-repeat {
+    margin-top: 16px;
+    padding: 12px;
+    width: 100%;
+    border-radius: 18px;
+    border: none;
+    background: #4CAF50;
+    color: #fff;
+    font-size: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,.2);
+}
