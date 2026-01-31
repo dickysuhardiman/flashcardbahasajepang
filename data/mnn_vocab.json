@@ -1,0 +1,6218 @@
+{
+    "1": {
+        "jpn": "わたし",
+        "romaji": "watashi",
+        "arti": "saya",
+        "jenis": "kata ganti",
+        "bab": 1
+    },
+    "2": {
+        "jpn": "あなた",
+        "romaji": "anata",
+        "arti": "anda",
+        "jenis": "kata ganti",
+        "bab": 1
+    },
+    "3": {
+        "jpn": "あのひと",
+        "romaji": "ano hito",
+        "arti": "orang itu",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "4": {
+        "jpn": "あのかた",
+        "romaji": "ano kata",
+        "arti": "orang itu (sopan)",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "5": {
+        "jpn": "～さん",
+        "romaji": "~san",
+        "arti": "sapaan Tuan/Nyonya",
+        "jenis": "akhiran",
+        "bab": 1
+    },
+    "6": {
+        "jpn": "～ちゃん",
+        "romaji": "~chan",
+        "arti": "sapaan akrab / anak",
+        "jenis": "akhiran",
+        "bab": 1
+    },
+    "7": {
+        "jpn": "～じん",
+        "romaji": "~jin",
+        "arti": "orang / warga negara",
+        "jenis": "akhiran",
+        "bab": 1
+    },
+    "8": {
+        "jpn": "せんせい",
+        "romaji": "sensei",
+        "arti": "guru / dosen",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "9": {
+        "jpn": "きょうし",
+        "romaji": "kyoushi",
+        "arti": "guru (profesi)",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "10": {
+        "jpn": "がくせい",
+        "romaji": "gakusei",
+        "arti": "mahasiswa",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "11": {
+        "jpn": "かいしゃいん",
+        "romaji": "kaishain",
+        "arti": "karyawan perusahaan",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "12": {
+        "jpn": "しゃいん",
+        "romaji": "shain",
+        "arti": "karyawan",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "13": {
+        "jpn": "ぎんこういん",
+        "romaji": "ginkouin",
+        "arti": "pegawai bank",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "14": {
+        "jpn": "いしゃ",
+        "romaji": "isha",
+        "arti": "dokter",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "15": {
+        "jpn": "けんきゅうしゃ",
+        "romaji": "kenkyuusha",
+        "arti": "peneliti",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "16": {
+        "jpn": "だいがく",
+        "romaji": "daigaku",
+        "arti": "universitas",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "17": {
+        "jpn": "びょういん",
+        "romaji": "byouin",
+        "arti": "rumah sakit",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "18": {
+        "jpn": "だれ",
+        "romaji": "dare",
+        "arti": "siapa",
+        "jenis": "kata tanya",
+        "bab": 1
+    },
+    "19": {
+        "jpn": "どなた",
+        "romaji": "donata",
+        "arti": "siapa (sopan)",
+        "jenis": "kata tanya",
+        "bab": 1
+    },
+    "20": {
+        "jpn": "～さい",
+        "romaji": "~sai",
+        "arti": "umur ~ tahun",
+        "jenis": "akhiran",
+        "bab": 1
+    },
+    "21": {
+        "jpn": "なんさい",
+        "romaji": "nan-sai",
+        "arti": "umur berapa",
+        "jenis": "kata tanya",
+        "bab": 1
+    },
+    "22": {
+        "jpn": "ねんしゅう",
+        "romaji": "nenshuu",
+        "arti": "penghasilan per tahun",
+        "jenis": "kata benda",
+        "bab": 1
+    },
+    "23": {
+        "jpn": "はい",
+        "romaji": "hai",
+        "arti": "ya",
+        "jenis": "kata keterangan",
+        "bab": 1
+    },
+    "24": {
+        "jpn": "いいえ",
+        "romaji": "iie",
+        "arti": "tidak / bukan",
+        "jenis": "kata keterangan",
+        "bab": 1
+    },
+    "25": {
+        "jpn": "はじめまして",
+        "romaji": "hajimemashite",
+        "arti": "perkenalkan",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "26": {
+        "jpn": "～からきました",
+        "romaji": "~kara kimashita",
+        "arti": "datang dari ~",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "27": {
+        "jpn": "どうぞよろしく",
+        "romaji": "douzo yoroshiku",
+        "arti": "mohon kerja samanya",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "28": {
+        "jpn": "しつれいですが",
+        "romaji": "shitsurei desu ga",
+        "arti": "permisi, maaf sebelumnya",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "29": {
+        "jpn": "おなまえは？",
+        "romaji": "onamae wa?",
+        "arti": "siapa nama Anda?",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "30": {
+        "jpn": "こちらは～さんです",
+        "romaji": "kochira wa ~san desu",
+        "arti": "ini adalah Tuan/Nyonya ~",
+        "jenis": "ungkapan",
+        "bab": 1
+    },
+    "31": {
+        "jpn": "これ",
+        "romaji": "kore",
+        "arti": "ini (dekat pembicara)",
+        "jenis": "kata ganti benda",
+        "bab": 2
+    },
+    "32": {
+        "jpn": "それ",
+        "romaji": "sore",
+        "arti": "itu (dekat lawan bicara)",
+        "jenis": "kata ganti benda",
+        "bab": 2
+    },
+    "33": {
+        "jpn": "あれ",
+        "romaji": "are",
+        "arti": "itu (jauh)",
+        "jenis": "kata ganti benda",
+        "bab": 2
+    },
+    "34": {
+        "jpn": "この",
+        "romaji": "kono",
+        "arti": "ini ~",
+        "jenis": "kata penunjuk",
+        "bab": 2
+    },
+    "35": {
+        "jpn": "その",
+        "romaji": "sono",
+        "arti": "itu ~",
+        "jenis": "kata penunjuk",
+        "bab": 2
+    },
+    "36": {
+        "jpn": "あの",
+        "romaji": "ano",
+        "arti": "itu ~ (jauh)",
+        "jenis": "kata penunjuk",
+        "bab": 2
+    },
+    "37": {
+        "jpn": "ほん",
+        "romaji": "hon",
+        "arti": "buku",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "38": {
+        "jpn": "じしょ",
+        "romaji": "jisho",
+        "arti": "kamus",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "39": {
+        "jpn": "ざっし",
+        "romaji": "zasshi",
+        "arti": "majalah",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "40": {
+        "jpn": "しんぶん",
+        "romaji": "shinbun",
+        "arti": "koran",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "41": {
+        "jpn": "ノート",
+        "romaji": "nooto",
+        "arti": "buku tulis",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "42": {
+        "jpn": "てちょう",
+        "romaji": "techou",
+        "arti": "buku agenda",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "43": {
+        "jpn": "めいし",
+        "romaji": "meishi",
+        "arti": "kartu nama",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "44": {
+        "jpn": "カード",
+        "romaji": "kaado",
+        "arti": "kartu",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "45": {
+        "jpn": "えんぴつ",
+        "romaji": "enpitsu",
+        "arti": "pensil",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "46": {
+        "jpn": "ボールペン",
+        "romaji": "boorupen",
+        "arti": "bolpoin",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "47": {
+        "jpn": "シャープペンシル",
+        "romaji": "shaapupenshiru",
+        "arti": "pensil mekanik",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "48": {
+        "jpn": "かぎ",
+        "romaji": "kagi",
+        "arti": "kunci",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "49": {
+        "jpn": "とけい",
+        "romaji": "tokei",
+        "arti": "jam",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "50": {
+        "jpn": "かさ",
+        "romaji": "kasa",
+        "arti": "payung",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "51": {
+        "jpn": "かばん",
+        "romaji": "kaban",
+        "arti": "tas",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "52": {
+        "jpn": "CD",
+        "romaji": "shiidii",
+        "arti": "CD",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "53": {
+        "jpn": "テレビ",
+        "romaji": "terebi",
+        "arti": "televisi",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "54": {
+        "jpn": "ラジオ",
+        "romaji": "rajio",
+        "arti": "radio",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "55": {
+        "jpn": "カメラ",
+        "romaji": "kamera",
+        "arti": "kamera",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "56": {
+        "jpn": "コンピューター",
+        "romaji": "konpyuutaa",
+        "arti": "komputer",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "57": {
+        "jpn": "くるま",
+        "romaji": "kuruma",
+        "arti": "mobil",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "58": {
+        "jpn": "つくえ",
+        "romaji": "tsukue",
+        "arti": "meja",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "59": {
+        "jpn": "いす",
+        "romaji": "isu",
+        "arti": "kursi",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "60": {
+        "jpn": "チョコレート",
+        "romaji": "chokoreeto",
+        "arti": "cokelat",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "61": {
+        "jpn": "コーヒー",
+        "romaji": "koohii",
+        "arti": "kopi",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "62": {
+        "jpn": "おみやげ",
+        "romaji": "omiyage",
+        "arti": "oleh-oleh",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "63": {
+        "jpn": "えいご",
+        "romaji": "eigo",
+        "arti": "bahasa Inggris",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "64": {
+        "jpn": "にほんご",
+        "romaji": "nihongo",
+        "arti": "bahasa Jepang",
+        "jenis": "kata benda",
+        "bab": 2
+    },
+    "65": {
+        "jpn": "～ご",
+        "romaji": "~go",
+        "arti": "bahasa ~",
+        "jenis": "akhiran",
+        "bab": 2
+    },
+    "66": {
+        "jpn": "なん",
+        "romaji": "nan",
+        "arti": "apa",
+        "jenis": "kata tanya",
+        "bab": 2
+    },
+    "67": {
+        "jpn": "そう",
+        "romaji": "sou",
+        "arti": "begitu",
+        "jenis": "kata keterangan",
+        "bab": 2
+    },
+    "68": {
+        "jpn": "あのう",
+        "romaji": "anou",
+        "arti": "eee… (ragu-ragu)",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "69": {
+        "jpn": "えっ",
+        "romaji": "e",
+        "arti": "eh?",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "70": {
+        "jpn": "どうぞ",
+        "romaji": "douzo",
+        "arti": "silakan",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "71": {
+        "jpn": "どうもありがとうございます",
+        "romaji": "doumo arigatou gozaimasu",
+        "arti": "terima kasih banyak",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "72": {
+        "jpn": "そうですか",
+        "romaji": "sou desu ka",
+        "arti": "oh begitu",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "73": {
+        "jpn": "ちがいます",
+        "romaji": "chigaimasu",
+        "arti": "bukan / salah",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "74": {
+        "jpn": "あ",
+        "romaji": "a",
+        "arti": "oh",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "75": {
+        "jpn": "これからおせわになります",
+        "romaji": "korekara osewa ni narimasu",
+        "arti": "mulai sekarang mohon bantuannya",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "76": {
+        "jpn": "こちらこそよろしくおねがいします",
+        "romaji": "kochira koso yoroshiku onegaishimasu",
+        "arti": "sama-sama, mohon kerja samanya",
+        "jenis": "ungkapan",
+        "bab": 2
+    },
+    "77": {
+        "jpn": "ここ",
+        "romaji": "koko",
+        "arti": "sini",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "78": {
+        "jpn": "そこ",
+        "romaji": "soko",
+        "arti": "situ",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "79": {
+        "jpn": "あそこ",
+        "romaji": "asoko",
+        "arti": "sana",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "80": {
+        "jpn": "どこ",
+        "romaji": "doko",
+        "arti": "di mana",
+        "jenis": "kata tanya",
+        "bab": 3
+    },
+    "81": {
+        "jpn": "こちら",
+        "romaji": "kochira",
+        "arti": "sini (sopan)",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "82": {
+        "jpn": "そちら",
+        "romaji": "sochira",
+        "arti": "situ (sopan)",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "83": {
+        "jpn": "あちら",
+        "romaji": "achira",
+        "arti": "sana (sopan)",
+        "jenis": "kata penunjuk tempat",
+        "bab": 3
+    },
+    "84": {
+        "jpn": "どちら",
+        "romaji": "dochira",
+        "arti": "mana (sopan)",
+        "jenis": "kata tanya",
+        "bab": 3
+    },
+    "85": {
+        "jpn": "きょうしつ",
+        "romaji": "kyoushitsu",
+        "arti": "ruang kelas",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "86": {
+        "jpn": "しょくどう",
+        "romaji": "shokudou",
+        "arti": "kantin / ruang makan",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "87": {
+        "jpn": "じむしょ",
+        "romaji": "jimusho",
+        "arti": "kantor",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "88": {
+        "jpn": "かいぎしつ",
+        "romaji": "kaigishitsu",
+        "arti": "ruang rapat",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "89": {
+        "jpn": "うけつけ",
+        "romaji": "uketsuke",
+        "arti": "meja informasi / resepsionis",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "90": {
+        "jpn": "ロビー",
+        "romaji": "robii",
+        "arti": "lobi / ruang tunggu",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "91": {
+        "jpn": "へや",
+        "romaji": "heya",
+        "arti": "kamar / ruangan",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "92": {
+        "jpn": "トイレ",
+        "romaji": "toire",
+        "arti": "toilet",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "93": {
+        "jpn": "おてあらい",
+        "romaji": "otearai",
+        "arti": "kamar kecil / toilet",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "94": {
+        "jpn": "かいだん",
+        "romaji": "kaidan",
+        "arti": "tangga",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "95": {
+        "jpn": "エレベーター",
+        "romaji": "erebeetaa",
+        "arti": "lift",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "96": {
+        "jpn": "エスカレーター",
+        "romaji": "esukareetaa",
+        "arti": "eskalator",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "97": {
+        "jpn": "じどうはんばいき",
+        "romaji": "jidou hanbaiki",
+        "arti": "mesin penjual otomatis",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "98": {
+        "jpn": "でんわ",
+        "romaji": "denwa",
+        "arti": "telepon",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "99": {
+        "jpn": "おくに",
+        "romaji": "okuni",
+        "arti": "negara",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "100": {
+        "jpn": "かいしゃ",
+        "romaji": "kaisha",
+        "arti": "perusahaan",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "101": {
+        "jpn": "うち",
+        "romaji": "uchi",
+        "arti": "rumah",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "102": {
+        "jpn": "くつ",
+        "romaji": "kutsu",
+        "arti": "sepatu",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "103": {
+        "jpn": "ネクタイ",
+        "romaji": "nekutai",
+        "arti": "dasi",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "104": {
+        "jpn": "ワイン",
+        "romaji": "wain",
+        "arti": "anggur (wine)",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "105": {
+        "jpn": "うりば",
+        "romaji": "uriba",
+        "arti": "tempat penjualan",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "106": {
+        "jpn": "ちか",
+        "romaji": "chika",
+        "arti": "bawah tanah",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "107": {
+        "jpn": "いっかい",
+        "romaji": "ikkai",
+        "arti": "lantai satu",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "108": {
+        "jpn": "なんがい",
+        "romaji": "nangai",
+        "arti": "lantai berapa",
+        "jenis": "kata tanya",
+        "bab": 3
+    },
+    "109": {
+        "jpn": "えん",
+        "romaji": "en",
+        "arti": "yen",
+        "jenis": "kata benda",
+        "bab": 3
+    },
+    "110": {
+        "jpn": "いくら",
+        "romaji": "ikura",
+        "arti": "berapa (harga)",
+        "jenis": "kata tanya",
+        "bab": 3
+    },
+    "111": {
+        "jpn": "ひゃく",
+        "romaji": "hyaku",
+        "arti": "seratus",
+        "jenis": "kata bilangan",
+        "bab": 3
+    },
+    "112": {
+        "jpn": "せん",
+        "romaji": "sen",
+        "arti": "seribu",
+        "jenis": "kata bilangan",
+        "bab": 3
+    },
+    "113": {
+        "jpn": "まん",
+        "romaji": "man",
+        "arti": "sepuluh ribu",
+        "jenis": "kata bilangan",
+        "bab": 3
+    },
+    "114": {
+        "jpn": "すみません",
+        "romaji": "sumimasen",
+        "arti": "maaf / permisi",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "115": {
+        "jpn": "どうも",
+        "romaji": "doumo",
+        "arti": "terima kasih",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "116": {
+        "jpn": "いらっしゃいませ",
+        "romaji": "irasshaimase",
+        "arti": "selamat datang (toko)",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "117": {
+        "jpn": "～をみせてください",
+        "romaji": "~wo misete kudasai",
+        "arti": "tolong perlihatkan ~",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "118": {
+        "jpn": "じゃ",
+        "romaji": "ja",
+        "arti": "kalau begitu",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "119": {
+        "jpn": "～をください",
+        "romaji": "~wo kudasai",
+        "arti": "minta ~ / tolong berikan ~",
+        "jenis": "ungkapan",
+        "bab": 3
+    },
+    "120": {
+        "jpn": "おきます",
+        "romaji": "okimasu",
+        "arti": "bangun",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "121": {
+        "jpn": "ねます",
+        "romaji": "nemasu",
+        "arti": "tidur",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "122": {
+        "jpn": "はたらきます",
+        "romaji": "hatarakimasu",
+        "arti": "bekerja",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "123": {
+        "jpn": "やすみます",
+        "romaji": "yasumimasu",
+        "arti": "beristirahat / libur",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "124": {
+        "jpn": "べんきょうします",
+        "romaji": "benkyou shimasu",
+        "arti": "belajar",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "125": {
+        "jpn": "おわります",
+        "romaji": "owarimasu",
+        "arti": "selesai",
+        "jenis": "kata kerja",
+        "bab": 4
+    },
+    "126": {
+        "jpn": "デパート",
+        "romaji": "depaato",
+        "arti": "toserba",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "127": {
+        "jpn": "ぎんこう",
+        "romaji": "ginkou",
+        "arti": "bank",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "128": {
+        "jpn": "ゆうびんきょく",
+        "romaji": "yuubinkyoku",
+        "arti": "kantor pos",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "129": {
+        "jpn": "としょかん",
+        "romaji": "toshokan",
+        "arti": "perpustakaan",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "130": {
+        "jpn": "びじゅつかん",
+        "romaji": "bijutsukan",
+        "arti": "gedung kesenian",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "131": {
+        "jpn": "いま",
+        "romaji": "ima",
+        "arti": "sekarang",
+        "jenis": "kata keterangan",
+        "bab": 4
+    },
+    "132": {
+        "jpn": "～じ",
+        "romaji": "~ji",
+        "arti": "jam ~",
+        "jenis": "kata bantu waktu",
+        "bab": 4
+    },
+    "133": {
+        "jpn": "～ふん",
+        "romaji": "~fun",
+        "arti": "menit ~",
+        "jenis": "kata bantu waktu",
+        "bab": 4
+    },
+    "134": {
+        "jpn": "はん",
+        "romaji": "han",
+        "arti": "setengah",
+        "jenis": "kata keterangan",
+        "bab": 4
+    },
+    "135": {
+        "jpn": "なんじ",
+        "romaji": "nanji",
+        "arti": "jam berapa",
+        "jenis": "kata tanya",
+        "bab": 4
+    },
+    "136": {
+        "jpn": "なんぷん",
+        "romaji": "nanpun",
+        "arti": "berapa menit",
+        "jenis": "kata tanya",
+        "bab": 4
+    },
+    "137": {
+        "jpn": "ごぜん",
+        "romaji": "gozen",
+        "arti": "a.m. (sebelum jam 12 siang)",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "138": {
+        "jpn": "ごご",
+        "romaji": "gogo",
+        "arti": "p.m. (setelah jam 12 siang)",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "139": {
+        "jpn": "あさ",
+        "romaji": "asa",
+        "arti": "pagi",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "140": {
+        "jpn": "ひる",
+        "romaji": "hiru",
+        "arti": "siang",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "141": {
+        "jpn": "ばん",
+        "romaji": "ban",
+        "arti": "malam",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "142": {
+        "jpn": "おととい",
+        "romaji": "ototoi",
+        "arti": "dua hari yang lalu",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "143": {
+        "jpn": "きのう",
+        "romaji": "kinou",
+        "arti": "kemarin",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "144": {
+        "jpn": "きょう",
+        "romaji": "kyou",
+        "arti": "hari ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "145": {
+        "jpn": "あした",
+        "romaji": "ashita",
+        "arti": "besok",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "146": {
+        "jpn": "あさって",
+        "romaji": "asatte",
+        "arti": "lusa",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "147": {
+        "jpn": "けさ",
+        "romaji": "kesa",
+        "arti": "pagi ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "148": {
+        "jpn": "こんばん",
+        "romaji": "konban",
+        "arti": "malam ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 4
+    },
+    "149": {
+        "jpn": "やすみ",
+        "romaji": "yasumi",
+        "arti": "istirahat / libur",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "150": {
+        "jpn": "ひるやすみ",
+        "romaji": "hiruyasumi",
+        "arti": "istirahat siang",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "151": {
+        "jpn": "しけん",
+        "romaji": "shiken",
+        "arti": "ujian",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "152": {
+        "jpn": "かいぎ",
+        "romaji": "kaigi",
+        "arti": "rapat",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "153": {
+        "jpn": "えいが",
+        "romaji": "eiga",
+        "arti": "film",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "154": {
+        "jpn": "まいあさ",
+        "romaji": "maiasa",
+        "arti": "setiap pagi",
+        "jenis": "kata keterangan",
+        "bab": 4
+    },
+    "155": {
+        "jpn": "まいばん",
+        "romaji": "maiban",
+        "arti": "setiap malam",
+        "jenis": "kata keterangan",
+        "bab": 4
+    },
+    "156": {
+        "jpn": "まいにち",
+        "romaji": "mainichi",
+        "arti": "setiap hari",
+        "jenis": "kata keterangan",
+        "bab": 4
+    },
+    "157": {
+        "jpn": "げつようび",
+        "romaji": "getsuyoubi",
+        "arti": "hari Senin",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "158": {
+        "jpn": "かようび",
+        "romaji": "kayoubi",
+        "arti": "hari Selasa",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "159": {
+        "jpn": "すいようび",
+        "romaji": "suiyoubi",
+        "arti": "hari Rabu",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "160": {
+        "jpn": "もくようび",
+        "romaji": "mokuyoubi",
+        "arti": "hari Kamis",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "161": {
+        "jpn": "きんようび",
+        "romaji": "kinyoubi",
+        "arti": "hari Jumat",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "162": {
+        "jpn": "どようび",
+        "romaji": "doyoubi",
+        "arti": "hari Sabtu",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "163": {
+        "jpn": "にちようび",
+        "romaji": "nichiyoubi",
+        "arti": "hari Minggu",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "164": {
+        "jpn": "なんようび",
+        "romaji": "nanyoubi",
+        "arti": "hari apa",
+        "jenis": "kata tanya",
+        "bab": 4
+    },
+    "165": {
+        "jpn": "～から",
+        "romaji": "~kara",
+        "arti": "dari ~",
+        "jenis": "partikel",
+        "bab": 4
+    },
+    "166": {
+        "jpn": "～まで",
+        "romaji": "~made",
+        "arti": "sampai ~",
+        "jenis": "partikel",
+        "bab": 4
+    },
+    "167": {
+        "jpn": "～と～",
+        "romaji": "~to~",
+        "arti": "~ dan ~",
+        "jenis": "partikel",
+        "bab": 4
+    },
+    "168": {
+        "jpn": "たいへんですね",
+        "romaji": "taihen desu ne",
+        "arti": "berat ya / kasihan ya",
+        "jenis": "ungkapan",
+        "bab": 4
+    },
+    "169": {
+        "jpn": "ばんごう",
+        "romaji": "bangou",
+        "arti": "nomor",
+        "jenis": "kata benda",
+        "bab": 4
+    },
+    "170": {
+        "jpn": "なんばん",
+        "romaji": "nanban",
+        "arti": "nomor berapa",
+        "jenis": "kata tanya",
+        "bab": 4
+    },
+    "171": {
+        "jpn": "そちら",
+        "romaji": "sochira",
+        "arti": "di situ",
+        "jenis": "kata penunjuk tempat",
+        "bab": 4
+    },
+    "172": {
+        "jpn": "いきます",
+        "romaji": "ikimasu",
+        "arti": "pergi",
+        "jenis": "kata kerja",
+        "bab": 5
+    },
+    "173": {
+        "jpn": "きます",
+        "romaji": "kimasu",
+        "arti": "datang",
+        "jenis": "kata kerja",
+        "bab": 5
+    },
+    "174": {
+        "jpn": "かえります",
+        "romaji": "kaerimasu",
+        "arti": "pulang",
+        "jenis": "kata kerja",
+        "bab": 5
+    },
+    "175": {
+        "jpn": "がっこう",
+        "romaji": "gakkou",
+        "arti": "sekolah",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "176": {
+        "jpn": "スーパー",
+        "romaji": "suupaa",
+        "arti": "pasar swalayan",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "177": {
+        "jpn": "えき",
+        "romaji": "eki",
+        "arti": "stasiun",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "178": {
+        "jpn": "ひこうき",
+        "romaji": "hikouki",
+        "arti": "pesawat terbang",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "179": {
+        "jpn": "ふね",
+        "romaji": "fune",
+        "arti": "kapal laut",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "180": {
+        "jpn": "でんしゃ",
+        "romaji": "densha",
+        "arti": "kereta rel listrik",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "181": {
+        "jpn": "ちかてつ",
+        "romaji": "chikatetsu",
+        "arti": "kereta bawah tanah",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "182": {
+        "jpn": "しんかんせん",
+        "romaji": "shinkansen",
+        "arti": "Shinkansen",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "183": {
+        "jpn": "バス",
+        "romaji": "basu",
+        "arti": "bus",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "184": {
+        "jpn": "タクシー",
+        "romaji": "takushii",
+        "arti": "taksi",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "185": {
+        "jpn": "じてんしゃ",
+        "romaji": "jitensha",
+        "arti": "sepeda",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "186": {
+        "jpn": "あるいて",
+        "romaji": "aruite",
+        "arti": "dengan berjalan kaki",
+        "jenis": "kata keterangan",
+        "bab": 5
+    },
+    "187": {
+        "jpn": "ひと",
+        "romaji": "hito",
+        "arti": "orang",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "188": {
+        "jpn": "ともだち",
+        "romaji": "tomodachi",
+        "arti": "teman",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "189": {
+        "jpn": "かれ",
+        "romaji": "kare",
+        "arti": "dia (laki-laki)",
+        "jenis": "kata ganti",
+        "bab": 5
+    },
+    "190": {
+        "jpn": "かのじょ",
+        "romaji": "kanojo",
+        "arti": "dia (perempuan)",
+        "jenis": "kata ganti",
+        "bab": 5
+    },
+    "191": {
+        "jpn": "かぞく",
+        "romaji": "kazoku",
+        "arti": "keluarga",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "192": {
+        "jpn": "ひとりで",
+        "romaji": "hitoride",
+        "arti": "sendirian",
+        "jenis": "kata keterangan",
+        "bab": 5
+    },
+    "193": {
+        "jpn": "せんしゅう",
+        "romaji": "senshuu",
+        "arti": "minggu lalu",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "194": {
+        "jpn": "こんしゅう",
+        "romaji": "konshuu",
+        "arti": "minggu ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "195": {
+        "jpn": "らいしゅう",
+        "romaji": "raishuu",
+        "arti": "minggu depan",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "196": {
+        "jpn": "せんげつ",
+        "romaji": "sengetsu",
+        "arti": "bulan lalu",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "197": {
+        "jpn": "こんげつ",
+        "romaji": "kongetsu",
+        "arti": "bulan ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "198": {
+        "jpn": "らいげつ",
+        "romaji": "raigetsu",
+        "arti": "bulan depan",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "199": {
+        "jpn": "きょねん",
+        "romaji": "kyonen",
+        "arti": "tahun lalu",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "200": {
+        "jpn": "ことし",
+        "romaji": "kotoshi",
+        "arti": "tahun ini",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "201": {
+        "jpn": "らいねん",
+        "romaji": "rainen",
+        "arti": "tahun depan",
+        "jenis": "kata keterangan waktu",
+        "bab": 5
+    },
+    "202": {
+        "jpn": "～ねん",
+        "romaji": "~nen",
+        "arti": "tahun ~",
+        "jenis": "kata bantu waktu",
+        "bab": 5
+    },
+    "203": {
+        "jpn": "なんねん",
+        "romaji": "nannen",
+        "arti": "tahun berapa",
+        "jenis": "kata tanya",
+        "bab": 5
+    },
+    "204": {
+        "jpn": "～がつ",
+        "romaji": "~gatsu",
+        "arti": "bulan ~",
+        "jenis": "kata bantu waktu",
+        "bab": 5
+    },
+    "205": {
+        "jpn": "なんがつ",
+        "romaji": "nangatsu",
+        "arti": "bulan apa",
+        "jenis": "kata tanya",
+        "bab": 5
+    },
+    "206": {
+        "jpn": "ついたち",
+        "romaji": "tsuitachi",
+        "arti": "tanggal satu",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "207": {
+        "jpn": "ふつか",
+        "romaji": "futsuka",
+        "arti": "tanggal dua / dua hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "208": {
+        "jpn": "みっか",
+        "romaji": "mikka",
+        "arti": "tanggal tiga / tiga hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "209": {
+        "jpn": "よっか",
+        "romaji": "yokka",
+        "arti": "tanggal empat / empat hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "210": {
+        "jpn": "いつか",
+        "romaji": "itsuka",
+        "arti": "tanggal lima / lima hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "211": {
+        "jpn": "むいか",
+        "romaji": "muika",
+        "arti": "tanggal enam / enam hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "212": {
+        "jpn": "なのか",
+        "romaji": "nanoka",
+        "arti": "tanggal tujuh / tujuh hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "213": {
+        "jpn": "ようか",
+        "romaji": "youka",
+        "arti": "tanggal delapan / delapan hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "214": {
+        "jpn": "ここのか",
+        "romaji": "kokonoka",
+        "arti": "tanggal sembilan / sembilan hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "215": {
+        "jpn": "とおか",
+        "romaji": "tooka",
+        "arti": "tanggal sepuluh / sepuluh hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "216": {
+        "jpn": "じゅうよっか",
+        "romaji": "juuyokka",
+        "arti": "tanggal empat belas / empat belas hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "217": {
+        "jpn": "はつか",
+        "romaji": "hatsuka",
+        "arti": "tanggal dua puluh / dua puluh hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "218": {
+        "jpn": "にじゅうよっか",
+        "romaji": "nijuuyokka",
+        "arti": "tanggal dua puluh empat / dua puluh empat hari",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "219": {
+        "jpn": "～にち",
+        "romaji": "~nichi",
+        "arti": "tanggal ~ / hari ~",
+        "jenis": "kata bantu waktu",
+        "bab": 5
+    },
+    "220": {
+        "jpn": "なんにち",
+        "romaji": "nannichi",
+        "arti": "tanggal berapa / berapa hari",
+        "jenis": "kata tanya",
+        "bab": 5
+    },
+    "221": {
+        "jpn": "いつ",
+        "romaji": "itsu",
+        "arti": "kapan",
+        "jenis": "kata tanya",
+        "bab": 5
+    },
+    "222": {
+        "jpn": "たんじょうび",
+        "romaji": "tanjoubi",
+        "arti": "hari ulang tahun",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "223": {
+        "jpn": "そうですね",
+        "romaji": "sou desu ne",
+        "arti": "ya, betul / ya, begitu",
+        "jenis": "ungkapan",
+        "bab": 5
+    },
+    "224": {
+        "jpn": "どうもありがとうございました",
+        "romaji": "doumo arigatou gozaimashita",
+        "arti": "terima kasih banyak",
+        "jenis": "ungkapan",
+        "bab": 5
+    },
+    "225": {
+        "jpn": "どういたしまして",
+        "romaji": "dou itashimashite",
+        "arti": "sama-sama",
+        "jenis": "ungkapan",
+        "bab": 5
+    },
+    "226": {
+        "jpn": "ばんせん",
+        "romaji": "bansen",
+        "arti": "peron",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "227": {
+        "jpn": "つぎ",
+        "romaji": "tsugi",
+        "arti": "berikutnya",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "228": {
+        "jpn": "ふつう",
+        "romaji": "futsuu",
+        "arti": "biasa",
+        "jenis": "kata sifat",
+        "bab": 5
+    },
+    "229": {
+        "jpn": "きゅうこう",
+        "romaji": "kyuukou",
+        "arti": "ekspres",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "230": {
+        "jpn": "とっきゅう",
+        "romaji": "tokkyuu",
+        "arti": "super ekspres",
+        "jenis": "kata benda",
+        "bab": 5
+    },
+    "231": {
+        "jpn": "たべます",
+        "romaji": "tabemasu",
+        "arti": "makan",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "232": {
+        "jpn": "のみます",
+        "romaji": "nomimasu",
+        "arti": "minum",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "233": {
+        "jpn": "すいます（たばこを）",
+        "romaji": "suimasu (tabako o)",
+        "arti": "menghisap (rokok), merokok",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "234": {
+        "jpn": "みます",
+        "romaji": "mimasu",
+        "arti": "melihat, menonton",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "235": {
+        "jpn": "ききます",
+        "romaji": "kikimasu",
+        "arti": "mendengar",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "236": {
+        "jpn": "よみます",
+        "romaji": "yomimasu",
+        "arti": "membaca",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "237": {
+        "jpn": "かきます",
+        "romaji": "kakimasu",
+        "arti": "menulis, menggambar",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "238": {
+        "jpn": "かいます",
+        "romaji": "kaimasu",
+        "arti": "membeli",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "239": {
+        "jpn": "とります",
+        "romaji": "torimasu",
+        "arti": "mengambil (foto)",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "240": {
+        "jpn": "します",
+        "romaji": "shimasu",
+        "arti": "mengerjakan, melakukan, berbuat",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "241": {
+        "jpn": "あいます",
+        "romaji": "aimasu",
+        "arti": "bertemu (dengan teman)",
+        "jenis": "kata kerja",
+        "bab": 6
+    },
+    "242": {
+        "jpn": "ごはん",
+        "romaji": "gohan",
+        "arti": "nasi",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "243": {
+        "jpn": "あさごはん",
+        "romaji": "asagohan",
+        "arti": "sarapan",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "244": {
+        "jpn": "ひるごはん",
+        "romaji": "hirugohan",
+        "arti": "makan siang",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "245": {
+        "jpn": "ばんごはん",
+        "romaji": "bangohan",
+        "arti": "makan malam",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "246": {
+        "jpn": "パン",
+        "romaji": "pan",
+        "arti": "roti",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "247": {
+        "jpn": "たまご",
+        "romaji": "tamago",
+        "arti": "telur",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "248": {
+        "jpn": "にく",
+        "romaji": "niku",
+        "arti": "daging",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "249": {
+        "jpn": "さかな",
+        "romaji": "sakana",
+        "arti": "ikan",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "250": {
+        "jpn": "やさい",
+        "romaji": "yasai",
+        "arti": "sayur",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "251": {
+        "jpn": "くだもの",
+        "romaji": "kudamono",
+        "arti": "buah-buahan",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "252": {
+        "jpn": "みず",
+        "romaji": "mizu",
+        "arti": "air",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "253": {
+        "jpn": "おちゃ",
+        "romaji": "ocha",
+        "arti": "teh (teh Jepang / teh hijau)",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "254": {
+        "jpn": "こうちゃ",
+        "romaji": "koucha",
+        "arti": "teh",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "255": {
+        "jpn": "ぎゅうにゅう（ミルク）",
+        "romaji": "gyuunyuu (miruku)",
+        "arti": "susu",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "256": {
+        "jpn": "ジュース",
+        "romaji": "juusu",
+        "arti": "jus, sari buah",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "257": {
+        "jpn": "ビール",
+        "romaji": "biiru",
+        "arti": "bir",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "258": {
+        "jpn": "おさけ",
+        "romaji": "osake",
+        "arti": "minuman keras",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "259": {
+        "jpn": "たばこ",
+        "romaji": "tabako",
+        "arti": "rokok",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "260": {
+        "jpn": "てがみ",
+        "romaji": "tegami",
+        "arti": "surat",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "261": {
+        "jpn": "レポート",
+        "romaji": "repooto",
+        "arti": "laporan",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "262": {
+        "jpn": "しゃしん",
+        "romaji": "shashin",
+        "arti": "foto",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "263": {
+        "jpn": "ビデオ",
+        "romaji": "bideo",
+        "arti": "kaset video, VHS",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "264": {
+        "jpn": "みせ",
+        "romaji": "mise",
+        "arti": "toko",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "265": {
+        "jpn": "にわ",
+        "romaji": "niwa",
+        "arti": "halaman",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "266": {
+        "jpn": "しゅくだい",
+        "romaji": "shukudai",
+        "arti": "pekerjaan rumah (PR)",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "267": {
+        "jpn": "テニス",
+        "romaji": "tenisu",
+        "arti": "tenis",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "268": {
+        "jpn": "サッカー",
+        "romaji": "sakkaa",
+        "arti": "sepak bola",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "269": {
+        "jpn": "はなみ",
+        "romaji": "hanami",
+        "arti": "menikmati bunga sakura",
+        "jenis": "kata benda",
+        "bab": 6
+    },
+    "270": {
+        "jpn": "なに",
+        "romaji": "nani",
+        "arti": "apa",
+        "jenis": "kata tanya",
+        "bab": 6
+    },
+    "271": {
+        "jpn": "いっしょに",
+        "romaji": "issho ni",
+        "arti": "bersama-sama",
+        "jenis": "kata keterangan",
+        "bab": 6
+    },
+    "272": {
+        "jpn": "ちょっと",
+        "romaji": "chotto",
+        "arti": "sebentar, sedikit",
+        "jenis": "kata keterangan",
+        "bab": 6
+    },
+    "273": {
+        "jpn": "いつも",
+        "romaji": "itsumo",
+        "arti": "selalu",
+        "jenis": "kata keterangan",
+        "bab": 6
+    },
+    "274": {
+        "jpn": "ときどき",
+        "romaji": "tokidoki",
+        "arti": "kadang-kadang",
+        "jenis": "kata keterangan",
+        "bab": 6
+    },
+    "275": {
+        "jpn": "それから",
+        "romaji": "sorekara",
+        "arti": "setelah itu, kemudian",
+        "jenis": "kata sambung",
+        "bab": 6
+    },
+    "276": {
+        "jpn": "ええ",
+        "romaji": "ee",
+        "arti": "ya",
+        "jenis": "ungkapan",
+        "bab": 6
+    },
+    "277": {
+        "jpn": "いいですね",
+        "romaji": "ii desu ne",
+        "arti": "bagus ya",
+        "jenis": "ungkapan",
+        "bab": 6
+    },
+    "278": {
+        "jpn": "わかりました",
+        "romaji": "wakarimashita",
+        "arti": "mengerti / baik",
+        "jenis": "ungkapan",
+        "bab": 6
+    },
+    "279": {
+        "jpn": "なんですか",
+        "romaji": "nan desu ka",
+        "arti": "apa?",
+        "jenis": "ungkapan",
+        "bab": 6
+    },
+    "280": {
+        "jpn": "じゃ、また",
+        "romaji": "ja, mata",
+        "arti": "ok, sampai jumpa",
+        "jenis": "ungkapan",
+        "bab": 6
+    },
+    "281": {
+        "jpn": "きります",
+        "romaji": "kirimasu",
+        "arti": "memotong, menggunting",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "282": {
+        "jpn": "おくります",
+        "romaji": "okurimasu",
+        "arti": "mengirim",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "283": {
+        "jpn": "あげます",
+        "romaji": "agemasu",
+        "arti": "memberikan",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "284": {
+        "jpn": "もらいます",
+        "romaji": "moraimasu",
+        "arti": "mendapatkan, menerima",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "285": {
+        "jpn": "かします",
+        "romaji": "kashimasu",
+        "arti": "meminjamkan, menyewakan",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "286": {
+        "jpn": "かります",
+        "romaji": "karimasu",
+        "arti": "meminjam, menyewa",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "287": {
+        "jpn": "おしえます",
+        "romaji": "oshiemasu",
+        "arti": "mengajar",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "288": {
+        "jpn": "ならいます",
+        "romaji": "naraimasu",
+        "arti": "belajar",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "289": {
+        "jpn": "かけます（でんわを）",
+        "romaji": "kakemasu (denwa o)",
+        "arti": "menelpon",
+        "jenis": "kata kerja",
+        "bab": 7
+    },
+    "290": {
+        "jpn": "て",
+        "romaji": "te",
+        "arti": "tangan",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "291": {
+        "jpn": "はし",
+        "romaji": "hashi",
+        "arti": "sumpit",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "292": {
+        "jpn": "スプーン",
+        "romaji": "supuun",
+        "arti": "sendok",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "293": {
+        "jpn": "ナイフ",
+        "romaji": "naifu",
+        "arti": "pisau",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "294": {
+        "jpn": "フォーク",
+        "romaji": "fooku",
+        "arti": "garpu",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "295": {
+        "jpn": "はさみ",
+        "romaji": "hasami",
+        "arti": "gunting",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "296": {
+        "jpn": "パソコン",
+        "romaji": "pasokon",
+        "arti": "komputer, PC",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "297": {
+        "jpn": "ケータイ",
+        "romaji": "keetai",
+        "arti": "HP",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "298": {
+        "jpn": "メール",
+        "romaji": "meeru",
+        "arti": "e-mail",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "299": {
+        "jpn": "ねんがじょう",
+        "romaji": "nengajou",
+        "arti": "kartu tahun baru",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "300": {
+        "jpn": "パンチ",
+        "romaji": "panchi",
+        "arti": "pelubang kertas",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "301": {
+        "jpn": "ホッチキス",
+        "romaji": "hotchikisu",
+        "arti": "stapler",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "302": {
+        "jpn": "セロテープ",
+        "romaji": "serotēpu",
+        "arti": "selotip",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "303": {
+        "jpn": "けしゴム",
+        "romaji": "keshigomu",
+        "arti": "penghapus karet",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "304": {
+        "jpn": "かみ",
+        "romaji": "kami",
+        "arti": "kertas",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "305": {
+        "jpn": "はな",
+        "romaji": "hana",
+        "arti": "bunga",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "306": {
+        "jpn": "シャツ",
+        "romaji": "shatsu",
+        "arti": "kemeja",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "307": {
+        "jpn": "プレゼント",
+        "romaji": "purezento",
+        "arti": "kado, hadiah",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "308": {
+        "jpn": "にもつ",
+        "romaji": "nimotsu",
+        "arti": "barang",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "309": {
+        "jpn": "おかね",
+        "romaji": "okane",
+        "arti": "uang",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "310": {
+        "jpn": "きっぷ",
+        "romaji": "kippu",
+        "arti": "karcis",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "311": {
+        "jpn": "クリスマス",
+        "romaji": "kurisumasu",
+        "arti": "Natal",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "312": {
+        "jpn": "ちち",
+        "romaji": "chichi",
+        "arti": "bapak, ayah",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "313": {
+        "jpn": "はは",
+        "romaji": "haha",
+        "arti": "ibu",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "314": {
+        "jpn": "おとうさん",
+        "romaji": "otōsan",
+        "arti": "bapak (orang lain / panggilan)",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "315": {
+        "jpn": "おかあさん",
+        "romaji": "okāsan",
+        "arti": "ibu (orang lain / panggilan)",
+        "jenis": "kata benda",
+        "bab": 7
+    },
+    "316": {
+        "jpn": "もう",
+        "romaji": "mō",
+        "arti": "sudah",
+        "jenis": "keterangan",
+        "bab": 7
+    },
+    "317": {
+        "jpn": "まだ",
+        "romaji": "mada",
+        "arti": "belum",
+        "jenis": "keterangan",
+        "bab": 7
+    },
+    "318": {
+        "jpn": "これから",
+        "romaji": "kore kara",
+        "arti": "mulai dari sekarang",
+        "jenis": "keterangan",
+        "bab": 7
+    },
+    "319": {
+        "jpn": "いいですね",
+        "romaji": "ii desu ne",
+        "arti": "bagus ya / indah ya",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "320": {
+        "jpn": "いらっしゃい",
+        "romaji": "irasshai",
+        "arti": "selamat datang",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "321": {
+        "jpn": "どうぞお上がりください",
+        "romaji": "dōzo oagari kudasai",
+        "arti": "silakan masuk",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "322": {
+        "jpn": "失礼します",
+        "romaji": "shitsurei shimasu",
+        "arti": "permisi",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "323": {
+        "jpn": "いかがですか",
+        "romaji": "ikaga desu ka",
+        "arti": "bagaimana?",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "324": {
+        "jpn": "いただきます",
+        "romaji": "itadakimasu",
+        "arti": "selamat makan (sebelum)",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "325": {
+        "jpn": "ごちそうさまでした",
+        "romaji": "gochisōsama deshita",
+        "arti": "terima kasih atas makanannya",
+        "jenis": "ungkapan",
+        "bab": 7
+    },
+    "326": {
+        "jpn": "ハンサムな",
+        "romaji": "hansamu na",
+        "arti": "tampan, gagah, ganteng",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "327": {
+        "jpn": "きれいな",
+        "romaji": "kirei na",
+        "arti": "cantik, bersih",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "328": {
+        "jpn": "しずかな",
+        "romaji": "shizuka na",
+        "arti": "sunyi, tenang",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "329": {
+        "jpn": "にぎやかな",
+        "romaji": "nigiyaka na",
+        "arti": "ramai",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "330": {
+        "jpn": "ゆうめいな",
+        "romaji": "yuumei na",
+        "arti": "terkenal",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "331": {
+        "jpn": "しんせつな",
+        "romaji": "shinsetsu na",
+        "arti": "baik hati (tidak untuk keluarga sendiri)",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "332": {
+        "jpn": "げんきな",
+        "romaji": "genki na",
+        "arti": "sehat, bersemangat",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "333": {
+        "jpn": "ひまな",
+        "romaji": "hima na",
+        "arti": "senggang",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "334": {
+        "jpn": "べんりな",
+        "romaji": "benri na",
+        "arti": "praktis",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "335": {
+        "jpn": "すてきな",
+        "romaji": "suteki na",
+        "arti": "bagus",
+        "jenis": "kata sifat-na",
+        "bab": 8
+    },
+    "336": {
+        "jpn": "おおきい",
+        "romaji": "ookii",
+        "arti": "besar",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "337": {
+        "jpn": "ちいさい",
+        "romaji": "chiisai",
+        "arti": "kecil",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "338": {
+        "jpn": "あたらしい",
+        "romaji": "atarashii",
+        "arti": "baru",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "339": {
+        "jpn": "ふるい",
+        "romaji": "furui",
+        "arti": "lama, tua",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "340": {
+        "jpn": "いい（よい）",
+        "romaji": "ii (yoi)",
+        "arti": "baik, bagus",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "341": {
+        "jpn": "わるい",
+        "romaji": "warui",
+        "arti": "buruk, jelek",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "342": {
+        "jpn": "あつい",
+        "romaji": "atsui",
+        "arti": "panas",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "343": {
+        "jpn": "さむい",
+        "romaji": "samui",
+        "arti": "dingin (udara)",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "344": {
+        "jpn": "つめたい",
+        "romaji": "tsumetai",
+        "arti": "dingin (benda)",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "345": {
+        "jpn": "むずかしい",
+        "romaji": "muzukashii",
+        "arti": "sulit, susah",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "346": {
+        "jpn": "やさしい",
+        "romaji": "yasashii",
+        "arti": "mudah, gampang",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "347": {
+        "jpn": "たかい",
+        "romaji": "takai",
+        "arti": "mahal, tinggi",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "348": {
+        "jpn": "やすい",
+        "romaji": "yasui",
+        "arti": "murah",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "349": {
+        "jpn": "ひくい",
+        "romaji": "hikui",
+        "arti": "rendah",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "350": {
+        "jpn": "おもしろい",
+        "romaji": "omoshiroi",
+        "arti": "menarik",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "351": {
+        "jpn": "おいしい",
+        "romaji": "oishii",
+        "arti": "enak",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "352": {
+        "jpn": "いそがしい",
+        "romaji": "isogashii",
+        "arti": "sibuk",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "353": {
+        "jpn": "たのしい",
+        "romaji": "tanoshii",
+        "arti": "senang",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "354": {
+        "jpn": "しろい",
+        "romaji": "shiroi",
+        "arti": "putih",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "355": {
+        "jpn": "くろい",
+        "romaji": "kuroi",
+        "arti": "hitam",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "356": {
+        "jpn": "あかい",
+        "romaji": "akai",
+        "arti": "merah",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "357": {
+        "jpn": "あおい",
+        "romaji": "aoi",
+        "arti": "biru",
+        "jenis": "kata sifat-i",
+        "bab": 8
+    },
+    "358": {
+        "jpn": "さくら",
+        "romaji": "sakura",
+        "arti": "Sakura",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "359": {
+        "jpn": "やま",
+        "romaji": "yama",
+        "arti": "gunung",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "360": {
+        "jpn": "まち",
+        "romaji": "machi",
+        "arti": "kota",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "361": {
+        "jpn": "たべもの",
+        "romaji": "tabemono",
+        "arti": "makanan",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "362": {
+        "jpn": "ところ",
+        "romaji": "tokoro",
+        "arti": "tempat",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "363": {
+        "jpn": "りょう",
+        "romaji": "ryou",
+        "arti": "asrama",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "364": {
+        "jpn": "レストラン",
+        "romaji": "resutoran",
+        "arti": "restoran",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "365": {
+        "jpn": "せいかつ",
+        "romaji": "seikatsu",
+        "arti": "kehidupan",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "366": {
+        "jpn": "おしごと",
+        "romaji": "oshigoto",
+        "arti": "pekerjaan",
+        "jenis": "kata benda",
+        "bab": 8
+    },
+    "367": {
+        "jpn": "どう",
+        "romaji": "dou",
+        "arti": "bagaimana",
+        "jenis": "kata tanya",
+        "bab": 8
+    },
+    "368": {
+        "jpn": "どんな",
+        "romaji": "donna",
+        "arti": "yang bagaimana",
+        "jenis": "kata tanya",
+        "bab": 8
+    },
+    "369": {
+        "jpn": "とても",
+        "romaji": "totemo",
+        "arti": "sangat",
+        "jenis": "keterangan",
+        "bab": 8
+    },
+    "370": {
+        "jpn": "あまり",
+        "romaji": "amari",
+        "arti": "kurang begitu (negatif)",
+        "jenis": "keterangan",
+        "bab": 8
+    },
+    "371": {
+        "jpn": "そして",
+        "romaji": "soshite",
+        "arti": "kemudian, dan",
+        "jenis": "kata sambung",
+        "bab": 8
+    },
+    "372": {
+        "jpn": "〜が、〜",
+        "romaji": "~ ga, ~",
+        "arti": "~ tetapi ~",
+        "jenis": "kata sambung",
+        "bab": 8
+    },
+    "373": {
+        "jpn": "お元気ですか",
+        "romaji": "ogenki desu ka",
+        "arti": "Apa kabar?",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "374": {
+        "jpn": "そうですね",
+        "romaji": "sou desu ne",
+        "arti": "Bagaimana ya?",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "375": {
+        "jpn": "もう一杯いかがですか",
+        "romaji": "mou ippai ikaga desu ka",
+        "arti": "Mau tambah satu cangkir lagi?",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "376": {
+        "jpn": "いいえ、けっこうです",
+        "romaji": "iie, kekkou desu",
+        "arti": "Tidak, terima kasih. Sudah cukup.",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "377": {
+        "jpn": "もう〜ですね",
+        "romaji": "mou ~ desu ne",
+        "arti": "Sudah ~ ya.",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "378": {
+        "jpn": "そろそろ失礼します",
+        "romaji": "sorosoro shitsurei shimasu",
+        "arti": "Maaf, saya mau pamit dulu.",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "379": {
+        "jpn": "いいえ",
+        "romaji": "iie",
+        "arti": "Sama-sama.",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "380": {
+        "jpn": "またいらっしゃってください",
+        "romaji": "mata irasshatte kudasai",
+        "arti": "Silakan datang lagi.",
+        "jenis": "ungkapan",
+        "bab": 8
+    },
+    "381": {
+        "jpn": "わかります",
+        "romaji": "wakarimasu",
+        "arti": "mengerti",
+        "jenis": "kata kerja",
+        "bab": 9
+    },
+    "382": {
+        "jpn": "あります",
+        "romaji": "arimasu",
+        "arti": "ada, mempunyai",
+        "jenis": "kata kerja",
+        "bab": 9
+    },
+    "383": {
+        "jpn": "すきな",
+        "romaji": "suki na",
+        "arti": "suka, gemar",
+        "jenis": "kata sifat-na",
+        "bab": 9
+    },
+    "384": {
+        "jpn": "きらいな",
+        "romaji": "kirai na",
+        "arti": "tidak suka",
+        "jenis": "kata sifat-na",
+        "bab": 9
+    },
+    "385": {
+        "jpn": "じょうずな",
+        "romaji": "jouzu na",
+        "arti": "pandai, pintar",
+        "jenis": "kata sifat-na",
+        "bab": 9
+    },
+    "386": {
+        "jpn": "へたな",
+        "romaji": "heta na",
+        "arti": "tidak pandai, tidak pintar",
+        "jenis": "kata sifat-na",
+        "bab": 9
+    },
+    "387": {
+        "jpn": "のみもの",
+        "romaji": "nomimono",
+        "arti": "minuman",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "388": {
+        "jpn": "りょうり",
+        "romaji": "ryouri",
+        "arti": "masakan",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "389": {
+        "jpn": "スポーツ",
+        "romaji": "supootsu",
+        "arti": "olahraga",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "390": {
+        "jpn": "やきゅう",
+        "romaji": "yakyuu",
+        "arti": "baseball",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "391": {
+        "jpn": "ダンス",
+        "romaji": "dansu",
+        "arti": "dansa",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "392": {
+        "jpn": "りょこう",
+        "romaji": "ryokou",
+        "arti": "tamasya, perjalanan",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "393": {
+        "jpn": "おんがく",
+        "romaji": "ongaku",
+        "arti": "musik",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "394": {
+        "jpn": "うた",
+        "romaji": "uta",
+        "arti": "lagu",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "395": {
+        "jpn": "クラシック",
+        "romaji": "kurashikku",
+        "arti": "klasik",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "396": {
+        "jpn": "ジャズ",
+        "romaji": "jazu",
+        "arti": "jazz",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "397": {
+        "jpn": "コンサート",
+        "romaji": "konsaato",
+        "arti": "konser",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "398": {
+        "jpn": "カラオケ",
+        "romaji": "karaoke",
+        "arti": "karaoke",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "399": {
+        "jpn": "かぶき",
+        "romaji": "kabuki",
+        "arti": "Kabuki (drama tradisional Jepang)",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "400": {
+        "jpn": "え",
+        "romaji": "e",
+        "arti": "gambar",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "401": {
+        "jpn": "じ",
+        "romaji": "ji",
+        "arti": "huruf",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "402": {
+        "jpn": "かんじ",
+        "romaji": "kanji",
+        "arti": "Kanji",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "403": {
+        "jpn": "ひらがな",
+        "romaji": "hiragana",
+        "arti": "Hiragana",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "404": {
+        "jpn": "カタカナ",
+        "romaji": "katakana",
+        "arti": "Katakana",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "405": {
+        "jpn": "ローマじ",
+        "romaji": "roomaji",
+        "arti": "huruf latin",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "406": {
+        "jpn": "こまかいおかね",
+        "romaji": "komakai okane",
+        "arti": "uang kecil, receh",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "407": {
+        "jpn": "チケット",
+        "romaji": "chiketto",
+        "arti": "tiket",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "408": {
+        "jpn": "じかん",
+        "romaji": "jikan",
+        "arti": "jam, waktu",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "409": {
+        "jpn": "ようじ",
+        "romaji": "youji",
+        "arti": "urusan",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "410": {
+        "jpn": "やくそく",
+        "romaji": "yakusoku",
+        "arti": "janji",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "411": {
+        "jpn": "アルバイト",
+        "romaji": "arubaito",
+        "arti": "kerja paruh waktu",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "412": {
+        "jpn": "ごしゅじん",
+        "romaji": "goshujin",
+        "arti": "suami (orang lain)",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "413": {
+        "jpn": "おっと",
+        "romaji": "otto",
+        "arti": "suami",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "414": {
+        "jpn": "おくさん",
+        "romaji": "okusan",
+        "arti": "istri (orang lain)",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "415": {
+        "jpn": "つま",
+        "romaji": "tsuma",
+        "arti": "istri",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "416": {
+        "jpn": "こども",
+        "romaji": "kodomo",
+        "arti": "anak",
+        "jenis": "kata benda",
+        "bab": 9
+    },
+    "417": {
+        "jpn": "よく",
+        "romaji": "yoku",
+        "arti": "dengan baik",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "418": {
+        "jpn": "だいたい",
+        "romaji": "daitai",
+        "arti": "kira-kira",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "419": {
+        "jpn": "たくさん",
+        "romaji": "takusan",
+        "arti": "banyak",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "420": {
+        "jpn": "すこし",
+        "romaji": "sukoshi",
+        "arti": "sedikit",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "421": {
+        "jpn": "ぜんぜん",
+        "romaji": "zenzen",
+        "arti": "sama sekali (negatif)",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "422": {
+        "jpn": "はやく",
+        "romaji": "hayaku",
+        "arti": "dengan cepat",
+        "jenis": "keterangan",
+        "bab": 9
+    },
+    "423": {
+        "jpn": "〜から",
+        "romaji": "~ kara",
+        "arti": "karena ~, sebab ~",
+        "jenis": "partikel",
+        "bab": 9
+    },
+    "424": {
+        "jpn": "どうして",
+        "romaji": "doushite",
+        "arti": "kenapa",
+        "jenis": "kata tanya",
+        "bab": 9
+    },
+    "425": {
+        "jpn": "貸してください",
+        "romaji": "kashite kudasai",
+        "arti": "Tolong pinjamkan.",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "426": {
+        "jpn": "いいですよ",
+        "romaji": "ii desu yo",
+        "arti": "Boleh.",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "427": {
+        "jpn": "残念ですね",
+        "romaji": "zannen desu ne",
+        "arti": "Sayang sekali.",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "428": {
+        "jpn": "ああ",
+        "romaji": "aa",
+        "arti": "ah, oh",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "429": {
+        "jpn": "いっしょにいかがですか",
+        "romaji": "issho ni ikaga desu ka",
+        "arti": "Bagaimana kalau bersama-sama?",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "430": {
+        "jpn": "ちょっと…",
+        "romaji": "chotto…",
+        "arti": "Maaf ya, agak… (menolak halus)",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "431": {
+        "jpn": "だめですか",
+        "romaji": "dame desu ka",
+        "arti": "Tidak bisa ya?",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "432": {
+        "jpn": "また今度お願いします",
+        "romaji": "mata kondo onegaishimasu",
+        "arti": "Mungkin lain kali.",
+        "jenis": "ungkapan",
+        "bab": 9
+    },
+    "433": {
+        "jpn": "あります",
+        "romaji": "arimasu",
+        "arti": "ada (untuk benda mati)",
+        "jenis": "kata kerja",
+        "bab": 10
+    },
+    "434": {
+        "jpn": "います",
+        "romaji": "imasu",
+        "arti": "ada (untuk makhluk hidup)",
+        "jenis": "kata kerja",
+        "bab": 10
+    },
+    "435": {
+        "jpn": "いろいろ[な]",
+        "romaji": "iroiro [na]",
+        "arti": "berbagai",
+        "jenis": "kata sifat-na",
+        "bab": 10
+    },
+    "436": {
+        "jpn": "おとこのひと",
+        "romaji": "otoko no hito",
+        "arti": "orang laki-laki",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "437": {
+        "jpn": "おんなのひと",
+        "romaji": "onna no hito",
+        "arti": "orang perempuan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "438": {
+        "jpn": "おとこのこ",
+        "romaji": "otoko no ko",
+        "arti": "anak laki-laki",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "439": {
+        "jpn": "おんなのこ",
+        "romaji": "onna no ko",
+        "arti": "anak perempuan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "440": {
+        "jpn": "いぬ",
+        "romaji": "inu",
+        "arti": "anjing",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "441": {
+        "jpn": "ねこ",
+        "romaji": "neko",
+        "arti": "kucing",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "442": {
+        "jpn": "パンダ",
+        "romaji": "panda",
+        "arti": "panda",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "443": {
+        "jpn": "ぞう",
+        "romaji": "zou",
+        "arti": "gajah",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "444": {
+        "jpn": "き",
+        "romaji": "ki",
+        "arti": "pohon",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "445": {
+        "jpn": "もの",
+        "romaji": "mono",
+        "arti": "barang",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "446": {
+        "jpn": "でんち",
+        "romaji": "denchi",
+        "arti": "baterai",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "447": {
+        "jpn": "はこ",
+        "romaji": "hako",
+        "arti": "kotak",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "448": {
+        "jpn": "スイッチ",
+        "romaji": "suicchi",
+        "arti": "tombol, sakelar",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "449": {
+        "jpn": "れいぞうこ",
+        "romaji": "reizouko",
+        "arti": "kulkas",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "450": {
+        "jpn": "テーブル",
+        "romaji": "teeburu",
+        "arti": "meja makan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "451": {
+        "jpn": "ベッド",
+        "romaji": "beddo",
+        "arti": "tempat tidur",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "452": {
+        "jpn": "たな",
+        "romaji": "tana",
+        "arti": "lemari, rak",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "453": {
+        "jpn": "ドア",
+        "romaji": "doa",
+        "arti": "pintu",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "454": {
+        "jpn": "まど",
+        "romaji": "mado",
+        "arti": "jendela",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "455": {
+        "jpn": "ポスト",
+        "romaji": "posuto",
+        "arti": "kotak surat",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "456": {
+        "jpn": "ビル",
+        "romaji": "biru",
+        "arti": "gedung",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "457": {
+        "jpn": "ATM",
+        "romaji": "eetiiemu",
+        "arti": "ATM",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "458": {
+        "jpn": "コンビニ",
+        "romaji": "konbini",
+        "arti": "toko 24 jam",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "459": {
+        "jpn": "こうえん",
+        "romaji": "kouen",
+        "arti": "taman",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "460": {
+        "jpn": "きっさてん",
+        "romaji": "kissaten",
+        "arti": "kedai kopi",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "461": {
+        "jpn": "〜や",
+        "romaji": "~ya",
+        "arti": "toko ~",
+        "jenis": "akhiran",
+        "bab": 10
+    },
+    "462": {
+        "jpn": "のりば",
+        "romaji": "noriba",
+        "arti": "tempat naik",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "463": {
+        "jpn": "けん",
+        "romaji": "ken",
+        "arti": "prefektur",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "464": {
+        "jpn": "うえ",
+        "romaji": "ue",
+        "arti": "atas",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "465": {
+        "jpn": "した",
+        "romaji": "shita",
+        "arti": "bawah",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "466": {
+        "jpn": "まえ",
+        "romaji": "mae",
+        "arti": "depan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "467": {
+        "jpn": "うしろ",
+        "romaji": "ushiro",
+        "arti": "belakang",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "468": {
+        "jpn": "みぎ",
+        "romaji": "migi",
+        "arti": "kanan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "469": {
+        "jpn": "ひだり",
+        "romaji": "hidari",
+        "arti": "kiri",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "470": {
+        "jpn": "なか",
+        "romaji": "naka",
+        "arti": "dalam",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "471": {
+        "jpn": "そと",
+        "romaji": "soto",
+        "arti": "luar",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "472": {
+        "jpn": "となり",
+        "romaji": "tonari",
+        "arti": "sebelah",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "473": {
+        "jpn": "ちかく",
+        "romaji": "chikaku",
+        "arti": "dekat",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "474": {
+        "jpn": "あいだ",
+        "romaji": "aida",
+        "arti": "antara",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "475": {
+        "jpn": "〜や〜[など]",
+        "romaji": "~ya ~ [nado]",
+        "arti": "~ dan ~ (dan lain-lain)",
+        "jenis": "pola",
+        "bab": 10
+    },
+    "476": {
+        "jpn": "【お礼】",
+        "romaji": "orei",
+        "arti": "ucapan terima kasih",
+        "jenis": "keterangan",
+        "bab": 10
+    },
+    "477": {
+        "jpn": "ごめん",
+        "romaji": "gomen",
+        "arti": "maaf",
+        "jenis": "ungkapan",
+        "bab": 10
+    },
+    "478": {
+        "jpn": "すみません",
+        "romaji": "sumimasen",
+        "arti": "terima kasih / maaf",
+        "jenis": "ungkapan",
+        "bab": 10
+    },
+    "479": {
+        "jpn": "ナンプラー",
+        "romaji": "nanpuraa",
+        "arti": "kecap ikan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "480": {
+        "jpn": "コーナー",
+        "romaji": "koonaa",
+        "arti": "pojok / bagian penjualan",
+        "jenis": "kata benda",
+        "bab": 10
+    },
+    "481": {
+        "jpn": "いちばん下",
+        "romaji": "ichiban shita",
+        "arti": "paling bawah",
+        "jenis": "keterangan",
+        "bab": 10
+    },
+    "482": {
+        "jpn": "東京ディズニーランド",
+        "romaji": "Toukyou Dizuniirando",
+        "arti": "Tokyo Disneyland",
+        "jenis": "nama tempat",
+        "bab": 10
+    },
+    "483": {
+        "jpn": "アジアストア",
+        "romaji": "ajia sutoa",
+        "arti": "toko Asia",
+        "jenis": "nama tempat",
+        "bab": 10
+    },
+    "484": {
+        "jpn": "います【こどもが〜】",
+        "romaji": "imasu [kodomo ga ~]",
+        "arti": "ada, mempunyai (anak)",
+        "jenis": "kata kerja",
+        "bab": 11
+    },
+    "485": {
+        "jpn": "います【にほんに〜】",
+        "romaji": "imasu [nihon ni ~]",
+        "arti": "ada, tinggal (di Jepang)",
+        "jenis": "kata kerja",
+        "bab": 11
+    },
+    "486": {
+        "jpn": "かかります",
+        "romaji": "kakarimasu",
+        "arti": "memakan waktu / biaya",
+        "jenis": "kata kerja",
+        "bab": 11
+    },
+    "487": {
+        "jpn": "やすみます【かいしゃを〜】",
+        "romaji": "yasumimasu [kaisha o ~]",
+        "arti": "tidak masuk (kerja)",
+        "jenis": "kata kerja",
+        "bab": 11
+    },
+    "488": {
+        "jpn": "ひとつ",
+        "romaji": "hitotsu",
+        "arti": "satu",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "489": {
+        "jpn": "ふたつ",
+        "romaji": "futatsu",
+        "arti": "dua",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "490": {
+        "jpn": "みっつ",
+        "romaji": "mittsu",
+        "arti": "tiga",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "491": {
+        "jpn": "よっつ",
+        "romaji": "yottsu",
+        "arti": "empat",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "492": {
+        "jpn": "いつつ",
+        "romaji": "itsutsu",
+        "arti": "lima",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "493": {
+        "jpn": "むっつ",
+        "romaji": "muttsu",
+        "arti": "enam",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "494": {
+        "jpn": "ななつ",
+        "romaji": "nanatsu",
+        "arti": "tujuh",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "495": {
+        "jpn": "やっつ",
+        "romaji": "yattsu",
+        "arti": "delapan",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "496": {
+        "jpn": "ここのつ",
+        "romaji": "kokonotsu",
+        "arti": "sembilan",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "497": {
+        "jpn": "とお",
+        "romaji": "too",
+        "arti": "sepuluh",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "498": {
+        "jpn": "いくつ",
+        "romaji": "ikutsu",
+        "arti": "berapa",
+        "jenis": "kata tanya",
+        "bab": 11
+    },
+    "499": {
+        "jpn": "ひとり",
+        "romaji": "hitori",
+        "arti": "satu orang",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "500": {
+        "jpn": "ふたり",
+        "romaji": "futari",
+        "arti": "dua orang",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "501": {
+        "jpn": "〜にん",
+        "romaji": "~nin",
+        "arti": "~ orang",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "502": {
+        "jpn": "〜だい",
+        "romaji": "~dai",
+        "arti": "buah (untuk mesin/kendaraan)",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "503": {
+        "jpn": "〜まい",
+        "romaji": "~mai",
+        "arti": "lembar",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "504": {
+        "jpn": "〜かい",
+        "romaji": "~kai",
+        "arti": "kali",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "505": {
+        "jpn": "りんご",
+        "romaji": "ringo",
+        "arti": "apel",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "506": {
+        "jpn": "みかん",
+        "romaji": "mikan",
+        "arti": "jeruk",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "507": {
+        "jpn": "サンドイッチ",
+        "romaji": "sandoicchi",
+        "arti": "sandwich",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "508": {
+        "jpn": "カレーライス",
+        "romaji": "karee raisu",
+        "arti": "nasi kari",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "509": {
+        "jpn": "アイスクリーム",
+        "romaji": "aisu kuriimu",
+        "arti": "es krim",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "510": {
+        "jpn": "きって",
+        "romaji": "kitte",
+        "arti": "perangko",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "511": {
+        "jpn": "はがき",
+        "romaji": "hagaki",
+        "arti": "kartu pos",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "512": {
+        "jpn": "ふうとう",
+        "romaji": "fuutou",
+        "arti": "amplop",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "513": {
+        "jpn": "りょうしん",
+        "romaji": "ryoushin",
+        "arti": "orang tua",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "514": {
+        "jpn": "きょうだい",
+        "romaji": "kyoudai",
+        "arti": "saudara",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "515": {
+        "jpn": "あに",
+        "romaji": "ani",
+        "arti": "kakak laki-laki (sendiri)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "516": {
+        "jpn": "おにいさん",
+        "romaji": "oniisan",
+        "arti": "kakak laki-laki (orang lain)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "517": {
+        "jpn": "あね",
+        "romaji": "ane",
+        "arti": "kakak perempuan (sendiri)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "518": {
+        "jpn": "おねえさん",
+        "romaji": "oneesan",
+        "arti": "kakak perempuan (orang lain)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "519": {
+        "jpn": "おとうと",
+        "romaji": "otouto",
+        "arti": "adik laki-laki (sendiri)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "520": {
+        "jpn": "おとうとさん",
+        "romaji": "otoutosan",
+        "arti": "adik laki-laki (orang lain)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "521": {
+        "jpn": "いもうと",
+        "romaji": "imouto",
+        "arti": "adik perempuan (sendiri)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "522": {
+        "jpn": "いもうとさん",
+        "romaji": "imoutosan",
+        "arti": "adik perempuan (orang lain)",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "523": {
+        "jpn": "がいこく",
+        "romaji": "gaikoku",
+        "arti": "luar negeri",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "524": {
+        "jpn": "りゅうがくせい",
+        "romaji": "ryuugakusei",
+        "arti": "pelajar asing",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "525": {
+        "jpn": "クラス",
+        "romaji": "kurasu",
+        "arti": "kelas",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "526": {
+        "jpn": "〜じかん",
+        "romaji": "~jikan",
+        "arti": "~ jam",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "527": {
+        "jpn": "〜しゅうかん",
+        "romaji": "~shuukan",
+        "arti": "~ minggu",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "528": {
+        "jpn": "〜かげつ",
+        "romaji": "~kagetsu",
+        "arti": "~ bulan",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "529": {
+        "jpn": "〜ねん",
+        "romaji": "~nen",
+        "arti": "~ tahun",
+        "jenis": "kata bantu bilangan",
+        "bab": 11
+    },
+    "530": {
+        "jpn": "〜ぐらい",
+        "romaji": "~gurai",
+        "arti": "kira-kira",
+        "jenis": "keterangan",
+        "bab": 11
+    },
+    "531": {
+        "jpn": "ぜんぶで",
+        "romaji": "zenbu de",
+        "arti": "semuanya",
+        "jenis": "keterangan",
+        "bab": 11
+    },
+    "532": {
+        "jpn": "みんな",
+        "romaji": "minna",
+        "arti": "semua",
+        "jenis": "kata benda",
+        "bab": 11
+    },
+    "533": {
+        "jpn": "〜だけ",
+        "romaji": "~dake",
+        "arti": "hanya ~ saja",
+        "jenis": "partikel",
+        "bab": 11
+    },
+    "534": {
+        "jpn": "かんたん",
+        "romaji": "kantan",
+        "arti": "mudah, gampang",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "535": {
+        "jpn": "ちかい",
+        "romaji": "chikai",
+        "arti": "dekat",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "536": {
+        "jpn": "とおい",
+        "romaji": "tooi",
+        "arti": "jauh",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "537": {
+        "jpn": "はやい",
+        "romaji": "hayai",
+        "arti": "cepat",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "538": {
+        "jpn": "おそい",
+        "romaji": "osoi",
+        "arti": "lambat",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "539": {
+        "jpn": "おおい（ひとが〜）",
+        "romaji": "ooi (hito ga ~)",
+        "arti": "banyak (orang)",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "540": {
+        "jpn": "すくない（ひとが〜）",
+        "romaji": "sukunai (hito ga ~)",
+        "arti": "sedikit (orang)",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "541": {
+        "jpn": "あたたかい",
+        "romaji": "atatakai",
+        "arti": "hangat",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "542": {
+        "jpn": "すずしい",
+        "romaji": "suzushii",
+        "arti": "sejuk",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "543": {
+        "jpn": "あまい",
+        "romaji": "amai",
+        "arti": "manis",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "544": {
+        "jpn": "からい",
+        "romaji": "karai",
+        "arti": "pedas",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "545": {
+        "jpn": "おもい",
+        "romaji": "omoi",
+        "arti": "berat",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "546": {
+        "jpn": "かるい",
+        "romaji": "karui",
+        "arti": "ringan",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "547": {
+        "jpn": "いい（コーヒーが〜）",
+        "romaji": "ii (koohii ga ~)",
+        "arti": "lebih baik (kopi)",
+        "jenis": "kata sifat",
+        "bab": 12
+    },
+    "548": {
+        "jpn": "きせつ",
+        "romaji": "kisetsu",
+        "arti": "musim",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "549": {
+        "jpn": "はる",
+        "romaji": "haru",
+        "arti": "musim semi",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "550": {
+        "jpn": "なつ",
+        "romaji": "natsu",
+        "arti": "musim panas",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "551": {
+        "jpn": "あき",
+        "romaji": "aki",
+        "arti": "musim gugur",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "552": {
+        "jpn": "ふゆ",
+        "romaji": "fuyu",
+        "arti": "musim dingin",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "553": {
+        "jpn": "てんき",
+        "romaji": "tenki",
+        "arti": "cuaca",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "554": {
+        "jpn": "あめ",
+        "romaji": "ame",
+        "arti": "hujan",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "555": {
+        "jpn": "ゆき",
+        "romaji": "yuki",
+        "arti": "salju",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "556": {
+        "jpn": "くもり",
+        "romaji": "kumori",
+        "arti": "mendung",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "557": {
+        "jpn": "ホテル",
+        "romaji": "hoteru",
+        "arti": "hotel",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "558": {
+        "jpn": "くうこう",
+        "romaji": "kuukou",
+        "arti": "bandara",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "559": {
+        "jpn": "うみ",
+        "romaji": "umi",
+        "arti": "laut",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "560": {
+        "jpn": "せかい",
+        "romaji": "sekai",
+        "arti": "dunia",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "561": {
+        "jpn": "パーティー",
+        "romaji": "paatii",
+        "arti": "pesta",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "562": {
+        "jpn": "おまつり",
+        "romaji": "omatsuri",
+        "arti": "perayaan",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "563": {
+        "jpn": "すきやき",
+        "romaji": "sukiyaki",
+        "arti": "sukiyaki",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "564": {
+        "jpn": "さしみ",
+        "romaji": "sashimi",
+        "arti": "sashimi",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "565": {
+        "jpn": "すし",
+        "romaji": "sushi",
+        "arti": "sushi",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "566": {
+        "jpn": "てんぷら",
+        "romaji": "tenpura",
+        "arti": "tempura",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "567": {
+        "jpn": "ぶたにく",
+        "romaji": "butaniku",
+        "arti": "daging babi",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "568": {
+        "jpn": "とりにく",
+        "romaji": "toriniku",
+        "arti": "daging ayam",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "569": {
+        "jpn": "ぎゅうにく",
+        "romaji": "gyuuniku",
+        "arti": "daging sapi",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "570": {
+        "jpn": "レモン",
+        "romaji": "remon",
+        "arti": "lemon",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "571": {
+        "jpn": "いけばな",
+        "romaji": "ikebana",
+        "arti": "seni merangkai bunga",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "572": {
+        "jpn": "もみじ",
+        "romaji": "momiji",
+        "arti": "daun maple",
+        "jenis": "kata benda",
+        "bab": 12
+    },
+    "573": {
+        "jpn": "どちら",
+        "romaji": "dochira",
+        "arti": "yang mana",
+        "jenis": "kata tanya",
+        "bab": 12
+    },
+    "574": {
+        "jpn": "どちらも",
+        "romaji": "dochira mo",
+        "arti": "keduanya",
+        "jenis": "kata keterangan",
+        "bab": 12
+    },
+    "575": {
+        "jpn": "いちばん",
+        "romaji": "ichiban",
+        "arti": "paling",
+        "jenis": "kata keterangan",
+        "bab": 12
+    },
+    "576": {
+        "jpn": "ずっと",
+        "romaji": "zutto",
+        "arti": "jauh lebih",
+        "jenis": "kata keterangan",
+        "bab": 12
+    },
+    "577": {
+        "jpn": "はじめて",
+        "romaji": "hajimete",
+        "arti": "untuk pertama kali",
+        "jenis": "kata keterangan",
+        "bab": 12
+    },
+    "578": {
+        "jpn": "あそびます",
+        "romaji": "asobimasu",
+        "arti": "bermain",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "579": {
+        "jpn": "およぎます",
+        "romaji": "oyogimasu",
+        "arti": "berenang",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "580": {
+        "jpn": "むかえます",
+        "romaji": "mukaemasu",
+        "arti": "menjemput",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "581": {
+        "jpn": "つかれます",
+        "romaji": "tsukaremasu",
+        "arti": "lelah",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "582": {
+        "jpn": "けっこんします",
+        "romaji": "kekkon shimasu",
+        "arti": "menikah",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "583": {
+        "jpn": "かいものします",
+        "romaji": "kaimono shimasu",
+        "arti": "berbelanja",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "584": {
+        "jpn": "しょくじします",
+        "romaji": "shokuji shimasu",
+        "arti": "makan",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "585": {
+        "jpn": "さんぽします",
+        "romaji": "sanpo shimasu",
+        "arti": "berjalan-jalan",
+        "jenis": "kata kerja",
+        "bab": 13
+    },
+    "586": {
+        "jpn": "たいへん［な］",
+        "romaji": "taihen [na]",
+        "arti": "berat, susah",
+        "jenis": "kata sifat-na",
+        "bab": 13
+    },
+    "587": {
+        "jpn": "ほしい",
+        "romaji": "hoshii",
+        "arti": "ingin, mau",
+        "jenis": "kata sifat-i",
+        "bab": 13
+    },
+    "588": {
+        "jpn": "ひろい",
+        "romaji": "hiroi",
+        "arti": "luas",
+        "jenis": "kata sifat-i",
+        "bab": 13
+    },
+    "589": {
+        "jpn": "せまい",
+        "romaji": "semai",
+        "arti": "sempit",
+        "jenis": "kata sifat-i",
+        "bab": 13
+    },
+    "590": {
+        "jpn": "プール",
+        "romaji": "puuru",
+        "arti": "kolam renang",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "591": {
+        "jpn": "かわ",
+        "romaji": "kawa",
+        "arti": "sungai",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "592": {
+        "jpn": "びじゅつ",
+        "romaji": "bijutsu",
+        "arti": "seni",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "593": {
+        "jpn": "つり",
+        "romaji": "tsuri",
+        "arti": "pancing",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "594": {
+        "jpn": "スキー",
+        "romaji": "sukii",
+        "arti": "ski",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "595": {
+        "jpn": "しゅうまつ",
+        "romaji": "shuumatsu",
+        "arti": "akhir pekan",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "596": {
+        "jpn": "おしょうがつ",
+        "romaji": "oshougatsu",
+        "arti": "tahun baru",
+        "jenis": "kata benda",
+        "bab": 13
+    },
+    "597": {
+        "jpn": "～ごろ",
+        "romaji": "~goro",
+        "arti": "sekitar, kira-kira",
+        "jenis": "kata keterangan",
+        "bab": 13
+    },
+    "598": {
+        "jpn": "なにか",
+        "romaji": "nanika",
+        "arti": "sesuatu",
+        "jenis": "kata ganti",
+        "bab": 13
+    },
+    "599": {
+        "jpn": "どこか",
+        "romaji": "dokoka",
+        "arti": "suatu tempat",
+        "jenis": "kata keterangan",
+        "bab": 13
+    },
+    "600": {
+        "jpn": "つけます",
+        "romaji": "tsukemasu",
+        "arti": "menyalakan, memasang, menghidupkan",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "601": {
+        "jpn": "けします",
+        "romaji": "keshimasu",
+        "arti": "mematikan, memadamkan",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "602": {
+        "jpn": "あけます",
+        "romaji": "akemasu",
+        "arti": "membuka",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "603": {
+        "jpn": "しめます",
+        "romaji": "shimemasu",
+        "arti": "menutup",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "604": {
+        "jpn": "いそぎます",
+        "romaji": "isogimasu",
+        "arti": "buru-buru",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "605": {
+        "jpn": "まちます",
+        "romaji": "machimasu",
+        "arti": "menunggu",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "606": {
+        "jpn": "もちます",
+        "romaji": "mochimasu",
+        "arti": "membawa",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "607": {
+        "jpn": "とります",
+        "romaji": "torimasu",
+        "arti": "mengambil",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "608": {
+        "jpn": "てつだいます",
+        "romaji": "tetsudaimasu",
+        "arti": "membantu",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "609": {
+        "jpn": "よびます",
+        "romaji": "yobimasu",
+        "arti": "memanggil",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "610": {
+        "jpn": "はなします",
+        "romaji": "hanashimasu",
+        "arti": "berbicara",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "611": {
+        "jpn": "つかいます",
+        "romaji": "tsukaimasu",
+        "arti": "memakai",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "612": {
+        "jpn": "とめます",
+        "romaji": "tomemasu",
+        "arti": "menghentikan, memarkir",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "613": {
+        "jpn": "みせます",
+        "romaji": "misemasu",
+        "arti": "memperlihatkan",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "614": {
+        "jpn": "おしえます",
+        "romaji": "oshiemasu",
+        "arti": "memberitahukan, mengajar",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "615": {
+        "jpn": "すわります",
+        "romaji": "suwarimasu",
+        "arti": "duduk",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "616": {
+        "jpn": "たちます",
+        "romaji": "tachimasu",
+        "arti": "berdiri",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "617": {
+        "jpn": "はいります",
+        "romaji": "hairimasu",
+        "arti": "masuk",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "618": {
+        "jpn": "でます",
+        "romaji": "demasu",
+        "arti": "keluar",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "619": {
+        "jpn": "ふります",
+        "romaji": "furimasu",
+        "arti": "turun (hujan)",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "620": {
+        "jpn": "コピーします",
+        "romaji": "kopii shimasu",
+        "arti": "memfotokopi",
+        "jenis": "kata kerja",
+        "bab": 14
+    },
+    "621": {
+        "jpn": "でんき",
+        "romaji": "denki",
+        "arti": "listrik, lampu",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "622": {
+        "jpn": "エアコン",
+        "romaji": "eakon",
+        "arti": "AC",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "623": {
+        "jpn": "パスポート",
+        "romaji": "pasupooto",
+        "arti": "paspor",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "624": {
+        "jpn": "なまえ",
+        "romaji": "namae",
+        "arti": "nama",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "625": {
+        "jpn": "じゅうしょ",
+        "romaji": "juusho",
+        "arti": "alamat",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "626": {
+        "jpn": "ちず",
+        "romaji": "chizu",
+        "arti": "peta",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "627": {
+        "jpn": "しお",
+        "romaji": "shio",
+        "arti": "garam",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "628": {
+        "jpn": "さとう",
+        "romaji": "satou",
+        "arti": "gula",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "629": {
+        "jpn": "もんだい",
+        "romaji": "mondai",
+        "arti": "masalah, soal",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "630": {
+        "jpn": "こたえ",
+        "romaji": "kotae",
+        "arti": "jawaban",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "631": {
+        "jpn": "よみかた",
+        "romaji": "yomikata",
+        "arti": "cara membaca",
+        "jenis": "kata benda",
+        "bab": 14
+    },
+    "632": {
+        "jpn": "～かた",
+        "romaji": "~kata",
+        "arti": "cara ~",
+        "jenis": "akhiran",
+        "bab": 14
+    },
+    "633": {
+        "jpn": "まっすぐ",
+        "romaji": "massugu",
+        "arti": "lurus",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "634": {
+        "jpn": "ゆっくり",
+        "romaji": "yukkuri",
+        "arti": "pelan-pelan",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "635": {
+        "jpn": "すぐ",
+        "romaji": "sugu",
+        "arti": "segera, langsung",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "636": {
+        "jpn": "また",
+        "romaji": "mata",
+        "arti": "lagi",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "637": {
+        "jpn": "あとで",
+        "romaji": "atode",
+        "arti": "nanti",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "638": {
+        "jpn": "もうすこし",
+        "romaji": "mou sukoshi",
+        "arti": "sedikit lagi",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "639": {
+        "jpn": "もう～",
+        "romaji": "mou ~",
+        "arti": "~ lagi",
+        "jenis": "kata keterangan",
+        "bab": 14
+    },
+    "640": {
+        "jpn": "おきます",
+        "romaji": "okimasu",
+        "arti": "meletakkan, menaruh",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "641": {
+        "jpn": "つくります",
+        "romaji": "tsukurimasu",
+        "arti": "membuat, membangun, memproduksi",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "642": {
+        "jpn": "うります",
+        "romaji": "urimasu",
+        "arti": "menjual",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "643": {
+        "jpn": "しります",
+        "romaji": "shirimasu",
+        "arti": "mengetahui, mengenal",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "644": {
+        "jpn": "すみます",
+        "romaji": "sumimasu",
+        "arti": "tinggal",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "645": {
+        "jpn": "けんきゅうします",
+        "romaji": "kenkyuu shimasu",
+        "arti": "meneliti",
+        "jenis": "kata kerja",
+        "bab": 15
+    },
+    "646": {
+        "jpn": "しりょう",
+        "romaji": "shiryou",
+        "arti": "data, bahan",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "647": {
+        "jpn": "カタログ",
+        "romaji": "katarogu",
+        "arti": "katalog",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "648": {
+        "jpn": "じこくひょう",
+        "romaji": "jikokuhyou",
+        "arti": "jadwal",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "649": {
+        "jpn": "ふく",
+        "romaji": "fuku",
+        "arti": "baju",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "650": {
+        "jpn": "せいひん",
+        "romaji": "seihin",
+        "arti": "produk",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "651": {
+        "jpn": "ソフト",
+        "romaji": "sofuto",
+        "arti": "perangkat lunak",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "652": {
+        "jpn": "でんしじしょ",
+        "romaji": "denshi jisho",
+        "arti": "kamus elektronik",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "653": {
+        "jpn": "けいざい",
+        "romaji": "keizai",
+        "arti": "ekonomi",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "654": {
+        "jpn": "しやくしょ",
+        "romaji": "shiyakusho",
+        "arti": "kantor wali kota",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "655": {
+        "jpn": "こうこう",
+        "romaji": "koukou",
+        "arti": "SMA",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "656": {
+        "jpn": "はいしゃ",
+        "romaji": "haisha",
+        "arti": "dokter gigi",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "657": {
+        "jpn": "どくしん",
+        "romaji": "dokushin",
+        "arti": "bujangan, belum berkeluarga",
+        "jenis": "kata benda",
+        "bab": 15
+    },
+    "658": {
+        "jpn": "すみません",
+        "romaji": "sumimasen",
+        "arti": "maaf",
+        "jenis": "ungkapan",
+        "bab": 15
+    },
+    "659": {
+        "jpn": "のります",
+        "romaji": "norimasu",
+        "arti": "naik",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "660": {
+        "jpn": "おります",
+        "romaji": "orimasu",
+        "arti": "turun",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "661": {
+        "jpn": "のりかえます",
+        "romaji": "norikaemasu",
+        "arti": "ganti, pindah",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "662": {
+        "jpn": "あびます",
+        "romaji": "abimasu",
+        "arti": "mandi",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "663": {
+        "jpn": "いれます",
+        "romaji": "iremasu",
+        "arti": "memasukkan",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "664": {
+        "jpn": "だします",
+        "romaji": "dashimasu",
+        "arti": "mengeluarkan, menyerahkan",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "665": {
+        "jpn": "おろします",
+        "romaji": "oroshimasu",
+        "arti": "mengeluarkan/mengambil (uang)",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "666": {
+        "jpn": "はいります",
+        "romaji": "hairimasu",
+        "arti": "masuk",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "667": {
+        "jpn": "でます",
+        "romaji": "demasu",
+        "arti": "tamat, keluar",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "668": {
+        "jpn": "おします",
+        "romaji": "oshimasu",
+        "arti": "menekan",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "669": {
+        "jpn": "のみます",
+        "romaji": "nomimasu",
+        "arti": "minum",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "670": {
+        "jpn": "はじめます",
+        "romaji": "hajimemasu",
+        "arti": "mulai",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "671": {
+        "jpn": "みます",
+        "romaji": "mimasu",
+        "arti": "melihat, menonton",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "672": {
+        "jpn": "でんわします",
+        "romaji": "denwa shimasu",
+        "arti": "menelepon",
+        "jenis": "kata kerja",
+        "bab": 16
+    },
+    "673": {
+        "jpn": "わかい",
+        "romaji": "wakai",
+        "arti": "muda",
+        "jenis": "kata sifat-i",
+        "bab": 16
+    },
+    "674": {
+        "jpn": "ながい",
+        "romaji": "nagai",
+        "arti": "panjang",
+        "jenis": "kata sifat-i",
+        "bab": 16
+    },
+    "675": {
+        "jpn": "みじかい",
+        "romaji": "mijikai",
+        "arti": "pendek",
+        "jenis": "kata sifat-i",
+        "bab": 16
+    },
+    "676": {
+        "jpn": "あかるい",
+        "romaji": "akarui",
+        "arti": "terang",
+        "jenis": "kata sifat-i",
+        "bab": 16
+    },
+    "677": {
+        "jpn": "くらい",
+        "romaji": "kurai",
+        "arti": "gelap",
+        "jenis": "kata sifat-i",
+        "bab": 16
+    },
+    "678": {
+        "jpn": "からだ",
+        "romaji": "karada",
+        "arti": "badan",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "679": {
+        "jpn": "あたま",
+        "romaji": "atama",
+        "arti": "kepala",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "680": {
+        "jpn": "かみ",
+        "romaji": "kami",
+        "arti": "rambut",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "681": {
+        "jpn": "かお",
+        "romaji": "kao",
+        "arti": "muka",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "682": {
+        "jpn": "め",
+        "romaji": "me",
+        "arti": "mata",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "683": {
+        "jpn": "みみ",
+        "romaji": "mimi",
+        "arti": "telinga",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "684": {
+        "jpn": "はな",
+        "romaji": "hana",
+        "arti": "hidung",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "685": {
+        "jpn": "くち",
+        "romaji": "kuchi",
+        "arti": "mulut",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "686": {
+        "jpn": "は",
+        "romaji": "ha",
+        "arti": "gigi",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "687": {
+        "jpn": "おなか",
+        "romaji": "onaka",
+        "arti": "perut",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "688": {
+        "jpn": "あし",
+        "romaji": "ashi",
+        "arti": "kaki",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "689": {
+        "jpn": "せ",
+        "romaji": "se",
+        "arti": "punggung",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "690": {
+        "jpn": "サービス",
+        "romaji": "saabisu",
+        "arti": "pelayanan",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "691": {
+        "jpn": "ジョギング",
+        "romaji": "jogingu",
+        "arti": "joging",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "692": {
+        "jpn": "シャワー",
+        "romaji": "shawaa",
+        "arti": "shower",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "693": {
+        "jpn": "みどり",
+        "romaji": "midori",
+        "arti": "hijau",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "694": {
+        "jpn": "おてら",
+        "romaji": "otera",
+        "arti": "wihara",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "695": {
+        "jpn": "じんじゃ",
+        "romaji": "jinja",
+        "arti": "kuil Shinto",
+        "jenis": "kata benda",
+        "bab": 16
+    },
+    "696": {
+        "jpn": "いちばん",
+        "romaji": "ichiban",
+        "arti": "nomor satu, paling",
+        "jenis": "kata keterangan",
+        "bab": 16
+    },
+    "697": {
+        "jpn": "どうやって",
+        "romaji": "douyatte",
+        "arti": "dengan cara bagaimana",
+        "jenis": "kata tanya",
+        "bab": 16
+    },
+    "698": {
+        "jpn": "どの〜",
+        "romaji": "dono ~",
+        "arti": "~ yang mana",
+        "jenis": "kata tanya",
+        "bab": 16
+    },
+    "699": {
+        "jpn": "どれ",
+        "romaji": "dore",
+        "arti": "yang mana",
+        "jenis": "kata tanya",
+        "bab": 16
+    },
+    "700": {
+        "jpn": "おぼえます",
+        "romaji": "oboemasu",
+        "arti": "mengingat, menghafal",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "701": {
+        "jpn": "わすれます",
+        "romaji": "wasuremasu",
+        "arti": "lupa",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "702": {
+        "jpn": "なくします",
+        "romaji": "nakushimasu",
+        "arti": "kehilangan",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "703": {
+        "jpn": "はらいます",
+        "romaji": "haraimasu",
+        "arti": "membayar",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "704": {
+        "jpn": "かえします",
+        "romaji": "kaeshimasu",
+        "arti": "mengembalikan",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "705": {
+        "jpn": "でかけます",
+        "romaji": "dekakemasu",
+        "arti": "pergi, keluar, berangkat",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "706": {
+        "jpn": "ぬぎます",
+        "romaji": "nugimasu",
+        "arti": "melepas (baju, sepatu, dll)",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "707": {
+        "jpn": "もっていきます",
+        "romaji": "motte ikimasu",
+        "arti": "membawa pergi",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "708": {
+        "jpn": "もってきます",
+        "romaji": "motte kimasu",
+        "arti": "membawa datang",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "709": {
+        "jpn": "しんぱいします",
+        "romaji": "shinpai shimasu",
+        "arti": "mengkhawatirkan",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "710": {
+        "jpn": "ざんぎょうします",
+        "romaji": "zangyou shimasu",
+        "arti": "lembur",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "711": {
+        "jpn": "しゅっちょうします",
+        "romaji": "shucchou shimasu",
+        "arti": "dinas",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "712": {
+        "jpn": "のみすぎます",
+        "romaji": "nomisugimasu",
+        "arti": "minum terlalu banyak",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "713": {
+        "jpn": "はいります",
+        "romaji": "hairimasu",
+        "arti": "masuk, mandi",
+        "jenis": "kata kerja",
+        "bab": 17
+    },
+    "714": {
+        "jpn": "たいせつ［な］",
+        "romaji": "taisetsu [na]",
+        "arti": "penting, berharga",
+        "jenis": "kata sifat-na",
+        "bab": 17
+    },
+    "715": {
+        "jpn": "だいじょうぶ［な］",
+        "romaji": "daijoubu [na]",
+        "arti": "tidak apa-apa, tidak masalah",
+        "jenis": "kata sifat-na",
+        "bab": 17
+    },
+    "716": {
+        "jpn": "あぶない",
+        "romaji": "abunai",
+        "arti": "berbahaya",
+        "jenis": "kata sifat-i",
+        "bab": 17
+    },
+    "717": {
+        "jpn": "きんえん",
+        "romaji": "kin'en",
+        "arti": "dilarang merokok",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "718": {
+        "jpn": "けんこうほけんしょう",
+        "romaji": "kenkou hokenshou",
+        "arti": "kartu asuransi kesehatan",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "719": {
+        "jpn": "ねつ",
+        "romaji": "netsu",
+        "arti": "demam",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "720": {
+        "jpn": "びょうき",
+        "romaji": "byouki",
+        "arti": "sakit, penyakit",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "721": {
+        "jpn": "くすり",
+        "romaji": "kusuri",
+        "arti": "obat",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "722": {
+        "jpn": "おふろ",
+        "romaji": "ofuro",
+        "arti": "mandi, kamar mandi",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "723": {
+        "jpn": "うわぎ",
+        "romaji": "uwagi",
+        "arti": "baju, jaket",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "724": {
+        "jpn": "したぎ",
+        "romaji": "shitagi",
+        "arti": "pakaian dalam",
+        "jenis": "kata benda",
+        "bab": 17
+    },
+    "725": {
+        "jpn": "２、３にち",
+        "romaji": "ni san nichi",
+        "arti": "dua atau tiga hari",
+        "jenis": "kata keterangan",
+        "bab": 17
+    },
+    "726": {
+        "jpn": "２、３〜",
+        "romaji": "ni san ~",
+        "arti": "dua atau tiga ~",
+        "jenis": "kata keterangan",
+        "bab": 17
+    },
+    "727": {
+        "jpn": "〜までに",
+        "romaji": "~made ni",
+        "arti": "sampai dengan (batas waktu)",
+        "jenis": "partikel",
+        "bab": 17
+    },
+    "728": {
+        "jpn": "ですから",
+        "romaji": "desukara",
+        "arti": "oleh karena itu",
+        "jenis": "kata sambung",
+        "bab": 17
+    },
+    "729": {
+        "jpn": "できます",
+        "romaji": "dekimasu",
+        "arti": "dapat, bisa, mampu",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "730": {
+        "jpn": "あらいます",
+        "romaji": "araimasu",
+        "arti": "mencuci",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "731": {
+        "jpn": "ひきます",
+        "romaji": "hikimasu",
+        "arti": "bermain (alat musik seperti piano)",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "732": {
+        "jpn": "うたいます",
+        "romaji": "utaimasu",
+        "arti": "bernyanyi",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "733": {
+        "jpn": "あつめます",
+        "romaji": "atsumemasu",
+        "arti": "mengumpulkan",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "734": {
+        "jpn": "すてます",
+        "romaji": "sutemasu",
+        "arti": "membuang",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "735": {
+        "jpn": "かえます",
+        "romaji": "kaemasu",
+        "arti": "mengganti, menukar",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "736": {
+        "jpn": "うんてんします",
+        "romaji": "untenshimasu",
+        "arti": "menyetir, mengendarai",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "737": {
+        "jpn": "よやくします",
+        "romaji": "yoyakushimasu",
+        "arti": "memesan",
+        "jenis": "kata kerja",
+        "bab": 18
+    },
+    "738": {
+        "jpn": "ピアノ",
+        "romaji": "piano",
+        "arti": "piano",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "739": {
+        "jpn": "メートル",
+        "romaji": "meetoru",
+        "arti": "meter",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "740": {
+        "jpn": "げんきん",
+        "romaji": "genkin",
+        "arti": "uang tunai",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "741": {
+        "jpn": "しゅみ",
+        "romaji": "shumi",
+        "arti": "hobi, kegemaran",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "742": {
+        "jpn": "にっき",
+        "romaji": "nikki",
+        "arti": "catatan harian",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "743": {
+        "jpn": "おいのり",
+        "romaji": "oinori",
+        "arti": "doa",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "744": {
+        "jpn": "かちょう",
+        "romaji": "kachou",
+        "arti": "kepala seksi",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "745": {
+        "jpn": "ぶちょう",
+        "romaji": "buchou",
+        "arti": "kepala bagian",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "746": {
+        "jpn": "しゃちょう",
+        "romaji": "shachou",
+        "arti": "direktur utama",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "747": {
+        "jpn": "どうぶつ",
+        "romaji": "doubutsu",
+        "arti": "hewan, binatang",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "748": {
+        "jpn": "うま",
+        "romaji": "uma",
+        "arti": "kuda",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "749": {
+        "jpn": "インターネット",
+        "romaji": "intaanetto",
+        "arti": "internet",
+        "jenis": "kata benda",
+        "bab": 18
+    },
+    "750": {
+        "jpn": "のぼります",
+        "romaji": "noborimasu",
+        "arti": "naik, mendaki",
+        "jenis": "kata kerja",
+        "bab": 19
+    },
+    "751": {
+        "jpn": "とまります",
+        "romaji": "tomarimasu",
+        "arti": "menginap [di hotel]",
+        "jenis": "kata kerja",
+        "bab": 19
+    },
+    "752": {
+        "jpn": "そうじします",
+        "romaji": "soujishimasu",
+        "arti": "membersihkan",
+        "jenis": "kata kerja",
+        "bab": 19
+    },
+    "753": {
+        "jpn": "せんたくします",
+        "romaji": "sentakushimasu",
+        "arti": "mencuci pakaian",
+        "jenis": "kata kerja",
+        "bab": 19
+    },
+    "754": {
+        "jpn": "なります",
+        "romaji": "narimasu",
+        "arti": "menjadi",
+        "jenis": "kata kerja",
+        "bab": 19
+    },
+    "755": {
+        "jpn": "ねむい",
+        "romaji": "nemui",
+        "arti": "mengantuk",
+        "jenis": "kata sifat -i",
+        "bab": 19
+    },
+    "756": {
+        "jpn": "つよい",
+        "romaji": "tsuyoi",
+        "arti": "kuat",
+        "jenis": "kata sifat -i",
+        "bab": 19
+    },
+    "757": {
+        "jpn": "よわい",
+        "romaji": "yowai",
+        "arti": "lemah",
+        "jenis": "kata sifat -i",
+        "bab": 19
+    },
+    "758": {
+        "jpn": "れんしゅう",
+        "romaji": "renshuu",
+        "arti": "latihan (〜をします: berlatih)",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "759": {
+        "jpn": "ゴルフ",
+        "romaji": "gorufu",
+        "arti": "golf (〜をします: bermain golf)",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "760": {
+        "jpn": "すもう",
+        "romaji": "sumou",
+        "arti": "sumo (〜をします: bermain sumo)",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "761": {
+        "jpn": "おちゃ",
+        "romaji": "ocha",
+        "arti": "teh",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "762": {
+        "jpn": "ひ",
+        "romaji": "hi",
+        "arti": "hari",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "763": {
+        "jpn": "ちょうし",
+        "romaji": "choushi",
+        "arti": "kondisi",
+        "jenis": "kata benda",
+        "bab": 19
+    },
+    "764": {
+        "jpn": "いちど",
+        "romaji": "ichido",
+        "arti": "sekali",
+        "jenis": "kata keterangan",
+        "bab": 19
+    },
+    "765": {
+        "jpn": "いちども",
+        "romaji": "ichidomo",
+        "arti": "sekali pun (digunakan dalam kalimat negatif)",
+        "jenis": "kata keterangan",
+        "bab": 19
+    },
+    "766": {
+        "jpn": "だんだん",
+        "romaji": "dandan",
+        "arti": "berangsur-angsur, lama-kelamaan",
+        "jenis": "kata keterangan",
+        "bab": 19
+    },
+    "767": {
+        "jpn": "もうすぐ",
+        "romaji": "mousugu",
+        "arti": "tidak lama lagi",
+        "jenis": "kata keterangan",
+        "bab": 19
+    },
+    "768": {
+        "jpn": "おかげさまで",
+        "romaji": "okagesamade",
+        "arti": "atas berkat (ungkapan terima kasih)",
+        "jenis": "ungkapan",
+        "bab": 19
+    },
+    "769": {
+        "jpn": "でも",
+        "romaji": "demo",
+        "arti": "tetapi",
+        "jenis": "kata sambung",
+        "bab": 19
+    },
+    "770": {
+        "jpn": "いります",
+        "romaji": "irimasu",
+        "arti": "memerlukan [VISA]",
+        "jenis": "kata kerja",
+        "bab": 20
+    },
+    "771": {
+        "jpn": "しらべます",
+        "romaji": "shirabemasu",
+        "arti": "memeriksa, meneliti, mengecek",
+        "jenis": "kata kerja",
+        "bab": 20
+    },
+    "772": {
+        "jpn": "しゅうりします",
+        "romaji": "shuuri shimasu",
+        "arti": "memperbaiki",
+        "jenis": "kata kerja",
+        "bab": 20
+    },
+    "773": {
+        "jpn": "ぼく",
+        "romaji": "boku",
+        "arti": "aku (laki-laki, informal)",
+        "jenis": "kata ganti",
+        "bab": 20
+    },
+    "774": {
+        "jpn": "きみ",
+        "romaji": "kimi",
+        "arti": "kamu (informal)",
+        "jenis": "kata ganti",
+        "bab": 20
+    },
+    "775": {
+        "jpn": "〜くん",
+        "romaji": "~kun",
+        "arti": "Sdr. ~ (sapaan informal, sering untuk anak laki-laki)",
+        "jenis": "akhiran nama",
+        "bab": 20
+    },
+    "776": {
+        "jpn": "うん",
+        "romaji": "un",
+        "arti": "ya (informal)",
+        "jenis": "ungkapan",
+        "bab": 20
+    },
+    "777": {
+        "jpn": "ううん",
+        "romaji": "uun",
+        "arti": "tidak, bukan (informal)",
+        "jenis": "ungkapan",
+        "bab": 20
+    },
+    "778": {
+        "jpn": "ことば",
+        "romaji": "kotoba",
+        "arti": "kata, bahasa",
+        "jenis": "kata benda",
+        "bab": 20
+    },
+    "779": {
+        "jpn": "きもの",
+        "romaji": "kimono",
+        "arti": "kimono (pakaian tradisional Jepang)",
+        "jenis": "kata benda",
+        "bab": 20
+    },
+    "780": {
+        "jpn": "ビザ",
+        "romaji": "biza",
+        "arti": "visa",
+        "jenis": "kata benda",
+        "bab": 20
+    },
+    "781": {
+        "jpn": "はじめ",
+        "romaji": "hajime",
+        "arti": "awal, mula-mula",
+        "jenis": "kata benda",
+        "bab": 20
+    },
+    "782": {
+        "jpn": "おわり",
+        "romaji": "owari",
+        "arti": "akhir",
+        "jenis": "kata benda",
+        "bab": 20
+    },
+    "783": {
+        "jpn": "こっち",
+        "romaji": "kocchi",
+        "arti": "sini (informal)",
+        "jenis": "kata tunjuk",
+        "bab": 20
+    },
+    "784": {
+        "jpn": "そっち",
+        "romaji": "socchi",
+        "arti": "situ (informal)",
+        "jenis": "kata tunjuk",
+        "bab": 20
+    },
+    "785": {
+        "jpn": "あっち",
+        "romaji": "acchi",
+        "arti": "sana (informal)",
+        "jenis": "kata tunjuk",
+        "bab": 20
+    },
+    "786": {
+        "jpn": "どっち",
+        "romaji": "docchi",
+        "arti": "mana (informal)",
+        "jenis": "kata tanya",
+        "bab": 20
+    },
+    "787": {
+        "jpn": "おもいます",
+        "romaji": "omoimasu",
+        "arti": "mengira, berpikir",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "788": {
+        "jpn": "いいます",
+        "romaji": "iimasu",
+        "arti": "mengatakan, berkata",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "789": {
+        "jpn": "かちます",
+        "romaji": "kachimasu",
+        "arti": "menang",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "790": {
+        "jpn": "まけます",
+        "romaji": "makemasu",
+        "arti": "kalah",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "791": {
+        "jpn": "あります",
+        "romaji": "arimasu",
+        "arti": "ada, diadakan (pesta/perayaan)",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "792": {
+        "jpn": "やくにたちます",
+        "romaji": "yakunitachimasu",
+        "arti": "berguna, bermanfaat",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "793": {
+        "jpn": "うごきます",
+        "romaji": "ugokimasu",
+        "arti": "pindah, bergerak",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "794": {
+        "jpn": "やめます",
+        "romaji": "yamemasu",
+        "arti": "berhenti (kerja)",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "795": {
+        "jpn": "きをつけます",
+        "romaji": "ki o tsukemasu",
+        "arti": "berwaspada, berhati-hati",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "796": {
+        "jpn": "りゅうがくします",
+        "romaji": "ryuugaku shimasu",
+        "arti": "studi di luar negeri",
+        "jenis": "kata kerja",
+        "bab": 21
+    },
+    "797": {
+        "jpn": "むだな",
+        "romaji": "mudana",
+        "arti": "sia-sia, tidak berguna",
+        "jenis": "kata sifat -na",
+        "bab": 21
+    },
+    "798": {
+        "jpn": "ふべんな",
+        "romaji": "fubenna",
+        "arti": "tidak praktis",
+        "jenis": "kata sifat -na",
+        "bab": 21
+    },
+    "799": {
+        "jpn": "すごい",
+        "romaji": "sugoi",
+        "arti": "hebat, luar biasa",
+        "jenis": "kata sifat -i",
+        "bab": 21
+    },
+    "800": {
+        "jpn": "ほんとう",
+        "romaji": "hontou",
+        "arti": "betul, benar",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "801": {
+        "jpn": "うそ",
+        "romaji": "uso",
+        "arti": "bohong",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "802": {
+        "jpn": "じどうしゃ",
+        "romaji": "jidousha",
+        "arti": "mobil",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "803": {
+        "jpn": "こうつう",
+        "romaji": "koutsuu",
+        "arti": "lalu lintas",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "804": {
+        "jpn": "ぶっか",
+        "romaji": "bukka",
+        "arti": "harga barang",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "805": {
+        "jpn": "ほうそう",
+        "romaji": "housou",
+        "arti": "siaran, pengumuman",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "806": {
+        "jpn": "ニュース",
+        "romaji": "nyuusu",
+        "arti": "berita",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "807": {
+        "jpn": "アニメ",
+        "romaji": "anime",
+        "arti": "animasi",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "808": {
+        "jpn": "マンガ",
+        "romaji": "manga",
+        "arti": "komik, manga",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "809": {
+        "jpn": "デザイン",
+        "romaji": "dezain",
+        "arti": "desain, model",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "810": {
+        "jpn": "ゆめ",
+        "romaji": "yume",
+        "arti": "mimpi",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "811": {
+        "jpn": "てんさい",
+        "romaji": "tensai",
+        "arti": "genius",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "812": {
+        "jpn": "しあい",
+        "romaji": "shiai",
+        "arti": "pertandingan",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "813": {
+        "jpn": "いけん",
+        "romaji": "iken",
+        "arti": "pendapat",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "814": {
+        "jpn": "はなし",
+        "romaji": "hanashi",
+        "arti": "cerita, pembicaraan",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "815": {
+        "jpn": "ちきゅう",
+        "romaji": "chikyuu",
+        "arti": "bumi",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "816": {
+        "jpn": "つき",
+        "romaji": "tsuki",
+        "arti": "bulan",
+        "jenis": "kata benda",
+        "bab": 21
+    },
+    "817": {
+        "jpn": "さいきん",
+        "romaji": "saikin",
+        "arti": "akhir-akhir ini",
+        "jenis": "kata keterangan",
+        "bab": 21
+    },
+    "818": {
+        "jpn": "たぶん",
+        "romaji": "tabun",
+        "arti": "mungkin, barangkali",
+        "jenis": "kata keterangan",
+        "bab": 21
+    },
+    "819": {
+        "jpn": "きっと",
+        "romaji": "kitto",
+        "arti": "pasti",
+        "jenis": "kata keterangan",
+        "bab": 21
+    },
+    "820": {
+        "jpn": "ほんとうに",
+        "romaji": "hontou ni",
+        "arti": "betul-betul",
+        "jenis": "kata keterangan",
+        "bab": 21
+    },
+    "821": {
+        "jpn": "そんなに",
+        "romaji": "sonnani",
+        "arti": "tidak begitu (diikuti bentuk negatif)",
+        "jenis": "kata keterangan",
+        "bab": 21
+    },
+    "822": {
+        "jpn": "について",
+        "romaji": "ni tsuite",
+        "arti": "tentang, mengenai",
+        "jenis": "partikel",
+        "bab": 21
+    },
+    "823": {
+        "jpn": "きます",
+        "romaji": "kimasu",
+        "arti": "memakai (kemeja)",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "824": {
+        "jpn": "はきます",
+        "romaji": "hakimasu",
+        "arti": "memakai (sepatu, celana)",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "825": {
+        "jpn": "かぶります",
+        "romaji": "kaburimasu",
+        "arti": "memakai (topi)",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "826": {
+        "jpn": "かけます",
+        "romaji": "kakemasu",
+        "arti": "memakai (kaca mata)",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "827": {
+        "jpn": "します",
+        "romaji": "shimasu",
+        "arti": "memakai (dasi)",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "828": {
+        "jpn": "うまれます",
+        "romaji": "umaremasu",
+        "arti": "lahir",
+        "jenis": "kata kerja",
+        "bab": 22
+    },
+    "829": {
+        "jpn": "わたしたち",
+        "romaji": "watashitachi",
+        "arti": "kami, kita",
+        "jenis": "kata ganti",
+        "bab": 22
+    },
+    "830": {
+        "jpn": "コート",
+        "romaji": "kooto",
+        "arti": "mantel",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "831": {
+        "jpn": "セーター",
+        "romaji": "seetaa",
+        "arti": "sweater, baju hangat",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "832": {
+        "jpn": "スーツ",
+        "romaji": "suutsu",
+        "arti": "pakaian setelan",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "833": {
+        "jpn": "ぼうし",
+        "romaji": "boushi",
+        "arti": "topi",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "834": {
+        "jpn": "めがね",
+        "romaji": "megane",
+        "arti": "kaca mata",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "835": {
+        "jpn": "ケーキ",
+        "romaji": "keeki",
+        "arti": "kue",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "836": {
+        "jpn": "おべんとう",
+        "romaji": "obentou",
+        "arti": "bekal",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "837": {
+        "jpn": "ロボット",
+        "romaji": "robotto",
+        "arti": "robot",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "838": {
+        "jpn": "ユーモア",
+        "romaji": "yuumoa",
+        "arti": "humor",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "839": {
+        "jpn": "つごう",
+        "romaji": "tsugou",
+        "arti": "kondisi",
+        "jenis": "kata benda",
+        "bab": 22
+    },
+    "840": {
+        "jpn": "よく",
+        "romaji": "yoku",
+        "arti": "sering kali",
+        "jenis": "kata keterangan",
+        "bab": 22
+    },
+    "841": {
+        "jpn": "ききます",
+        "romaji": "kikimasu",
+        "arti": "bertanya (kepada guru)",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "842": {
+        "jpn": "まわします",
+        "romaji": "mawashimasu",
+        "arti": "memutar",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "843": {
+        "jpn": "ひきます",
+        "romaji": "hikimasu",
+        "arti": "tarik",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "844": {
+        "jpn": "かえます",
+        "romaji": "kaemasu",
+        "arti": "mengubah",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "845": {
+        "jpn": "さわります",
+        "romaji": "sawarimasu",
+        "arti": "menyentuh",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "846": {
+        "jpn": "でます",
+        "romaji": "demasu",
+        "arti": "keluar (uang kembalian)",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "847": {
+        "jpn": "あるきます",
+        "romaji": "arukimasu",
+        "arti": "berjalan kaki",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "848": {
+        "jpn": "わたります",
+        "romaji": "watarimasu",
+        "arti": "menyeberang (jembatan)",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "849": {
+        "jpn": "まがります",
+        "romaji": "magarimasu",
+        "arti": "belok (ke kanan)",
+        "jenis": "kata kerja",
+        "bab": 23
+    },
+    "850": {
+        "jpn": "さびしい",
+        "romaji": "sabishii",
+        "arti": "sepi",
+        "jenis": "kata sifat",
+        "bab": 23
+    },
+    "851": {
+        "jpn": "おゆ",
+        "romaji": "oyu",
+        "arti": "air panas",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "852": {
+        "jpn": "おと",
+        "romaji": "oto",
+        "arti": "bunyi, suara",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "853": {
+        "jpn": "サイズ",
+        "romaji": "saizu",
+        "arti": "ukuran",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "854": {
+        "jpn": "こしょう",
+        "romaji": "koshou",
+        "arti": "kerusakan",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "855": {
+        "jpn": "みち",
+        "romaji": "michi",
+        "arti": "jalan",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "856": {
+        "jpn": "こうさてん",
+        "romaji": "kousaten",
+        "arti": "perempatan",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "857": {
+        "jpn": "しんごう",
+        "romaji": "shingou",
+        "arti": "lampu lalu lintas",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "858": {
+        "jpn": "かど",
+        "romaji": "kado",
+        "arti": "sudut",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "859": {
+        "jpn": "はし",
+        "romaji": "hashi",
+        "arti": "jembatan",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "860": {
+        "jpn": "ちゅうしゃじょう",
+        "romaji": "chuushajou",
+        "arti": "tempat parkir",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "861": {
+        "jpn": "たてもの",
+        "romaji": "tatemono",
+        "arti": "gedung",
+        "jenis": "kata benda",
+        "bab": 23
+    },
+    "862": {
+        "jpn": "なんかいも",
+        "romaji": "nankaimo",
+        "arti": "berkali-kali",
+        "jenis": "kata keterangan",
+        "bab": 23
+    },
+    "863": {
+        "jpn": "ーめ",
+        "romaji": "-me",
+        "arti": "yang ke- (urutan)",
+        "jenis": "akhiran",
+        "bab": 23
+    },
+    "864": {
+        "jpn": "くれます",
+        "romaji": "kuremasu",
+        "arti": "diberikan",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "865": {
+        "jpn": "なおします",
+        "romaji": "naoshimasu",
+        "arti": "mengoreksi",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "866": {
+        "jpn": "つれていきます",
+        "romaji": "tsurete ikimasu",
+        "arti": "membawa, mengajak pergi",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "867": {
+        "jpn": "つれてきます",
+        "romaji": "tsurete kimasu",
+        "arti": "membawa datang, mengajak datang",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "868": {
+        "jpn": "おくります",
+        "romaji": "okurimasu",
+        "arti": "mengantar (orang)",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "869": {
+        "jpn": "しょうかいします",
+        "romaji": "shoukai shimasu",
+        "arti": "memperkenalkan",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "870": {
+        "jpn": "あんないします",
+        "romaji": "anna i shimasu",
+        "arti": "mengantarkan",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "871": {
+        "jpn": "せつめいします",
+        "romaji": "setsumei shimasu",
+        "arti": "menjelaskan, menerangkan",
+        "jenis": "kata kerja",
+        "bab": 24
+    },
+    "872": {
+        "jpn": "おじいさん",
+        "romaji": "ojiisan",
+        "arti": "kakek",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "873": {
+        "jpn": "おばあさん",
+        "romaji": "obaasan",
+        "arti": "nenek",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "874": {
+        "jpn": "じゅんび",
+        "romaji": "junbi",
+        "arti": "persiapan",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "875": {
+        "jpn": "ひっこし",
+        "romaji": "hikkoshi",
+        "arti": "pindah rumah",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "876": {
+        "jpn": "おかし",
+        "romaji": "okashi",
+        "arti": "kue",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "877": {
+        "jpn": "ホームステイ",
+        "romaji": "hoomusutei",
+        "arti": "homestay",
+        "jenis": "kata benda",
+        "bab": 24
+    },
+    "878": {
+        "jpn": "ぜんぶ",
+        "romaji": "zenbu",
+        "arti": "semua",
+        "jenis": "kata keterangan",
+        "bab": 24
+    },
+    "879": {
+        "jpn": "じぶんで",
+        "romaji": "jibun de",
+        "arti": "dengan sendiri",
+        "jenis": "kata keterangan",
+        "bab": 24
+    },
+    "880": {
+        "jpn": "かんがえます",
+        "romaji": "kangaemasu",
+        "arti": "berpikir, memikirkan",
+        "jenis": "kata kerja",
+        "bab": 25
+    },
+    "881": {
+        "jpn": "つきます",
+        "romaji": "tsukimasu",
+        "arti": "tiba, sampai",
+        "jenis": "kata kerja",
+        "bab": 25
+    },
+    "882": {
+        "jpn": "とります",
+        "romaji": "torimasu",
+        "arti": "berumur, lanjut usia",
+        "jenis": "kata kerja",
+        "bab": 25
+    },
+    "883": {
+        "jpn": "たります",
+        "romaji": "tarimasu",
+        "arti": "cukup",
+        "jenis": "kata kerja",
+        "bab": 25
+    },
+    "884": {
+        "jpn": "いなか",
+        "romaji": "inaka",
+        "arti": "desa, kampung halaman",
+        "jenis": "kata benda",
+        "bab": 25
+    },
+    "885": {
+        "jpn": "チャンス",
+        "romaji": "chansu",
+        "arti": "kesempatan",
+        "jenis": "kata benda",
+        "bab": 25
+    },
+    "886": {
+        "jpn": "おく",
+        "romaji": "oku",
+        "arti": "ratus juta",
+        "jenis": "kata benda",
+        "bab": 25
+    },
+    "887": {
+        "jpn": "もし",
+        "romaji": "moshi",
+        "arti": "kalau",
+        "jenis": "kata keterangan",
+        "bab": 25
+    },
+    "888": {
+        "jpn": "いみ",
+        "romaji": "imi",
+        "arti": "arti, makna",
+        "jenis": "kata benda",
+        "bab": 25
+    }
+}
